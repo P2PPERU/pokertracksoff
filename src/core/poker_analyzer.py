@@ -3,6 +3,7 @@ import threading
 import pyperclip
 import pyautogui
 import win32gui  # Añadir esta importación
+from tkinter import ttk
 from datetime import datetime
 
 from src.utils.logger import log_message
@@ -164,12 +165,19 @@ def analyze_table(hwnd, config, manual_nick=None, force_new_capture=False):
             
             # 7. Actualizar UI si es necesario
             try:
-                # Programar actualización segura del historial
-                from src.ui.main_window import root, update_history_ui
-                if root and root.winfo_exists():
-                    root.after(100, update_history_ui)
+                # Importar main_window donde se define history_tree
+                from src.ui.main_window import root, history_tree
+                from src.ui.tabs.history_tab import update_history_treeview
+                
+                # Verificar que root y history_tree existen
+                if root and root.winfo_exists() and history_tree and history_tree.winfo_exists():
+                    # Usar history_tree directamente en lugar de buscarla
+                    root.after(1, lambda: update_history_treeview(history_tree))
+                    log_message("Actualización de historial programada directamente")
+                else:
+                    log_message("No se pudo acceder al widget de historial", level='warning')
             except Exception as ui_error:
-                log_message(f"Error al actualizar UI del historial: {ui_error}", level='warning')
+                log_message(f"Error al programar actualización de UI: {ui_error}", level='error')
             
             log_message("Análisis completado con éxito")
             return True

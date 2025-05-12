@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import ttk, messagebox
 from src.utils.logger import log_message
-from src.core.history_manager import load_history, save_history
+from src.core.history_manager import load_history, save_history, clear_history as clear_hist
 from src.ui.dialogs.details_dialog import show_details_dialog
 import threading
 
@@ -80,8 +80,7 @@ def create_history_tab(parent, config):
     # Botón para limpiar historial
     def clear_history():
         if messagebox.askyesno("Confirmar", "¿Estás seguro de querer borrar todo el historial?"):
-            from src.core.history_manager import clear_history
-            clear_history()
+            clear_hist()
             update_history_treeview(history_tree)
     
     ttk.Button(frame_buttons, text="Limpiar Historial", 
@@ -98,40 +97,76 @@ def create_history_tab(parent, config):
 
 def update_history_treeview(tree, search_text=None):
     """Actualiza el treeview con los datos del historial"""
-    # Limpiar treeview
-    for item in tree.get_children():
-        tree.delete(item)
+    from src.utils.logger import log_message
     
-    # Cargar historial
-    history = load_history()
-    
-    if not history:
-        log_message("No hay entradas en el historial")
-        return
-    
-    # Filtrar por búsqueda si es necesario
-    filtered_entries = []
-    
-    if search_text:
-        for entry in history:
-            nick = entry.get("nick", "").lower()
-            stats = entry.get("stats", "").lower()
-            analysis = entry.get("analisis", "").lower()
-            
-            if (search_text in nick or search_text in stats or search_text in analysis):
-                filtered_entries.append(entry)
-    else:
-        filtered_entries = history
-    
-    # Mostrar resultados
-    if filtered_entries:
-        for entry in reversed(filtered_entries):  # Más recientes primero
-            timestamp = entry.get("timestamp", "Sin fecha")
-            nick = entry.get("nick", "Sin nick")
-            sala = entry.get("sala", "---")
-            stats = entry.get("stats", "Sin stats")
-            
-            tree.insert("", "end", values=(timestamp, nick, sala, stats))
-    else:
+    try:
+        # Verificar que el tree existe y es válido
+        if not tree or not tree.winfo_exists():
+            log_message("No se puede actualizar historial: widget no existe", level='warning')
+            return
+        
+        # Limpiar treeview
+        for item in tree.get_children():
+            tree.delete(item)
+        
+        # Cargar historial 
+        history = load_history()
+        
+        if not history:
+            log_message("No hay entradas en el historial")
+            tree.insert("", "end", values=("", "El historial está vacío", "", ""))
+            return
+        
+        log_message(f"Actualizando treeview con {len(history)} entradas de historial")
+        
+        # Filtrar por búsqueda si es necesario
+        filtered_entries = []
+        
         if search_text:
-            tree.insert("", "end", values=("", "No se encontraron resultados", "", ""))
+            log_message(f"Buscando '{search_text}' en historial")
+            for entry in history:
+                try:
+                    # Extraer campos con manejo de errores
+                    nick = entry.get("nick", "").lower()
+                    stats = entry.get("stats", "").lower()
+                    analysis = entry.get("analisis", "").lower()
+                    
+                    # Buscar en todos los campos
+                    if (search_text in nick or 
+                        search_text in stats or 
+                        search_text in analysis):
+                        filtered_entries.append(entry)
+                except Exception as e:
+                    log_message(f"Error al procesar entrada en búsqueda: {e}", level='error')
+                    continue
+        else:
+            filtered_entries = history
+        
+        # Mostrar resultados
+        if filtered_entries:
+            for entry in reversed(filtered_entries):  # Más recientes primero
+                try:
+                    # Extraer datos con validación
+                    timestamp = entry.get("timestamp", "Sin fecha")
+                    nick = entry.get("nick", "Sin nick")
+                    sala = entry.get("sala", "---")
+                    stats = entry.get("stats", "Sin stats")
+                    
+                    tree.insert("", "end", values=(timestamp, nick, sala, stats))
+                except Exception as e:
+                    log_message(f"Error al insertar entrada en historial_tree: {e}", level='error')
+                    continue
+            
+            log_message(f"Se mostraron {len(filtered_entries)} entradas en el historial")
+        else:
+            if search_text:
+                tree.insert("", "end", values=("", "No se encontraron resultados", "", ""))
+                log_message("Búsqueda sin resultados")
+            else:
+                tree.insert("", "end", values=("", "El historial está vacío", "", ""))
+                log_message("Historial vacío o inaccesible")
+    
+    except Exception as e:
+        log_message(f"Error al actualizar historial UI: {e}", level='error')
+        import traceback
+        log_message(traceback.format_exc(), level='error')

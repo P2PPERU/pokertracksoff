@@ -1,23 +1,23 @@
 [
     {
-        "timestamp": "2025-05-12 11:13:35",
-        "nick": "Godford",
-        "stats": "VPIP:26 PFR:13 3B:4 F3B:49 WTSD:23 WSD:54 CB:51/37",
-        "analisis": "🎯 Informe sobre Godford:\n\n1️⃣ Estilo de juego: Pasivo preflop, agresivo postflop.\n\n2️⃃ Errores explotables:\n- PFR muy bajo en comparación con VPIP.\n- Fold to 3-Bet por debajo del promedio.\n- Baja agresión en turn.\n\n3️⃃ Cómo explotarlo:\n- Aumentar 3-Bet vs sus opens.\n- Flotar más sus cbets en flop.\n- Aprovechar su debilidad en turn con más floats y check-raises.",
+        "timestamp": "2025-05-12 12:14:59",
+        "nick": "big whale",
+        "stats": "VPIP:65 PFR:7 3B:2 F3B:8 WTSD:34 WSD:50 CB:64/51",
+        "analisis": "🎯 Informe sobre big whale:\n\n1️⃣ Estilo de juego: \nMuy pasivo con VPIP alto y PFR bajo, se frena en turn.\n\n2️⃣ Errores explotables:\n- Pasivo preflop con VPIP alto.\n- No defiende vs 3-Bet y fold to 4-Bet bajo.\n- C-Bet flop alto pero se frena en turn.\n\n3️⃣ Cómo explotarlo:\nAprovecha su pasividad 3-Beteando más, flotando flops secos y barreleando turns con mayor frecuencia.",
         "sala": "XPK"
     },
     {
-        "timestamp": "2025-05-12 11:44:51",
-        "nick": "Saitama",
-        "stats": "VPIP:27 PFR:15 3B:7 F3B:48 WTSD:28 WSD:47 CB:61/44",
-        "analisis": "🎯 Informe sobre Saitama:\n\n1️⃣ Estilo de juego: Pasivo preflop con agresión inconsistente postflop.\n\n2️⃣ Errores explotables:\n- PFR bajo con alto VPIP, muchas veces LAG postflop.\n- C-Bet flop alto pero se frena en turn, exploitable con floats.\n- Fold al 3-Bet por debajo de 50%, vulnerable a 3B light.\n\n3️⃣ Cómo explotarlo:\n- Aumenta agresividad preflop, 3Btea más.\n- Flota flop con draws y manos medias.\n- Aprovecha su debilidad vs 3-Bets con 3B light en posiciones.\n\nSample bajo, ajustes preliminares.",
+        "timestamp": "2025-05-12 12:16:14",
+        "nick": "Sb1111",
+        "stats": "VPIP:52 PFR:19 3B:6 F3B:47 WTSD:25 WSD:37 CB:90/42",
+        "analisis": "🎯 Informe sobre Sb1111:\n\n1️⃣ Estilo de juego: Pasivo-agresivo, jugando muchas manos pero sin mucha agresión postflop.\n\n2️⃃ Errores explotables:\n- C-Bet Turn baja, se frena en la calle.\n- Fold to 3-Bet por debajo del promedio.\n- WTSD alto, paga mucho pero no gana tanto.\n\n3️⃃ Cómo explotarlo:\n- Aprovecha su pasividad en turn con floats y check-raises.\n- Aumenta la frecuencia de 3-Bets en posición.\n- Valora más tus manos en showdown, puede estar pagando con manos débiles.",
         "sala": "XPK"
     },
     {
-        "timestamp": "2025-05-12 11:47:05",
-        "nick": "Godford",
-        "stats": "VPIP:26 PFR:13 3B:4 F3B:49 WTSD:23 WSD:54 CB:51/37",
-        "analisis": "🎯 Informe sobre Godford:\n\n1️⃣ Estilo de juego: Pasivo preflop con agresión inconsistente postflop.\n\n2️⃃ Errores explotables:\n- PFR bajo indica que es pasivo preflop.\n- C-Bet flop alta pero frena en turn, falta de agresión.\n- WTSD alto + WSD bajo = paga mucho, gana poco.\n\n3️⃃ Cómo explotarlo:\n- Aprovecha su pasividad preflop con 3-bets más amplios.\n- Flota sus C-Bets y apuesta en turn cuando se frena.\n- Valora tus manos fuertes contra él, ya que paga mucho pero gana poco en el showdown.",
+        "timestamp": "2025-05-12 12:22:19",
+        "nick": "Sb1111",
+        "stats": "VPIP:52 PFR:19 3B:6 F3B:47 WTSD:25 WSD:37 CB:90/42",
+        "analisis": "🎯 Informe sobre Sb1111:\n\n1️⃣ Estilo de juego: Pasivo preflop, agresivo postflop.\n\n2️⃣ Errores explotables:\n- PFR bajo en comparación con VPIP.\n- Fold to 3-Bet por debajo del promedio.\n- Baja agresión en turn después de hacer C-Bet flop.\n\n3️⃣ Cómo explotarlo:\n- Aumentar 3-Bet en posiciones oportunas.\n- Aprovechar su debilidad en turn con más floats y semibluffs.\n- Aumentar la presión postflop en general, especialmente en turn. \n\n*Sample bajo, ajustes preliminares.",
         "sala": "XPK"
     }
 ]

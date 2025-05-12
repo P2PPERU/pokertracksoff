@@ -588,3 +588,131 @@ UnboundLocalError: local variable 'win32gui' referenced before assignment
 2025-05-12 11:47:05 - INFO - Texto pegado en ventana de poker
 2025-05-12 11:47:05 - INFO - Historial guardado: 3 entradas
 2025-05-12 11:47:05 - INFO - Análisis completado con éxito
+2025-05-12 12:12:05 - INFO - Iniciando PokerBot Pro...
+2025-05-12 12:12:06 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-12 12:12:06 - INFO - Iniciando listener de clic derecho
+2025-05-12 12:12:06 - INFO - Hotkey alt+q registrado correctamente
+2025-05-12 12:12:07 - INFO - Actualizando treeview con 3 entradas de historial
+2025-05-12 12:12:07 - INFO - Se mostraron 3 entradas en el historial
+2025-05-12 12:12:07 - INFO - Hotkey alt+q registrada correctamente
+2025-05-12 12:12:07 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-12 12:12:07 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-12 12:12:19 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-12 12:12:19 - INFO - Mesa encontrada: 2/4 ♠️♥️♣️♦️🔥🇲🇾
+2025-05-12 12:12:19 - INFO - Iniciando análisis de mesa
+2025-05-12 12:12:19 - INFO - Leyendo nick...
+2025-05-12 12:12:20 - INFO - PaddleOCR detectó: 'Sb1111' (confianza: 1.00)
+2025-05-12 12:12:20 - INFO - Nick final: 'Sb1111'
+2025-05-12 12:12:20 - INFO - Nick detectado: 'Sb1111'
+2025-05-12 12:12:20 - INFO - Stats: VPIP:52 PFR:19 3B:6 F3B:47 WTSD:25 WSD:37 CB:90/42
+2025-05-12 12:12:20 - INFO - Análisis: ⚠️ Error al analizar: name 'time' is not defined......
+2025-05-12 12:12:21 - INFO - Texto pegado en ventana de poker
+2025-05-12 12:12:21 - INFO - Historial guardado: 4 entradas
+2025-05-12 12:12:21 - INFO - Análisis completado con éxito
+2025-05-12 12:12:21 - WARNING - No se encontró el widget de historial para actualizar
+2025-05-12 12:12:56 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-12 12:12:56 - INFO - Mesa encontrada: 2/4 ♠️♥️♣️♦️🔥🇲🇾
+2025-05-12 12:12:56 - INFO - Iniciando análisis de mesa
+2025-05-12 12:12:56 - INFO - Detectado cambio de jugador en la misma ventana
+2025-05-12 12:12:56 - INFO - La ventana cambió, obteniendo nuevo nick...
+2025-05-12 12:12:56 - INFO - Leyendo nick...
+2025-05-12 12:12:56 - ERROR - Error en PaddleOCR: could not execute a primitive
+2025-05-12 12:12:57 - INFO - Tesseract detectó: 'big whale'
+2025-05-12 12:12:57 - INFO - Nick final: 'big whale'
+2025-05-12 12:12:57 - INFO - Nick detectado: 'big whale'
+2025-05-12 12:12:58 - INFO - Stats: VPIP:65 PFR:7 3B:2 F3B:8 WTSD:34 WSD:50 CB:64/51
+2025-05-12 12:12:58 - INFO - Análisis: ⚠️ Error al analizar: name 'time' is not defined......
+2025-05-12 12:12:59 - INFO - Texto pegado en ventana de poker
+2025-05-12 12:12:59 - INFO - Historial guardado: 5 entradas
+2025-05-12 12:12:59 - INFO - Análisis completado con éxito
+2025-05-12 12:12:59 - WARNING - No se encontró el widget de historial para actualizar
+2025-05-12 12:14:25 - INFO - Iniciando PokerBot Pro...
+2025-05-12 12:14:26 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-12 12:14:26 - INFO - Iniciando listener de clic derecho
+2025-05-12 12:14:26 - INFO - Hotkey alt+q registrado correctamente
+2025-05-12 12:14:26 - INFO - Actualizando treeview con 5 entradas de historial
+2025-05-12 12:14:26 - INFO - Se mostraron 5 entradas en el historial
+2025-05-12 12:14:26 - INFO - Hotkey alt+q registrada correctamente
+2025-05-12 12:14:26 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-12 12:14:26 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-12 12:14:34 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-12 12:14:34 - INFO - Mesa encontrada: 2/4 ♠️♥️♣️♦️🔥🇲🇾
+2025-05-12 12:14:34 - INFO - Iniciando análisis de mesa
+2025-05-12 12:14:34 - INFO - Leyendo nick...
+2025-05-12 12:14:34 - INFO - PaddleOCR detectó: 'big whale' (confianza: 0.99)
+2025-05-12 12:14:34 - INFO - Nick final: 'big whale'
+2025-05-12 12:14:34 - INFO - Nick detectado: 'big whale'
+2025-05-12 12:14:37 - INFO - Stats: VPIP:65 PFR:7 3B:2 F3B:8 WTSD:34 WSD:50 CB:64/51
+2025-05-12 12:14:37 - INFO - Análisis: 🎯 Informe sobre big whale:
+
+1️⃣ Estilo de juego: Muy pasivo, jugando muchas manos pero sin agresión ...
+2025-05-12 12:14:37 - INFO - Texto pegado en ventana de poker
+2025-05-12 12:14:37 - INFO - Historial guardado: 6 entradas
+2025-05-12 12:14:37 - INFO - Análisis completado con éxito
+2025-05-12 12:14:37 - WARNING - No se encontró el widget de historial para actualizar
+2025-05-12 12:14:54 - INFO - Historial guardado: 0 entradas
+2025-05-12 12:14:54 - INFO - Historial limpiado completamente
+2025-05-12 12:14:54 - INFO - No hay entradas en el historial
+2025-05-12 12:14:57 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-12 12:14:57 - INFO - Mesa encontrada: 2/4 ♠️♥️♣️♦️🔥🇲🇾
+2025-05-12 12:14:57 - INFO - Iniciando análisis de mesa
+2025-05-12 12:14:57 - INFO - Nick recuperado de caché: 'big whale'
+2025-05-12 12:14:59 - INFO - Stats: VPIP:65 PFR:7 3B:2 F3B:8 WTSD:34 WSD:50 CB:64/51
+2025-05-12 12:14:59 - INFO - Análisis: 🎯 Informe sobre big whale:
+
+1️⃣ Estilo de juego: 
+Muy pasivo con VPIP alto y PFR bajo, se frena en t...
+2025-05-12 12:14:59 - INFO - Texto pegado en ventana de poker
+2025-05-12 12:14:59 - INFO - Historial guardado: 1 entradas
+2025-05-12 12:14:59 - INFO - Análisis completado con éxito
+2025-05-12 12:14:59 - WARNING - No se encontró el widget de historial para actualizar
+2025-05-12 12:15:57 - INFO - Iniciando PokerBot Pro...
+2025-05-12 12:15:58 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-12 12:15:58 - INFO - Iniciando listener de clic derecho
+2025-05-12 12:15:59 - INFO - Hotkey alt+q registrado correctamente
+2025-05-12 12:15:59 - INFO - Actualizando treeview con 1 entradas de historial
+2025-05-12 12:15:59 - INFO - Se mostraron 1 entradas en el historial
+2025-05-12 12:15:59 - INFO - Hotkey alt+q registrada correctamente
+2025-05-12 12:15:59 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-12 12:15:59 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-12 12:16:12 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-12 12:16:12 - INFO - Mesa encontrada: 2/4 ♠️♥️♣️♦️🔥🇲🇾
+2025-05-12 12:16:12 - INFO - Iniciando análisis de mesa
+2025-05-12 12:16:12 - INFO - Leyendo nick...
+2025-05-12 12:16:12 - INFO - PaddleOCR detectó: 'Sb1111' (confianza: 1.00)
+2025-05-12 12:16:12 - INFO - Nick final: 'Sb1111'
+2025-05-12 12:16:12 - INFO - Nick detectado: 'Sb1111'
+2025-05-12 12:16:14 - INFO - Stats: VPIP:52 PFR:19 3B:6 F3B:47 WTSD:25 WSD:37 CB:90/42
+2025-05-12 12:16:14 - INFO - Análisis: 🎯 Informe sobre Sb1111:
+
+1️⃣ Estilo de juego: Pasivo-agresivo, jugando muchas manos pero sin mucha a...
+2025-05-12 12:16:14 - INFO - Texto pegado en ventana de poker
+2025-05-12 12:16:14 - INFO - Historial guardado: 2 entradas
+2025-05-12 12:16:14 - INFO - Análisis completado con éxito
+2025-05-12 12:16:14 - WARNING - No se encontró el widget de historial para actualizar
+2025-05-12 12:22:01 - INFO - Iniciando PokerBot Pro...
+2025-05-12 12:22:02 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-12 12:22:02 - INFO - Iniciando listener de clic derecho
+2025-05-12 12:22:02 - INFO - Hotkey alt+q registrado correctamente
+2025-05-12 12:22:02 - INFO - Actualizando treeview con 2 entradas de historial
+2025-05-12 12:22:02 - INFO - Se mostraron 2 entradas en el historial
+2025-05-12 12:22:03 - INFO - Hotkey alt+q registrada correctamente
+2025-05-12 12:22:03 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-12 12:22:03 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-12 12:22:16 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-12 12:22:16 - INFO - Mesa encontrada: 2/4 ♠️♥️♣️♦️🔥🇲🇾
+2025-05-12 12:22:16 - INFO - Iniciando análisis de mesa
+2025-05-12 12:22:16 - INFO - Leyendo nick...
+2025-05-12 12:22:17 - INFO - PaddleOCR detectó: 'Sb1111' (confianza: 1.00)
+2025-05-12 12:22:17 - INFO - Nick final: 'Sb1111'
+2025-05-12 12:22:17 - INFO - Nick detectado: 'Sb1111'
+2025-05-12 12:22:18 - INFO - Stats: VPIP:52 PFR:19 3B:6 F3B:47 WTSD:25 WSD:37 CB:90/42
+2025-05-12 12:22:18 - INFO - Análisis: 🎯 Informe sobre Sb1111:
+
+1️⃣ Estilo de juego: Pasivo preflop, agresivo postflop.
+
+2️⃣ Errores explot...
+2025-05-12 12:22:19 - INFO - Texto pegado en ventana de poker
+2025-05-12 12:22:19 - INFO - Historial guardado: 3 entradas
+2025-05-12 12:22:19 - WARNING - No se pudo acceder al widget de historial
+2025-05-12 12:22:19 - INFO - Análisis completado con éxito
