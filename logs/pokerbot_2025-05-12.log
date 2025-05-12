@@ -2,3 +2,589 @@
 2025-05-12 10:21:58 - INFO - No hay entradas en el historial
 2025-05-12 10:25:01 - INFO - Iniciando PokerBot Pro...
 2025-05-12 10:25:02 - INFO - No hay entradas en el historial
+2025-05-12 10:57:54 - INFO - Iniciando PokerBot Pro...
+2025-05-12 10:57:55 - INFO - Iniciando listener de clic derecho
+2025-05-12 10:57:55 - INFO - Hotkey alt+q registrado correctamente
+2025-05-12 10:57:56 - INFO - No hay entradas en el historial
+2025-05-12 10:57:56 - CRITICAL - Error crítico en la aplicación: can't add .!notebook.!canvas.!frame as slave of .!notebook
+2025-05-12 10:57:56 - CRITICAL - Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\main.py", line 213, in main
+    create_main_window(config)
+  File "C:\Users\USER\Desktop\pokerprosof\src\ui\main_window.py", line 47, in create_main_window
+    tab_control.add(config_tab, text='Configuración')
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\tkinter\ttk.py", line 839, in add
+    self.tk.call(self._w, "add", child, *(_format_optdict(kw)))
+_tkinter.TclError: can't add .!notebook.!canvas.!frame as slave of .!notebook
+
+2025-05-12 10:58:24 - INFO - Iniciando PokerBot Pro...
+2025-05-12 10:58:26 - INFO - Iniciando listener de clic derecho
+2025-05-12 10:58:26 - INFO - Hotkey alt+q registrado correctamente
+2025-05-12 10:58:26 - INFO - No hay entradas en el historial
+2025-05-12 10:58:26 - CRITICAL - Error crítico en la aplicación: can't add .!notebook.!canvas.!frame as slave of .!notebook
+2025-05-12 10:58:26 - CRITICAL - Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\main.py", line 213, in main
+    create_main_window(config)
+  File "C:\Users\USER\Desktop\pokerprosof\src\ui\main_window.py", line 47, in create_main_window
+    tab_control.add(config_tab, text='Configuración')
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\tkinter\ttk.py", line 839, in add
+    self.tk.call(self._w, "add", child, *(_format_optdict(kw)))
+_tkinter.TclError: can't add .!notebook.!canvas.!frame as slave of .!notebook
+
+2025-05-12 10:59:56 - INFO - Iniciando PokerBot Pro...
+2025-05-12 10:59:57 - INFO - Iniciando listener de clic derecho
+2025-05-12 10:59:57 - INFO - Hotkey alt+q registrado correctamente
+2025-05-12 10:59:57 - INFO - No hay entradas en el historial
+2025-05-12 10:59:57 - INFO - Hotkey alt+q registrada correctamente
+2025-05-12 10:59:57 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-12 10:59:57 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-12 11:00:47 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-12 11:00:47 - INFO - Mesa encontrada: 12-May#0.5/1 🍀🇲🇾①
+2025-05-12 11:00:47 - INFO - Iniciando análisis de mesa
+2025-05-12 11:00:47 - INFO - Leyendo nick...
+2025-05-12 11:00:49 - ERROR - Error en análisis de mesa: name 'log_message' is not defined
+2025-05-12 11:00:49 - ERROR - Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\ocr_engine.py", line 102, in capture_and_read_nick
+    log_message(f"Tesseract detectó: '{texto.strip()}'")
+NameError: name 'log_message' is not defined
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\ocr_engine.py", line 106, in capture_and_read_nick
+    log_message(f"Error en Tesseract: {e}", level='error')
+NameError: name 'log_message' is not defined
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\poker_analyzer.py", line 97, in analyze_table
+    nick = capture_and_read_nick(hwnd, config["ocr_coords"])
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\ocr_engine.py", line 132, in capture_and_read_nick
+    log_message(f"Error en capture_and_read_nick: {e}", level='error')
+NameError: name 'log_message' is not defined
+
+2025-05-12 11:00:58 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-12 11:00:58 - INFO - Mesa encontrada: 12-May#0.5/1 🍀🇲🇾①
+2025-05-12 11:00:58 - INFO - Iniciando análisis de mesa
+2025-05-12 11:00:58 - INFO - Leyendo nick...
+2025-05-12 11:00:59 - ERROR - Error en análisis de mesa: name 'log_message' is not defined
+2025-05-12 11:00:59 - ERROR - Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\ocr_engine.py", line 102, in capture_and_read_nick
+    log_message(f"Tesseract detectó: '{texto.strip()}'")
+NameError: name 'log_message' is not defined
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\ocr_engine.py", line 106, in capture_and_read_nick
+    log_message(f"Error en Tesseract: {e}", level='error')
+NameError: name 'log_message' is not defined
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\poker_analyzer.py", line 97, in analyze_table
+    nick = capture_and_read_nick(hwnd, config["ocr_coords"])
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\ocr_engine.py", line 132, in capture_and_read_nick
+    log_message(f"Error en capture_and_read_nick: {e}", level='error')
+NameError: name 'log_message' is not defined
+
+2025-05-12 11:01:13 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-12 11:01:13 - INFO - Mesa encontrada: 12-May#0.5/1 🍀🇲🇾①
+2025-05-12 11:01:13 - INFO - Iniciando análisis de mesa
+2025-05-12 11:01:13 - INFO - Leyendo nick...
+2025-05-12 11:01:13 - ERROR - Error en análisis de mesa: name 'log_message' is not defined
+2025-05-12 11:01:13 - ERROR - Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\ocr_engine.py", line 90, in capture_and_read_nick
+    log_message(f"PaddleOCR detectó: '{text}' (confianza: {confidence:.2f})")
+NameError: name 'log_message' is not defined
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\ocr_engine.py", line 92, in capture_and_read_nick
+    log_message(f"Error en PaddleOCR: {e}", level='error')
+NameError: name 'log_message' is not defined
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\poker_analyzer.py", line 97, in analyze_table
+    nick = capture_and_read_nick(hwnd, config["ocr_coords"])
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\ocr_engine.py", line 132, in capture_and_read_nick
+    log_message(f"Error en capture_and_read_nick: {e}", level='error')
+NameError: name 'log_message' is not defined
+
+2025-05-12 11:01:34 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-12 11:01:34 - INFO - Mesa encontrada: 12-May#0.5/1 🍀🇲🇾①
+2025-05-12 11:01:34 - INFO - Iniciando análisis de mesa
+2025-05-12 11:01:34 - INFO - Leyendo nick...
+2025-05-12 11:01:34 - ERROR - Error en análisis de mesa: name 'log_message' is not defined
+2025-05-12 11:01:34 - ERROR - Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\ocr_engine.py", line 82, in capture_and_read_nick
+    result = ocr.ocr(img_np, cls=True)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\site-packages\paddleocr\paddleocr.py", line 766, in ocr
+    dt_boxes, rec_res, _ = self.__call__(img, cls, slice)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\site-packages\paddleocr\tools\infer\predict_system.py", line 109, in __call__
+    dt_boxes, elapse = self.text_detector(img)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\site-packages\paddleocr\tools\infer\predict_det.py", line 396, in __call__
+    dt_boxes, elapse = self.predict(img)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\site-packages\paddleocr\tools\infer\predict_det.py", line 255, in predict
+    self.predictor.run()
+RuntimeError: could not execute a primitive
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\ocr_engine.py", line 92, in capture_and_read_nick
+    log_message(f"Error en PaddleOCR: {e}", level='error')
+NameError: name 'log_message' is not defined
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\poker_analyzer.py", line 97, in analyze_table
+    nick = capture_and_read_nick(hwnd, config["ocr_coords"])
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\ocr_engine.py", line 132, in capture_and_read_nick
+    log_message(f"Error en capture_and_read_nick: {e}", level='error')
+NameError: name 'log_message' is not defined
+
+2025-05-12 11:01:36 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-12 11:01:36 - INFO - Mesa encontrada: 12-May#0.5/1 🍀🇲🇾①
+2025-05-12 11:01:36 - INFO - Iniciando análisis de mesa
+2025-05-12 11:01:36 - INFO - Leyendo nick...
+2025-05-12 11:01:36 - ERROR - Error en análisis de mesa: name 'log_message' is not defined
+2025-05-12 11:01:36 - ERROR - Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\ocr_engine.py", line 90, in capture_and_read_nick
+    log_message(f"PaddleOCR detectó: '{text}' (confianza: {confidence:.2f})")
+NameError: name 'log_message' is not defined
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\ocr_engine.py", line 92, in capture_and_read_nick
+    log_message(f"Error en PaddleOCR: {e}", level='error')
+NameError: name 'log_message' is not defined
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\poker_analyzer.py", line 97, in analyze_table
+    nick = capture_and_read_nick(hwnd, config["ocr_coords"])
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\ocr_engine.py", line 132, in capture_and_read_nick
+    log_message(f"Error en capture_and_read_nick: {e}", level='error')
+NameError: name 'log_message' is not defined
+
+2025-05-12 11:01:41 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-12 11:01:41 - INFO - Mesa encontrada: 12-May#0.5/1 🍀🇲🇾①
+2025-05-12 11:01:41 - INFO - Iniciando análisis de mesa
+2025-05-12 11:01:42 - INFO - Leyendo nick...
+2025-05-12 11:01:42 - ERROR - Error en análisis de mesa: name 'log_message' is not defined
+2025-05-12 11:01:42 - ERROR - Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\ocr_engine.py", line 82, in capture_and_read_nick
+    result = ocr.ocr(img_np, cls=True)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\site-packages\paddleocr\paddleocr.py", line 766, in ocr
+    dt_boxes, rec_res, _ = self.__call__(img, cls, slice)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\site-packages\paddleocr\tools\infer\predict_system.py", line 109, in __call__
+    dt_boxes, elapse = self.text_detector(img)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\site-packages\paddleocr\tools\infer\predict_det.py", line 396, in __call__
+    dt_boxes, elapse = self.predict(img)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\site-packages\paddleocr\tools\infer\predict_det.py", line 255, in predict
+    self.predictor.run()
+RuntimeError: could not execute a primitive
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\ocr_engine.py", line 92, in capture_and_read_nick
+    log_message(f"Error en PaddleOCR: {e}", level='error')
+NameError: name 'log_message' is not defined
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\poker_analyzer.py", line 97, in analyze_table
+    nick = capture_and_read_nick(hwnd, config["ocr_coords"])
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\ocr_engine.py", line 132, in capture_and_read_nick
+    log_message(f"Error en capture_and_read_nick: {e}", level='error')
+NameError: name 'log_message' is not defined
+
+2025-05-12 11:02:40 - INFO - Iniciando PokerBot Pro...
+2025-05-12 11:02:41 - INFO - Iniciando listener de clic derecho
+2025-05-12 11:02:41 - INFO - Hotkey alt+q registrado correctamente
+2025-05-12 11:02:41 - INFO - No hay entradas en el historial
+2025-05-12 11:02:41 - INFO - Hotkey alt+q registrada correctamente
+2025-05-12 11:02:41 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-12 11:02:41 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-12 11:03:05 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-12 11:03:05 - INFO - Mesa encontrada: 12-May#2/4 ♠️♥️♣️♦️🔥🇲🇾
+2025-05-12 11:03:05 - INFO - Iniciando análisis de mesa
+2025-05-12 11:03:05 - INFO - Leyendo nick...
+2025-05-12 11:03:06 - ERROR - Error en análisis de mesa: name 'log_message' is not defined
+2025-05-12 11:03:06 - ERROR - Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\ocr_engine.py", line 102, in capture_and_read_nick
+    log_message(f"Tesseract detectó: '{texto.strip()}'")
+NameError: name 'log_message' is not defined
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\ocr_engine.py", line 106, in capture_and_read_nick
+    log_message(f"Error en Tesseract: {e}", level='error')
+NameError: name 'log_message' is not defined
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\poker_analyzer.py", line 97, in analyze_table
+    nick = capture_and_read_nick(hwnd, config["ocr_coords"])
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\ocr_engine.py", line 132, in capture_and_read_nick
+    log_message(f"Error en capture_and_read_nick: {e}", level='error')
+NameError: name 'log_message' is not defined
+
+2025-05-12 11:04:02 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-12 11:04:02 - INFO - Mesa encontrada: 12-May#2/4 ♠️♥️♣️♦️🔥🇲🇾
+2025-05-12 11:04:02 - INFO - Iniciando análisis de mesa
+2025-05-12 11:04:03 - INFO - Leyendo nick...
+2025-05-12 11:04:03 - ERROR - Error en análisis de mesa: name 'log_message' is not defined
+2025-05-12 11:04:03 - ERROR - Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\ocr_engine.py", line 90, in capture_and_read_nick
+    log_message(f"PaddleOCR detectó: '{text}' (confianza: {confidence:.2f})")
+NameError: name 'log_message' is not defined
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\ocr_engine.py", line 92, in capture_and_read_nick
+    log_message(f"Error en PaddleOCR: {e}", level='error')
+NameError: name 'log_message' is not defined
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\poker_analyzer.py", line 97, in analyze_table
+    nick = capture_and_read_nick(hwnd, config["ocr_coords"])
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\ocr_engine.py", line 132, in capture_and_read_nick
+    log_message(f"Error en capture_and_read_nick: {e}", level='error')
+NameError: name 'log_message' is not defined
+
+2025-05-12 11:04:38 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-12 11:04:38 - INFO - Mesa encontrada: 12-May#2/4 ♠️♥️♣️♦️🔥🇲🇾
+2025-05-12 11:04:38 - INFO - Iniciando análisis de mesa
+2025-05-12 11:04:39 - INFO - Leyendo nick...
+2025-05-12 11:04:39 - ERROR - Error en análisis de mesa: name 'log_message' is not defined
+2025-05-12 11:04:39 - ERROR - Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\ocr_engine.py", line 82, in capture_and_read_nick
+    result = ocr.ocr(img_np, cls=True)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\site-packages\paddleocr\paddleocr.py", line 766, in ocr
+    dt_boxes, rec_res, _ = self.__call__(img, cls, slice)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\site-packages\paddleocr\tools\infer\predict_system.py", line 109, in __call__
+    dt_boxes, elapse = self.text_detector(img)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\site-packages\paddleocr\tools\infer\predict_det.py", line 396, in __call__
+    dt_boxes, elapse = self.predict(img)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\site-packages\paddleocr\tools\infer\predict_det.py", line 255, in predict
+    self.predictor.run()
+RuntimeError: could not execute a primitive
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\ocr_engine.py", line 92, in capture_and_read_nick
+    log_message(f"Error en PaddleOCR: {e}", level='error')
+NameError: name 'log_message' is not defined
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\poker_analyzer.py", line 97, in analyze_table
+    nick = capture_and_read_nick(hwnd, config["ocr_coords"])
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\ocr_engine.py", line 132, in capture_and_read_nick
+    log_message(f"Error en capture_and_read_nick: {e}", level='error')
+NameError: name 'log_message' is not defined
+
+2025-05-12 11:05:55 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-12 11:05:55 - INFO - Mesa encontrada: 2/4 ♠️♥️♣️♦️🔥🇲🇾
+2025-05-12 11:05:55 - INFO - Iniciando análisis de mesa
+2025-05-12 11:05:55 - INFO - Leyendo nick...
+2025-05-12 11:05:55 - ERROR - Error en análisis de mesa: name 'log_message' is not defined
+2025-05-12 11:05:55 - ERROR - Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\ocr_engine.py", line 102, in capture_and_read_nick
+    log_message(f"Tesseract detectó: '{texto.strip()}'")
+NameError: name 'log_message' is not defined
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\ocr_engine.py", line 106, in capture_and_read_nick
+    log_message(f"Error en Tesseract: {e}", level='error')
+NameError: name 'log_message' is not defined
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\poker_analyzer.py", line 97, in analyze_table
+    nick = capture_and_read_nick(hwnd, config["ocr_coords"])
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\ocr_engine.py", line 132, in capture_and_read_nick
+    log_message(f"Error en capture_and_read_nick: {e}", level='error')
+NameError: name 'log_message' is not defined
+
+2025-05-12 11:06:07 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-12 11:06:07 - INFO - Mesa encontrada: 2/4 ♠️♥️♣️♦️🔥🇲🇾
+2025-05-12 11:06:07 - INFO - Iniciando análisis de mesa
+2025-05-12 11:06:07 - INFO - Leyendo nick...
+2025-05-12 11:06:07 - ERROR - Error en análisis de mesa: name 'log_message' is not defined
+2025-05-12 11:06:07 - ERROR - Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\ocr_engine.py", line 90, in capture_and_read_nick
+    log_message(f"PaddleOCR detectó: '{text}' (confianza: {confidence:.2f})")
+NameError: name 'log_message' is not defined
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\ocr_engine.py", line 92, in capture_and_read_nick
+    log_message(f"Error en PaddleOCR: {e}", level='error')
+NameError: name 'log_message' is not defined
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\poker_analyzer.py", line 97, in analyze_table
+    nick = capture_and_read_nick(hwnd, config["ocr_coords"])
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\ocr_engine.py", line 132, in capture_and_read_nick
+    log_message(f"Error en capture_and_read_nick: {e}", level='error')
+NameError: name 'log_message' is not defined
+
+2025-05-12 11:06:22 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-12 11:06:22 - INFO - Mesa encontrada: 2/4 ♠️♥️♣️♦️🔥🇲🇾
+2025-05-12 11:06:22 - INFO - Iniciando análisis de mesa
+2025-05-12 11:06:22 - INFO - Leyendo nick...
+2025-05-12 11:06:22 - ERROR - Error en análisis de mesa: name 'log_message' is not defined
+2025-05-12 11:06:22 - ERROR - Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\ocr_engine.py", line 82, in capture_and_read_nick
+    result = ocr.ocr(img_np, cls=True)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\site-packages\paddleocr\paddleocr.py", line 766, in ocr
+    dt_boxes, rec_res, _ = self.__call__(img, cls, slice)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\site-packages\paddleocr\tools\infer\predict_system.py", line 109, in __call__
+    dt_boxes, elapse = self.text_detector(img)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\site-packages\paddleocr\tools\infer\predict_det.py", line 396, in __call__
+    dt_boxes, elapse = self.predict(img)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\site-packages\paddleocr\tools\infer\predict_det.py", line 255, in predict
+    self.predictor.run()
+RuntimeError: could not execute a primitive
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\ocr_engine.py", line 92, in capture_and_read_nick
+    log_message(f"Error en PaddleOCR: {e}", level='error')
+NameError: name 'log_message' is not defined
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\poker_analyzer.py", line 97, in analyze_table
+    nick = capture_and_read_nick(hwnd, config["ocr_coords"])
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\ocr_engine.py", line 132, in capture_and_read_nick
+    log_message(f"Error en capture_and_read_nick: {e}", level='error')
+NameError: name 'log_message' is not defined
+
+2025-05-12 11:06:34 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-12 11:06:34 - INFO - Mesa encontrada: 2/4 ♠️♥️♣️♦️🔥🇲🇾
+2025-05-12 11:06:34 - INFO - Iniciando análisis de mesa
+2025-05-12 11:06:34 - INFO - Leyendo nick...
+2025-05-12 11:06:35 - ERROR - Error en análisis de mesa: name 'log_message' is not defined
+2025-05-12 11:06:35 - ERROR - Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\ocr_engine.py", line 90, in capture_and_read_nick
+    log_message(f"PaddleOCR detectó: '{text}' (confianza: {confidence:.2f})")
+NameError: name 'log_message' is not defined
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\ocr_engine.py", line 92, in capture_and_read_nick
+    log_message(f"Error en PaddleOCR: {e}", level='error')
+NameError: name 'log_message' is not defined
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\poker_analyzer.py", line 97, in analyze_table
+    nick = capture_and_read_nick(hwnd, config["ocr_coords"])
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\ocr_engine.py", line 132, in capture_and_read_nick
+    log_message(f"Error en capture_and_read_nick: {e}", level='error')
+NameError: name 'log_message' is not defined
+
+2025-05-12 11:06:48 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-12 11:06:48 - INFO - Mesa encontrada: 2/4 ♠️♥️♣️♦️🔥🇲🇾
+2025-05-12 11:06:48 - INFO - Iniciando análisis de mesa
+2025-05-12 11:06:48 - INFO - Leyendo nick...
+2025-05-12 11:06:48 - ERROR - Error en análisis de mesa: name 'log_message' is not defined
+2025-05-12 11:06:48 - ERROR - Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\ocr_engine.py", line 82, in capture_and_read_nick
+    result = ocr.ocr(img_np, cls=True)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\site-packages\paddleocr\paddleocr.py", line 766, in ocr
+    dt_boxes, rec_res, _ = self.__call__(img, cls, slice)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\site-packages\paddleocr\tools\infer\predict_system.py", line 109, in __call__
+    dt_boxes, elapse = self.text_detector(img)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\site-packages\paddleocr\tools\infer\predict_det.py", line 396, in __call__
+    dt_boxes, elapse = self.predict(img)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\site-packages\paddleocr\tools\infer\predict_det.py", line 255, in predict
+    self.predictor.run()
+RuntimeError: could not execute a primitive
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\ocr_engine.py", line 92, in capture_and_read_nick
+    log_message(f"Error en PaddleOCR: {e}", level='error')
+NameError: name 'log_message' is not defined
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\poker_analyzer.py", line 97, in analyze_table
+    nick = capture_and_read_nick(hwnd, config["ocr_coords"])
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\ocr_engine.py", line 132, in capture_and_read_nick
+    log_message(f"Error en capture_and_read_nick: {e}", level='error')
+NameError: name 'log_message' is not defined
+
+2025-05-12 11:06:52 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-12 11:06:52 - INFO - Mesa encontrada: 2/4 ♠️♥️♣️♦️🔥🇲🇾
+2025-05-12 11:06:52 - INFO - Iniciando análisis de mesa
+2025-05-12 11:06:53 - INFO - Leyendo nick...
+2025-05-12 11:06:53 - ERROR - Error en análisis de mesa: name 'log_message' is not defined
+2025-05-12 11:06:53 - ERROR - Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\ocr_engine.py", line 90, in capture_and_read_nick
+    log_message(f"PaddleOCR detectó: '{text}' (confianza: {confidence:.2f})")
+NameError: name 'log_message' is not defined
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\ocr_engine.py", line 92, in capture_and_read_nick
+    log_message(f"Error en PaddleOCR: {e}", level='error')
+NameError: name 'log_message' is not defined
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\poker_analyzer.py", line 97, in analyze_table
+    nick = capture_and_read_nick(hwnd, config["ocr_coords"])
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\ocr_engine.py", line 132, in capture_and_read_nick
+    log_message(f"Error en capture_and_read_nick: {e}", level='error')
+NameError: name 'log_message' is not defined
+
+2025-05-12 11:10:32 - INFO - Iniciando PokerBot Pro...
+2025-05-12 11:10:33 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-12 11:10:33 - INFO - Iniciando listener de clic derecho
+2025-05-12 11:10:34 - INFO - Hotkey alt+q registrado correctamente
+2025-05-12 11:10:34 - INFO - No hay entradas en el historial
+2025-05-12 11:10:34 - INFO - Hotkey alt+q registrada correctamente
+2025-05-12 11:10:34 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-12 11:10:34 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-12 11:10:41 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-12 11:10:41 - INFO - Mesa encontrada: 2/4 ♠️♥️♣️♦️🔥🇲🇾
+2025-05-12 11:10:41 - INFO - Iniciando análisis de mesa
+2025-05-12 11:10:41 - INFO - Leyendo nick...
+2025-05-12 11:10:42 - INFO - PaddleOCR detectó: 'BRAYDON' (confianza: 1.00)
+2025-05-12 11:10:42 - INFO - Nick final: 'BRAYDON'
+2025-05-12 11:10:42 - ERROR - Error en análisis de mesa: local variable 'win32gui' referenced before assignment
+2025-05-12 11:10:42 - ERROR - Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\poker_analyzer.py", line 110, in analyze_table
+    left, top, _, _ = win32gui.GetWindowRect(hwnd)
+UnboundLocalError: local variable 'win32gui' referenced before assignment
+
+2025-05-12 11:13:23 - INFO - Iniciando PokerBot Pro...
+2025-05-12 11:13:24 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-12 11:13:24 - INFO - Iniciando listener de clic derecho
+2025-05-12 11:13:24 - INFO - Hotkey alt+q registrado correctamente
+2025-05-12 11:13:24 - INFO - No hay entradas en el historial
+2025-05-12 11:13:24 - INFO - Hotkey alt+q registrada correctamente
+2025-05-12 11:13:24 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-12 11:13:24 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-12 11:13:32 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-12 11:13:32 - INFO - Mesa encontrada: 2/4 ♠️♥️♣️♦️🔥🇲🇾
+2025-05-12 11:13:32 - INFO - Iniciando análisis de mesa
+2025-05-12 11:13:32 - INFO - Leyendo nick...
+2025-05-12 11:13:32 - INFO - PaddleOCR detectó: 'Godford' (confianza: 1.00)
+2025-05-12 11:13:32 - INFO - Nick final: 'Godford'
+2025-05-12 11:13:32 - INFO - Nick detectado: 'Godford'
+2025-05-12 11:13:35 - INFO - Stats: VPIP:26 PFR:13 3B:4 F3B:49 WTSD:23 WSD:54 CB:51/37
+2025-05-12 11:13:35 - INFO - Análisis: 🎯 Informe sobre Godford:
+
+1️⃣ Estilo de juego: Pasivo preflop, agresivo postflop.
+
+2️⃃ Errores explo...
+2025-05-12 11:13:35 - INFO - Texto pegado en ventana de poker
+2025-05-12 11:13:35 - INFO - Historial guardado: 1 entradas
+2025-05-12 11:13:35 - INFO - Análisis completado con éxito
+2025-05-12 11:15:44 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-12 11:15:44 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-12 11:44:23 - INFO - Iniciando PokerBot Pro...
+2025-05-12 11:44:24 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-12 11:44:24 - INFO - Iniciando listener de clic derecho
+2025-05-12 11:44:24 - INFO - Hotkey alt+q registrado correctamente
+2025-05-12 11:44:24 - INFO - Hotkey alt+q registrada correctamente
+2025-05-12 11:44:24 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-12 11:44:24 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-12 11:44:47 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-12 11:44:47 - INFO - Mesa encontrada: 2/4 ♠️♥️♣️♦️🔥🇲🇾
+2025-05-12 11:44:47 - INFO - Iniciando análisis de mesa
+2025-05-12 11:44:47 - INFO - Leyendo nick...
+2025-05-12 11:44:47 - INFO - PaddleOCR detectó: 'Saitama' (confianza: 0.99)
+2025-05-12 11:44:47 - INFO - Nick final: 'Saitama'
+2025-05-12 11:44:47 - INFO - Nick detectado: 'Saitama'
+2025-05-12 11:44:50 - INFO - Stats: VPIP:27 PFR:15 3B:7 F3B:48 WTSD:28 WSD:47 CB:61/44
+2025-05-12 11:44:50 - INFO - Análisis: 🎯 Informe sobre Saitama:
+
+1️⃣ Estilo de juego: Pasivo preflop con agresión inconsistente postflop.
+
+...
+2025-05-12 11:44:51 - INFO - Texto pegado en ventana de poker
+2025-05-12 11:44:51 - INFO - Historial guardado: 2 entradas
+2025-05-12 11:44:51 - INFO - Análisis completado con éxito
+2025-05-12 11:46:02 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-12 11:46:02 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-12 11:46:02 - INFO - Cerrando aplicación...
+2025-05-12 11:46:02 - INFO - Deteniendo listener de clic derecho
+2025-05-12 11:46:02 - INFO - Aplicación cerrada correctamente
+2025-05-12 11:46:17 - INFO - Iniciando PokerBot Pro...
+2025-05-12 11:46:18 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-12 11:46:18 - INFO - Iniciando listener de clic derecho
+2025-05-12 11:46:18 - INFO - Hotkey alt+q registrado correctamente
+2025-05-12 11:46:18 - INFO - Hotkey alt+q registrada correctamente
+2025-05-12 11:46:18 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-12 11:46:18 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-12 11:46:35 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-12 11:46:35 - INFO - Mesa encontrada: 2/4 ♠️♥️♣️♦️🔥🇲🇾
+2025-05-12 11:46:35 - INFO - Iniciando análisis de mesa
+2025-05-12 11:46:35 - INFO - Leyendo nick...
+2025-05-12 11:46:35 - INFO - PaddleOCR detectó: 'MyVPIPisurlQ' (confianza: 0.97)
+2025-05-12 11:46:35 - INFO - Nick final: 'MyVPIPisurlQ'
+2025-05-12 11:46:36 - INFO - Nick detectado: 'MyVPIPisurlQ'
+2025-05-12 11:46:36 - ERROR - Error al obtener/analizar stats: Error al obtener stats: Código 404, {"message":"Jugador 'MyVPIPisurlQ' no encontrado en la sala 'XPK'."}
+2025-05-12 11:46:47 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-12 11:46:47 - INFO - Mesa encontrada: 2/4 ♠️♥️♣️♦️🔥🇲🇾
+2025-05-12 11:46:47 - INFO - Iniciando análisis de mesa
+2025-05-12 11:46:47 - INFO - Leyendo nick...
+2025-05-12 11:46:47 - ERROR - Error en PaddleOCR: could not execute a primitive
+2025-05-12 11:46:49 - INFO - Tesseract detectó: 'joe8996'
+2025-05-12 11:46:49 - INFO - Nick final: 'joe8996'
+2025-05-12 11:46:49 - INFO - Nick detectado: 'joe8996'
+2025-05-12 11:46:50 - ERROR - Error al obtener/analizar stats: Error al obtener stats: Código 404, {"message":"Jugador 'joe8996' no encontrado en la sala 'XPK'."}
+2025-05-12 11:47:02 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-12 11:47:02 - INFO - Mesa encontrada: 2/4 ♠️♥️♣️♦️🔥🇲🇾
+2025-05-12 11:47:02 - INFO - Iniciando análisis de mesa
+2025-05-12 11:47:02 - INFO - Leyendo nick...
+2025-05-12 11:47:02 - INFO - PaddleOCR detectó: 'Godford' (confianza: 1.00)
+2025-05-12 11:47:02 - INFO - Nick final: 'Godford'
+2025-05-12 11:47:02 - INFO - Nick detectado: 'Godford'
+2025-05-12 11:47:04 - INFO - Stats: VPIP:26 PFR:13 3B:4 F3B:49 WTSD:23 WSD:54 CB:51/37
+2025-05-12 11:47:04 - INFO - Análisis: 🎯 Informe sobre Godford:
+
+1️⃣ Estilo de juego: Pasivo preflop con agresión inconsistente postflop.
+
+...
+2025-05-12 11:47:05 - INFO - Texto pegado en ventana de poker
+2025-05-12 11:47:05 - INFO - Historial guardado: 3 entradas
+2025-05-12 11:47:05 - INFO - Análisis completado con éxito

@@ -1,18 +1,24 @@
 import tkinter as tk
 from tkinter import ttk, messagebox
 import keyboard
+import win32gui
 from src.utils.logger import log_message
 from src.config.settings import save_config
 from src.utils.windows import find_poker_tables
 
 def create_config_tab(parent, config):
     """Crea la pestaña de configuración"""
-    # Crear canvas con scroll
-    canvas = tk.Canvas(parent)
-    scrollbar = ttk.Scrollbar(parent, orient="vertical", command=canvas.yview)
+    # Crear frame principal que será añadido al notebook
+    main_frame = ttk.Frame(parent)
+    main_frame.name = "tab_config"
     
-    # Frame principal
+    # Crear canvas con scroll dentro del main_frame
+    canvas = tk.Canvas(main_frame)
+    scrollbar = ttk.Scrollbar(main_frame, orient="vertical", command=canvas.yview)
+    
+    # Frame interior para el contenido con scroll
     frame_scroll = ttk.Frame(canvas)
+    
     frame_scroll.bind(
         "<Configure>",
         lambda e: canvas.configure(scrollregion=canvas.bbox("all"))
@@ -217,4 +223,5 @@ def create_config_tab(parent, config):
     ttk.Button(frame_buttons, text="Cancelar", 
               command=lambda: parent.select(0)).pack(side="right", padx=5)
     
-    return frame_scroll
+    # Devolver el frame principal (no el frame_scroll)
+    return main_frame

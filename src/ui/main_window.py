@@ -223,6 +223,21 @@ def update_ui_status():
     except Exception as e:
         log_message(f"Error al actualizar UI: {e}", level='error')
 
+def update_history_ui():
+    """Actualiza la interfaz del historial"""
+    if not tab_control:
+        return
+        
+    # Buscar la pestaña de historial y su treeview
+    for tab in tab_control.winfo_children():
+        if hasattr(tab, 'winfo_name') and tab.winfo_name() == "tab_historial":
+            # Buscar el treeview dentro de la pestaña
+            for child in tab.winfo_children():
+                if isinstance(child, ttk.Treeview):
+                    from src.ui.tabs.history_tab import update_history_treeview
+                    update_history_treeview(child)
+                    return
+
 def get_current_config():
     """Obtiene la configuración actual desde las pestañas de UI"""
     from src.config.settings import load_config

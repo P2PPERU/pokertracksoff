@@ -2,6 +2,7 @@ import time
 import threading
 import pyperclip
 import pyautogui
+import win32gui  # Añadir esta importación
 from datetime import datetime
 
 from src.utils.logger import log_message
@@ -22,6 +23,7 @@ def clear_nick_cache():
     nick_cache = {}
     last_nick_data = {}
     log_message("Caché de nicks limpiada")
+    return True
 
 def paste_to_poker(text):
     """Pega texto en la ventana activa de poker"""
@@ -65,8 +67,7 @@ def analyze_table(hwnd, config, manual_nick=None, force_new_capture=False):
             
             if use_cache:
                 # Verificar si el jugador cambió mediante hash de la imagen
-                from src.utils.windows import win32gui
-                left, top, _, _ = win32gui.GetWindowRect(hwnd)
+                left, top, right, bottom = win32gui.GetWindowRect(hwnd)
                 coords = config["ocr_coords"]
                 region = (left + coords["x"], top + coords["y"], coords["w"], coords["h"])
                 
@@ -106,23 +107,24 @@ def analyze_table(hwnd, config, manual_nick=None, force_new_capture=False):
                 }
                 
                 # Actualizar hash de imagen
-                left, top, _, _ = win32gui.GetWindowRect(hwnd)
+                left, top, right, bottom = win32gui.GetWindowRect(hwnd)
                 coords = config["ocr_coords"]
                 region = (left + coords["x"], top + coords["y"], coords["w"], coords["h"])
                 img = pyautogui.screenshot(region=region)
                 img_hash = generate_image_hash(img)
+                
+                # Actualizar último nick y hash
+                if "img_hash" in locals():
+                    last_nick_data[hwnd] = {
+                        "nick": nick,
+                        "img_hash": img_hash
+                    }
                 
                 log_message(f"Nick detectado: '{nick}'")
         
         # 2. Obtener estadísticas del jugador
         try:
             stats_data = get_player_stats(nick, config["sala_default"], config["token"], config["server_url"])
-            
-            # Actualizar datos de último nick
-            last_nick_data[hwnd] = {
-                "nick": nick,
-                "img_hash": img_hash if 'img_hash' in locals() else None
-            }
             
             # Añadir nick a los datos
             stats_data["player_name"] = nick
@@ -161,11 +163,13 @@ def analyze_table(hwnd, config, manual_nick=None, force_new_capture=False):
             add_to_history(history_entry)
             
             # 7. Actualizar UI si es necesario
-            if hasattr(threading, '_threading_main') and threading._threading_main:
-                from src.ui.tabs.history_tab import update_history_treeview
-                from src.ui.main_window import history_tree
-                if history_tree:
-                    update_history_treeview(history_tree)
+            try:
+                # Programar actualización segura del historial
+                from src.ui.main_window import root, update_history_ui
+                if root and root.winfo_exists():
+                    root.after(100, update_history_ui)
+            except Exception as ui_error:
+                log_message(f"Error al actualizar UI del historial: {ui_error}", level='warning')
             
             log_message("Análisis completado con éxito")
             return True
