@@ -850,3 +850,40 @@ Jugador muy pasivo, VPIP alto pero PFR bajo. Se fr...
 2025-05-12 17:33:07 - INFO - Nick final: 'tiburoncin'
 2025-05-12 17:33:07 - INFO - Nick detectado: 'tiburoncin'
 2025-05-12 17:33:07 - ERROR - Error al obtener/analizar stats: Error al obtener stats: Código 404, {"message":"Jugador 'tiburoncin' no encontrado en la sala 'XPK'."}
+2025-05-12 17:39:31 - INFO - Iniciando PokerBot Pro...
+2025-05-12 17:39:33 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-12 17:39:33 - INFO - Iniciando listener de clic derecho
+2025-05-12 17:39:33 - INFO - Hotkey alt+q registrado correctamente
+2025-05-12 17:39:33 - INFO - Historial cargado: 6 entradas
+2025-05-12 17:39:33 - INFO - Actualizando treeview con 6 entradas de historial
+2025-05-12 17:39:33 - INFO - Se mostraron 6 entradas en el historial
+2025-05-12 17:39:33 - INFO - Hotkey alt+q registrada correctamente
+2025-05-12 17:39:33 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-12 17:39:33 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-12 17:39:43 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-12 17:39:43 - INFO - Mesa encontrada: 0.5/1 🍀🇲🇾①
+2025-05-12 17:39:43 - INFO - Iniciando análisis de mesa
+2025-05-12 17:39:43 - INFO - Leyendo nick...
+2025-05-12 17:39:43 - INFO - PaddleOCR detectó: 'Nigiri' (confianza: 0.99)
+2025-05-12 17:39:43 - INFO - Nick final: 'Nigiri'
+2025-05-12 17:39:43 - INFO - Nick detectado: 'Nigiri'
+2025-05-12 17:39:45 - INFO - Stats: VPIP:32 PFR:24 3B:6 F3B:75 WTSD:25 WSD:42 CB:54/88
+2025-05-12 17:39:45 - INFO - Análisis: 🎯 Informe sobre Nigiri:
+
+1️⃣ Estilo de juego: 
+Jugador pasivo-agresivo, tiende a pagar mucho preflop...
+2025-05-12 17:39:46 - INFO - Texto pegado en ventana de poker
+2025-05-12 17:39:46 - INFO - Historial cargado: 6 entradas
+2025-05-12 17:39:46 - INFO - Historial cargado para agregar entrada: 6 entradas existentes
+2025-05-12 17:39:46 - INFO - Historial guardado: 7 entradas
+2025-05-12 17:39:46 - INFO - Entrada añadida al historial. Nuevo total: 7 entradas
+2025-05-12 17:39:46 - INFO - Actualización de historial UI programada
+2025-05-12 17:39:46 - INFO - Análisis completado con éxito
+2025-05-12 17:39:46 - INFO - Historial cargado: 7 entradas
+2025-05-12 17:39:46 - INFO - Actualizando treeview con 7 entradas de historial
+2025-05-12 17:39:46 - INFO - Se mostraron 7 entradas en el historial
+2025-05-12 17:39:46 - INFO - Historial UI actualizado correctamente
+2025-05-12 17:40:48 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-12 17:40:48 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-12 17:40:49 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-12 17:40:49 - WARNING - No se encontró una mesa bajo el cursor

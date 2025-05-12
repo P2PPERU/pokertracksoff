@@ -40,5 +40,12 @@
         "stats": "VPIP:69 PFR:9 3B:3 F3B:50 WTSD:37 WSD:38 CB:80/50",
         "analisis": "🎯 Informe sobre Straight Flush:\n\n1️⃣ Estilo de juego: Muy loose preflop, pero pasivo postflop. \n\n2️⃣ Errores explotables:\n- No 3-Betea lo suficiente con su rango amplio de manos.\n- C-Betea demasiado en flop pero se frena en turn, mostrando debilidad.\n- Paga demasiado en river, incluso con manos débiles.\n\n3️⃣ Cómo explotarlo:\n- Aumenta tus 3-Bets vs él, especialmente con manos fuertes.\n- Flota más sus C-Bets en flop, ya que tiende a abandonar en turn.\n- Aprovecha su tendencia a pagar en river con value bets más amplios.",
         "sala": "XPK"
+    },
+    {
+        "timestamp": "2025-05-12 17:39:46",
+        "nick": "Nigiri",
+        "stats": "VPIP:32 PFR:24 3B:6 F3B:75 WTSD:25 WSD:42 CB:54/88",
+        "analisis": "🎯 Informe sobre Nigiri:\n\n1️⃣ Estilo de juego: \nJugador pasivo-agresivo, tiende a pagar mucho preflop pero luego se muestra agresivo en el turn y river.\n\n2️⃣ Errores explotables:\n- Paga mucho preflop y después se frena en turn.\n- C-Betea mucho flop pero fold al turn es muy bajo.\n- WTSD alto pero WSD bajo, paga mucho pero gana poco.\n\n3️⃣ Cómo explotarlo:\n- Aprovechar su pasividad preflop con 3-bets light y c-bets agresivos.\n- Flotar más sus c-bets en flop y aplicar presión en turn.\n- Ajustar tamaño de apuestas en turn y river para explotar su tendencia a pagar.",
+        "sala": "XPK"
     }
 ]
