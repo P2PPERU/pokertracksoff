@@ -19,5 +19,26 @@
         "stats": "VPIP:52 PFR:19 3B:6 F3B:47 WTSD:25 WSD:37 CB:90/42",
         "analisis": "🎯 Informe sobre Sb1111:\n\n1️⃣ Estilo de juego: Pasivo preflop, agresivo postflop.\n\n2️⃣ Errores explotables:\n- PFR bajo en comparación con VPIP.\n- Fold to 3-Bet por debajo del promedio.\n- Baja agresión en turn después de hacer C-Bet flop.\n\n3️⃣ Cómo explotarlo:\n- Aumentar 3-Bet en posiciones oportunas.\n- Aprovechar su debilidad en turn con más floats y semibluffs.\n- Aumentar la presión postflop en general, especialmente en turn. \n\n*Sample bajo, ajustes preliminares.",
         "sala": "XPK"
+    },
+    {
+        "timestamp": "2025-05-12 12:32:51",
+        "nick": "Sb1111",
+        "stats": "VPIP:52 PFR:19 3B:6 F3B:47 WTSD:25 WSD:37 CB:90/42",
+        "analisis": "⚠️ Error al analizar: name 'time' is not defined...",
+        "sala": "XPK"
+    },
+    {
+        "timestamp": "2025-05-12 12:33:58",
+        "nick": "big whale",
+        "stats": "VPIP:65 PFR:7 3B:2 F3B:8 WTSD:34 WSD:50 CB:64/51",
+        "analisis": "🎯 Informe sobre big whale:\n\n1️⃣ Estilo de juego: \nJugador muy pasivo, VPIP alto pero PFR bajo. Se frena en turn y river.\n\n2️⃣ Errores explotables:\n- Paga mucho preflop pero no sube mucho. \n- No defiende su rango de 3-Bet.\n- Paga demasiado, gana poco en showdown.\n\n3️⃣ Cómo explotarlo:\n- Aumenta tus 3-Bets, especialmente en posiciones tardías.\n- Aprovecha su debilidad en el turn y river con más barrels.\n- Busca más value en showdown, ya que paga demasiado. \n\nSample bajo, ajustes preliminares.",
+        "sala": "XPK"
+    },
+    {
+        "timestamp": "2025-05-12 13:05:43",
+        "nick": "Straight Flush",
+        "stats": "VPIP:69 PFR:9 3B:3 F3B:50 WTSD:37 WSD:38 CB:80/50",
+        "analisis": "🎯 Informe sobre Straight Flush:\n\n1️⃣ Estilo de juego: Muy loose preflop, pero pasivo postflop. \n\n2️⃣ Errores explotables:\n- No 3-Betea lo suficiente con su rango amplio de manos.\n- C-Betea demasiado en flop pero se frena en turn, mostrando debilidad.\n- Paga demasiado en river, incluso con manos débiles.\n\n3️⃣ Cómo explotarlo:\n- Aumenta tus 3-Bets vs él, especialmente con manos fuertes.\n- Flota más sus C-Bets en flop, ya que tiende a abandonar en turn.\n- Aprovecha su tendencia a pagar en river con value bets más amplios.",
+        "sala": "XPK"
     }
 ]

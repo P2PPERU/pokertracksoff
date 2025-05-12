@@ -13,18 +13,21 @@ def load_history():
             HISTORY_PATH.parent.mkdir(exist_ok=True)
             with open(HISTORY_PATH, "w", encoding="utf-8") as f:
                 f.write("[]")
+            log_message("Archivo de historial no encontrado, se creó uno nuevo")
             return []
         
         with open(HISTORY_PATH, "r", encoding="utf-8") as f:
             content = f.read()
             if not content.strip():
+                log_message("Archivo de historial está vacío")
                 return []
                 
             history = json.loads(content)
             if not isinstance(history, list):
-                log_message("Error: El archivo de historial no contiene una lista válida")
+                log_message("Error: El archivo de historial no contiene una lista válida", level='error')
                 return []
                 
+            log_message(f"Historial cargado: {len(history)} entradas")
             return history
     except json.JSONDecodeError as e:
         log_message(f"Error al decodificar JSON del historial: {e}", level='error')
@@ -36,6 +39,11 @@ def load_history():
                 import shutil
                 shutil.copy(HISTORY_PATH, backup_name)
                 log_message(f"Copia de seguridad creada: {backup_name}")
+                
+                # Crear un nuevo archivo vacío
+                with open(HISTORY_PATH, "w", encoding="utf-8") as f:
+                    f.write("[]")
+                log_message("Se creó un nuevo archivo de historial vacío")
             except Exception as backup_error:
                 log_message(f"Error al crear copia de seguridad: {backup_error}", level='error')
         return []
@@ -71,13 +79,31 @@ def save_history(history):
 
 def add_to_history(entry):
     """Añade una entrada al historial"""
-    history = load_history()
-    history.append(entry)
-    save_history(history)
-    return True
+    try:
+        history = load_history()
+        log_message(f"Historial cargado para agregar entrada: {len(history)} entradas existentes")
+        
+        history.append(entry)
+        success = save_history(history)
+        
+        if success:
+            log_message(f"Entrada añadida al historial. Nuevo total: {len(history)} entradas")
+        else:
+            log_message("No se pudo guardar la entrada en el historial", level='warning')
+        
+        return success
+    except Exception as e:
+        log_message(f"Error al añadir entrada al historial: {e}", level='error')
+        import traceback
+        log_message(traceback.format_exc(), level='error')
+        return False
 
 def clear_history():
     """Limpia todo el historial"""
-    save_history([])
-    log_message("Historial limpiado completamente")
-    return True
+    try:
+        save_history([])
+        log_message("Historial limpiado completamente")
+        return True
+    except Exception as e:
+        log_message(f"Error al limpiar historial: {e}", level='error')
+        return False

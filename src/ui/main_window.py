@@ -2,6 +2,7 @@ import tkinter as tk
 from tkinter import ttk, messagebox
 import keyboard
 import threading
+import time
 
 from src.utils.logger import log_message, get_logger
 from src.utils.windows import get_window_under_cursor, find_poker_tables
@@ -14,13 +15,13 @@ from src.ui.tabs.logs_tab import create_logs_tab
 # Variables globales de la UI
 root = None
 tab_control = None
-history_tree = None
+history_treeview = None  # Referencia global al treeview del historial
 running = True
 auto_running = False
 
 def create_main_window(config):
     """Crea la ventana principal de la aplicación"""
-    global root, tab_control, running
+    global root, tab_control, history_treeview, running
     
     # Crear ventana principal
     root = tk.Tk()
@@ -41,6 +42,9 @@ def create_main_window(config):
     # Pestaña Historial
     history_tab, history_tree = create_history_tab(tab_control, config)
     tab_control.add(history_tab, text='Historial')
+    
+    # Guardar referencia global al treeview de historial
+    history_treeview = history_tree
     
     # Pestaña Configuración
     config_tab = create_config_tab(tab_control, config)
@@ -174,7 +178,7 @@ def auto_mode_loop(config):
             tables = find_poker_tables()
             if tables:
                 for hwnd, title in tables:
-                    if not auto_running:
+                    if not auto_running or not running:
                         break
                     
                     log_message(f"Procesando mesa: {title}")
@@ -183,7 +187,7 @@ def auto_mode_loop(config):
             
             # Esperar antes de siguiente ciclo
             for _ in range(config["auto_check_interval"]):
-                if not auto_running:
+                if not auto_running or not running:
                     break
                 time.sleep(1)
         except Exception as e:
@@ -225,18 +229,20 @@ def update_ui_status():
 
 def update_history_ui():
     """Actualiza la interfaz del historial"""
-    if not tab_control:
+    global history_treeview
+    
+    if not history_treeview or not root or not root.winfo_exists():
+        log_message("No se pudo acceder al widget de historial", level='warning')
         return
-        
-    # Buscar la pestaña de historial y su treeview
-    for tab in tab_control.winfo_children():
-        if hasattr(tab, 'winfo_name') and tab.winfo_name() == "tab_historial":
-            # Buscar el treeview dentro de la pestaña
-            for child in tab.winfo_children():
-                if isinstance(child, ttk.Treeview):
-                    from src.ui.tabs.history_tab import update_history_treeview
-                    update_history_treeview(child)
-                    return
+    
+    try:
+        from src.ui.tabs.history_tab import update_history_treeview
+        update_history_treeview(history_treeview)
+        log_message("Historial UI actualizado correctamente")
+    except Exception as e:
+        log_message(f"Error al actualizar UI del historial: {e}", level='warning')
+        import traceback
+        log_message(traceback.format_exc(), level='debug')
 
 def get_current_config():
     """Obtiene la configuración actual desde las pestañas de UI"""
