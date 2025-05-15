@@ -1,0 +1,114 @@
+2025-05-15 12:42:17 - INFO - Iniciando PokerBot Pro...
+2025-05-15 12:42:18 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-15 12:42:18 - INFO - Iniciando listener de clic derecho
+2025-05-15 12:42:19 - INFO - Hotkey alt+q registrado correctamente
+2025-05-15 12:42:19 - INFO - Historial cargado: 39 entradas
+2025-05-15 12:42:19 - INFO - Actualizando treeview con 39 entradas de historial
+2025-05-15 12:42:19 - INFO - Se mostraron 39 entradas en el historial
+2025-05-15 12:42:19 - INFO - Hotkey alt+q registrada correctamente
+2025-05-15 12:42:19 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-15 12:42:19 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-15 12:42:26 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 12:42:26 - INFO - Mesa encontrada: 0.1/0.2 6max 🇲🇾
+2025-05-15 12:42:26 - INFO - Iniciando análisis de mesa
+2025-05-15 12:42:26 - INFO - Leyendo nick...
+2025-05-15 12:42:29 - INFO - Tesseract detectó: 'A           CT'
+2025-05-15 12:42:29 - INFO - Nick final: 'A           CT'
+2025-05-15 12:42:29 - INFO - Nick detectado: 'A           CT'
+2025-05-15 12:42:37 - ERROR - Error al obtener/analizar stats: HTTPConnectionPool(host='localhost', port=3000): Max retries exceeded with url: /api/jugador/XPK/A (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001349DA74790>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión'))
+2025-05-15 12:43:14 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 12:43:14 - INFO - Mesa encontrada: 0.1/0.2 6max 🇲🇾
+2025-05-15 12:43:14 - INFO - Iniciando análisis de mesa
+2025-05-15 12:43:14 - INFO - Leyendo nick...
+2025-05-15 12:43:15 - INFO - Tesseract detectó: 'A   全一'
+2025-05-15 12:43:15 - INFO - Nick final: 'A   全一'
+2025-05-15 12:43:15 - INFO - Nick detectado: 'A   全一'
+2025-05-15 12:43:23 - ERROR - Error al obtener/analizar stats: HTTPConnectionPool(host='localhost', port=3000): Max retries exceeded with url: /api/jugador/XPK/A (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001349DA1F7F0>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión'))
+2025-05-15 12:43:39 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-15 12:43:39 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-15 12:43:39 - INFO - Cerrando aplicación...
+2025-05-15 12:43:39 - INFO - Deteniendo listener de clic derecho
+2025-05-15 12:43:39 - INFO - Aplicación cerrada correctamente
+2025-05-15 12:43:54 - INFO - Iniciando PokerBot Pro...
+2025-05-15 12:43:56 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-15 12:43:56 - INFO - Iniciando listener de clic derecho
+2025-05-15 12:43:56 - INFO - Hotkey alt+q registrado correctamente
+2025-05-15 12:43:56 - INFO - Historial cargado: 39 entradas
+2025-05-15 12:43:56 - INFO - Actualizando treeview con 39 entradas de historial
+2025-05-15 12:43:56 - INFO - Se mostraron 39 entradas en el historial
+2025-05-15 12:43:56 - INFO - Hotkey alt+q registrada correctamente
+2025-05-15 12:43:56 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-15 12:43:56 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-15 12:43:58 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 12:43:58 - INFO - Mesa encontrada: 0.1/0.2 6max 🇲🇾
+2025-05-15 12:43:58 - INFO - Iniciando análisis de mesa
+2025-05-15 12:43:58 - INFO - Leyendo nick...
+2025-05-15 12:43:58 - INFO - PaddleOCR detectó: 'Torres99' (confianza: 1.00)
+2025-05-15 12:43:58 - INFO - Nick final: 'Torres99'
+2025-05-15 12:43:58 - INFO - Nick detectado: 'Torres99'
+2025-05-15 12:44:03 - ERROR - Error al obtener/analizar stats: HTTPConnectionPool(host='localhost', port=3000): Max retries exceeded with url: /api/jugador/XPK/Torres99 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021AD9115CC0>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión'))
+2025-05-15 12:44:31 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-15 12:44:31 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-15 12:44:31 - INFO - Cerrando aplicación...
+2025-05-15 12:44:31 - INFO - Deteniendo listener de clic derecho
+2025-05-15 12:44:31 - INFO - Aplicación cerrada correctamente
+2025-05-15 12:44:54 - INFO - Iniciando PokerBot Pro...
+2025-05-15 12:44:56 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-15 12:44:56 - INFO - Iniciando listener de clic derecho
+2025-05-15 12:44:56 - INFO - Hotkey alt+q registrado correctamente
+2025-05-15 12:44:56 - INFO - Historial cargado: 39 entradas
+2025-05-15 12:44:56 - INFO - Actualizando treeview con 39 entradas de historial
+2025-05-15 12:44:56 - INFO - Se mostraron 39 entradas en el historial
+2025-05-15 12:44:56 - INFO - Hotkey alt+q registrada correctamente
+2025-05-15 12:44:56 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-15 12:44:56 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-15 12:44:59 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 12:44:59 - INFO - Mesa encontrada: 0.1/0.2 6max 🇲🇾
+2025-05-15 12:44:59 - INFO - Iniciando análisis de mesa
+2025-05-15 12:44:59 - INFO - Leyendo nick...
+2025-05-15 12:45:00 - INFO - PaddleOCR detectó: '给我錄' (confianza: 0.78)
+2025-05-15 12:45:00 - INFO - Nick final: '给我錄'
+2025-05-15 12:45:00 - INFO - Nick detectado: '给我錄'
+2025-05-15 12:45:04 - ERROR - Error al obtener/analizar stats: HTTPConnectionPool(host='localhost', port=3000): Max retries exceeded with url: /api/jugador/XPK/%E7%BB%99%E6%88%91%E9%8C%84 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000027AF4615E10>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión'))
+2025-05-15 12:45:15 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 12:45:15 - INFO - Mesa encontrada: 0.2/0.4 6max 🇲🇾①
+2025-05-15 12:45:15 - INFO - Iniciando análisis de mesa
+2025-05-15 12:45:15 - INFO - Leyendo nick...
+2025-05-15 12:45:15 - ERROR - Error en PaddleOCR: could not execute a primitive
+2025-05-15 12:45:16 - INFO - Tesseract detectó: 'lt'
+2025-05-15 12:45:16 - INFO - Nick final: 'lt'
+2025-05-15 12:45:16 - INFO - Nick detectado: 'lt'
+2025-05-15 12:45:20 - ERROR - Error al obtener/analizar stats: HTTPConnectionPool(host='localhost', port=3000): Max retries exceeded with url: /api/jugador/XPK/lt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000027AF9A886D0>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión'))
+2025-05-15 12:45:22 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 12:45:22 - INFO - Mesa encontrada: 0.2/0.4 6max 🇲🇾①
+2025-05-15 12:45:22 - INFO - Iniciando análisis de mesa
+2025-05-15 12:45:23 - INFO - Leyendo nick...
+2025-05-15 12:45:23 - INFO - PaddleOCR detectó: 'Thaemanho' (confianza: 0.97)
+2025-05-15 12:45:23 - INFO - Nick final: 'Thaemanho'
+2025-05-15 12:45:23 - INFO - Nick detectado: 'Thaemanho'
+2025-05-15 12:45:27 - ERROR - Error al obtener/analizar stats: HTTPConnectionPool(host='localhost', port=3000): Max retries exceeded with url: /api/jugador/XPK/Thaemanho (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000027AF9A891B0>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión'))
+2025-05-15 13:00:37 - INFO - Iniciando PokerBot Pro...
+2025-05-15 13:00:39 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-15 13:00:39 - INFO - Iniciando listener de clic derecho
+2025-05-15 13:00:39 - INFO - Hotkey alt+q registrado correctamente
+2025-05-15 13:00:39 - INFO - Historial cargado: 39 entradas
+2025-05-15 13:00:39 - INFO - Actualizando treeview con 39 entradas de historial
+2025-05-15 13:00:39 - INFO - Se mostraron 39 entradas en el historial
+2025-05-15 13:00:39 - INFO - Hotkey alt+q registrada correctamente
+2025-05-15 13:00:39 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-15 13:00:39 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-15 13:00:54 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 13:00:54 - INFO - Mesa encontrada: 0.2/0.4 6max 🇲🇾①
+2025-05-15 13:00:54 - INFO - Iniciando análisis de mesa
+2025-05-15 13:00:54 - INFO - Leyendo nick...
+2025-05-15 13:00:55 - INFO - Realizando segundo intento con nuevo clic
+2025-05-15 13:00:56 - WARNING - No se pudo detectar ningún nick
+2025-05-15 13:00:56 - WARNING - No se detectó ningún nick
+2025-05-15 13:01:00 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 13:01:00 - INFO - Mesa encontrada: 0.2/0.4 6max 🇲🇾①
+2025-05-15 13:01:00 - INFO - Iniciando análisis de mesa
+2025-05-15 13:01:00 - INFO - Leyendo nick...
+2025-05-15 13:01:00 - INFO - PaddleOCR detectó: 'james2546' (confianza: 1.00)
+2025-05-15 13:01:00 - INFO - Nick final: 'james2546'
+2025-05-15 13:01:00 - INFO - Nick detectado: 'james2546'
+2025-05-15 13:01:04 - ERROR - Error al obtener/analizar stats: HTTPConnectionPool(host='localhost', port=3000): Max retries exceeded with url: /api/jugador/XPK/james2546 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000121AAD2A1D0>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión'))

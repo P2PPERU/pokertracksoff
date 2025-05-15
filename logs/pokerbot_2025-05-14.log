@@ -1,0 +1,1358 @@
+2025-05-14 11:31:33 - INFO - Iniciando PokerBot Pro...
+2025-05-14 11:31:34 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-14 11:31:34 - INFO - Iniciando listener de clic derecho
+2025-05-14 11:31:34 - INFO - Hotkey alt+q registrado correctamente
+2025-05-14 11:31:34 - INFO - Historial cargado: 22 entradas
+2025-05-14 11:31:34 - INFO - Actualizando treeview con 22 entradas de historial
+2025-05-14 11:31:34 - INFO - Se mostraron 22 entradas en el historial
+2025-05-14 11:31:34 - INFO - Hotkey alt+q registrada correctamente
+2025-05-14 11:31:34 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-14 11:31:34 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-14 11:31:35 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 11:31:35 - INFO - Mesa encontrada: 12-May#0.1/0.2 6max 🇲🇾
+2025-05-14 11:31:35 - INFO - Iniciando análisis de mesa
+2025-05-14 11:31:35 - INFO - Leyendo nick...
+2025-05-14 11:31:36 - INFO - Tesseract detectó: 'ーー'
+2025-05-14 11:31:36 - INFO - Nick final: 'ーー'
+2025-05-14 11:31:36 - INFO - Nick detectado: 'ーー'
+2025-05-14 11:31:40 - ERROR - Error al obtener/analizar stats: HTTPConnectionPool(host='localhost', port=3000): Max retries exceeded with url: /api/jugador/XPK/%E3%83%BC%E3%83%BC (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002A411F7FEE0>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión'))
+2025-05-14 11:31:45 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 11:31:45 - INFO - Mesa encontrada: 12-May#0.1/0.2 6max 🇲🇾
+2025-05-14 11:31:45 - INFO - Iniciando análisis de mesa
+2025-05-14 11:31:45 - INFO - Leyendo nick...
+2025-05-14 11:31:46 - INFO - Tesseract detectó: 'ーー'
+2025-05-14 11:31:46 - INFO - Nick final: 'ーー'
+2025-05-14 11:31:46 - INFO - Nick detectado: 'ーー'
+2025-05-14 11:31:50 - ERROR - Error al obtener/analizar stats: HTTPConnectionPool(host='localhost', port=3000): Max retries exceeded with url: /api/jugador/XPK/%E3%83%BC%E3%83%BC (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002A411FD0A30>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión'))
+2025-05-14 11:31:57 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 11:31:57 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 11:32:01 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 11:32:01 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 11:32:15 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 11:32:15 - INFO - Mesa encontrada: 12-May#0.1/0.2 6max 🇲🇾
+2025-05-14 11:32:15 - INFO - Iniciando análisis de mesa
+2025-05-14 11:32:16 - INFO - Leyendo nick...
+2025-05-14 11:32:16 - INFO - Tesseract detectó: 'ーー'
+2025-05-14 11:32:16 - INFO - Nick final: 'ーー'
+2025-05-14 11:32:16 - INFO - Nick detectado: 'ーー'
+2025-05-14 11:32:20 - ERROR - Error al obtener/analizar stats: HTTPConnectionPool(host='localhost', port=3000): Max retries exceeded with url: /api/jugador/XPK/%E3%83%BC%E3%83%BC (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002A411FD1510>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión'))
+2025-05-14 11:35:30 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 11:35:30 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 11:35:35 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 11:35:35 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 11:36:06 - INFO - Iniciando PokerBot Pro...
+2025-05-14 11:36:07 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-14 11:36:07 - INFO - Iniciando listener de clic derecho
+2025-05-14 11:36:07 - INFO - Hotkey alt+q registrado correctamente
+2025-05-14 11:36:07 - INFO - Historial cargado: 22 entradas
+2025-05-14 11:36:07 - INFO - Actualizando treeview con 22 entradas de historial
+2025-05-14 11:36:07 - INFO - Se mostraron 22 entradas en el historial
+2025-05-14 11:36:07 - INFO - Hotkey alt+q registrada correctamente
+2025-05-14 11:36:07 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-14 11:36:07 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-14 11:36:08 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 11:36:08 - INFO - Mesa encontrada: 12-May#0.1/0.2 6max 🇲🇾
+2025-05-14 11:36:08 - INFO - Iniciando análisis de mesa
+2025-05-14 11:36:08 - INFO - Leyendo nick...
+2025-05-14 11:36:09 - INFO - Tesseract detectó: 'ーー'
+2025-05-14 11:36:09 - INFO - Nick final: 'ーー'
+2025-05-14 11:36:09 - INFO - Nick detectado: 'ーー'
+2025-05-14 11:36:13 - ERROR - Error al obtener/analizar stats: HTTPConnectionPool(host='localhost', port=3000): Max retries exceeded with url: /api/jugador/XPK/%E3%83%BC%E3%83%BC (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000259115C8100>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión'))
+2025-05-14 11:36:19 - INFO - Caché de nicks limpiada
+2025-05-14 11:36:23 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 11:36:23 - INFO - Mesa encontrada: 12-May#0.1/0.2 6max 🇲🇾
+2025-05-14 11:36:23 - INFO - Iniciando análisis de mesa
+2025-05-14 11:36:23 - INFO - Leyendo nick...
+2025-05-14 11:36:24 - INFO - Tesseract detectó: 'ーー'
+2025-05-14 11:36:24 - INFO - Nick final: 'ーー'
+2025-05-14 11:36:24 - INFO - Nick detectado: 'ーー'
+2025-05-14 11:36:28 - ERROR - Error al obtener/analizar stats: HTTPConnectionPool(host='localhost', port=3000): Max retries exceeded with url: /api/jugador/XPK/%E3%83%BC%E3%83%BC (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000259115C8C40>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión'))
+2025-05-14 11:37:00 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 11:37:00 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 11:37:06 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 11:37:06 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 11:37:23 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-14 11:37:23 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-14 11:37:23 - INFO - Cerrando aplicación...
+2025-05-14 11:37:23 - INFO - Deteniendo listener de clic derecho
+2025-05-14 11:37:23 - INFO - Aplicación cerrada correctamente
+2025-05-14 11:37:31 - INFO - Iniciando PokerBot Pro...
+2025-05-14 11:37:32 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-14 11:37:32 - INFO - Iniciando listener de clic derecho
+2025-05-14 11:37:32 - INFO - Hotkey alt+q registrado correctamente
+2025-05-14 11:37:32 - INFO - Historial cargado: 22 entradas
+2025-05-14 11:37:32 - INFO - Actualizando treeview con 22 entradas de historial
+2025-05-14 11:37:32 - INFO - Se mostraron 22 entradas en el historial
+2025-05-14 11:37:32 - INFO - Hotkey alt+q registrada correctamente
+2025-05-14 11:37:32 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-14 11:37:32 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-14 11:37:36 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 11:37:36 - INFO - Mesa encontrada: 12-May#0.1/0.2 6max 🇲🇾
+2025-05-14 11:37:36 - INFO - Iniciando análisis de mesa
+2025-05-14 11:37:36 - INFO - Leyendo nick...
+2025-05-14 11:37:38 - INFO - Tesseract detectó: '和'
+2025-05-14 11:37:38 - INFO - Nick final: '和'
+2025-05-14 11:37:38 - INFO - Nick detectado: '和'
+2025-05-14 11:37:42 - ERROR - Error al obtener/analizar stats: HTTPConnectionPool(host='localhost', port=3000): Max retries exceeded with url: /api/jugador/XPK/%E5%92%8C (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002BF79FDC130>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión'))
+2025-05-14 11:37:59 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-14 11:37:59 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-14 11:37:59 - INFO - Cerrando aplicación...
+2025-05-14 11:37:59 - INFO - Deteniendo listener de clic derecho
+2025-05-14 11:37:59 - INFO - Aplicación cerrada correctamente
+2025-05-14 11:38:08 - INFO - Iniciando PokerBot Pro...
+2025-05-14 11:38:10 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-14 11:38:10 - INFO - Iniciando listener de clic derecho
+2025-05-14 11:38:10 - INFO - Hotkey alt+q registrado correctamente
+2025-05-14 11:38:10 - INFO - Historial cargado: 22 entradas
+2025-05-14 11:38:10 - INFO - Actualizando treeview con 22 entradas de historial
+2025-05-14 11:38:10 - INFO - Se mostraron 22 entradas en el historial
+2025-05-14 11:38:10 - INFO - Hotkey alt+q registrada correctamente
+2025-05-14 11:38:10 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-14 11:38:10 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-14 11:38:13 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 11:38:13 - INFO - Mesa encontrada: 12-May#0.1/0.2 6max 🇲🇾
+2025-05-14 11:38:13 - INFO - Iniciando análisis de mesa
+2025-05-14 11:38:13 - INFO - Leyendo nick...
+2025-05-14 11:38:14 - INFO - Tesseract detectó: '和'
+2025-05-14 11:38:14 - INFO - Nick final: '和'
+2025-05-14 11:38:14 - INFO - Nick detectado: '和'
+2025-05-14 11:38:18 - ERROR - Error al obtener/analizar stats: HTTPConnectionPool(host='localhost', port=3000): Max retries exceeded with url: /api/jugador/XPK/%E5%92%8C (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002A3D73CBF70>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión'))
+2025-05-14 11:41:04 - INFO - Iniciando PokerBot Pro...
+2025-05-14 11:41:06 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-14 11:41:06 - INFO - Iniciando listener de clic derecho
+2025-05-14 11:41:06 - INFO - Hotkey alt+q registrado correctamente
+2025-05-14 11:41:06 - INFO - Historial cargado: 22 entradas
+2025-05-14 11:41:06 - INFO - Actualizando treeview con 22 entradas de historial
+2025-05-14 11:41:06 - INFO - Se mostraron 22 entradas en el historial
+2025-05-14 11:41:06 - INFO - Hotkey alt+q registrada correctamente
+2025-05-14 11:41:06 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-14 11:41:06 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-14 11:41:09 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 11:41:09 - INFO - Mesa encontrada: 12-May#0.1/0.2 6max 🇲🇾
+2025-05-14 11:41:09 - INFO - Iniciando análisis de mesa
+2025-05-14 11:41:09 - INFO - Leyendo nick...
+2025-05-14 11:41:10 - INFO - Tesseract detectó: 'LieBLiut'
+2025-05-14 11:41:10 - INFO - Nick final: 'LieBLiut'
+2025-05-14 11:41:10 - INFO - Nick detectado: 'LieBLiut'
+2025-05-14 11:41:14 - ERROR - Error al obtener/analizar stats: HTTPConnectionPool(host='localhost', port=3000): Max retries exceeded with url: /api/jugador/XPK/LieBLiut (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EA6DC70580>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión'))
+2025-05-14 11:42:15 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-14 11:42:15 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-14 11:42:15 - INFO - Cerrando aplicación...
+2025-05-14 11:42:15 - INFO - Deteniendo listener de clic derecho
+2025-05-14 11:42:15 - INFO - Aplicación cerrada correctamente
+2025-05-14 11:42:25 - INFO - Iniciando PokerBot Pro...
+2025-05-14 11:42:26 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-14 11:42:26 - INFO - Iniciando listener de clic derecho
+2025-05-14 11:42:26 - INFO - Hotkey alt+q registrado correctamente
+2025-05-14 11:42:27 - INFO - Historial cargado: 22 entradas
+2025-05-14 11:42:27 - INFO - Actualizando treeview con 22 entradas de historial
+2025-05-14 11:42:27 - INFO - Se mostraron 22 entradas en el historial
+2025-05-14 11:42:27 - INFO - Hotkey alt+q registrada correctamente
+2025-05-14 11:42:27 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-14 11:42:27 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-14 11:42:31 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 11:42:31 - INFO - Mesa encontrada: 12-May#0.1/0.2 6max 🇲🇾
+2025-05-14 11:42:31 - INFO - Iniciando análisis de mesa
+2025-05-14 11:42:31 - INFO - Leyendo nick...
+2025-05-14 11:42:31 - INFO - PaddleOCR detectó: 'DieQut' (confianza: 0.87)
+2025-05-14 11:42:31 - INFO - Nick final: 'DieQut'
+2025-05-14 11:42:31 - INFO - Nick detectado: 'DieQut'
+2025-05-14 11:42:35 - ERROR - Error al obtener/analizar stats: HTTPConnectionPool(host='localhost', port=3000): Max retries exceeded with url: /api/jugador/XPK/DieQut (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000013F7193A020>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión'))
+2025-05-14 11:43:01 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-14 11:43:01 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-14 11:43:01 - INFO - Cerrando aplicación...
+2025-05-14 11:43:01 - INFO - Deteniendo listener de clic derecho
+2025-05-14 11:43:01 - INFO - Aplicación cerrada correctamente
+2025-05-14 11:43:09 - INFO - Iniciando PokerBot Pro...
+2025-05-14 11:43:11 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-14 11:43:11 - INFO - Iniciando listener de clic derecho
+2025-05-14 11:43:11 - INFO - Hotkey alt+q registrado correctamente
+2025-05-14 11:43:11 - INFO - Historial cargado: 22 entradas
+2025-05-14 11:43:11 - INFO - Actualizando treeview con 22 entradas de historial
+2025-05-14 11:43:11 - INFO - Se mostraron 22 entradas en el historial
+2025-05-14 11:43:11 - INFO - Hotkey alt+q registrada correctamente
+2025-05-14 11:43:11 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-14 11:43:11 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-14 11:43:12 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 11:43:12 - INFO - Mesa encontrada: 12-May#0.1/0.2 6max 🇲🇾
+2025-05-14 11:43:12 - INFO - Iniciando análisis de mesa
+2025-05-14 11:43:12 - INFO - Leyendo nick...
+2025-05-14 11:43:12 - INFO - PaddleOCR detectó: 'DieOut' (confianza: 0.98)
+2025-05-14 11:43:12 - INFO - Nick final: 'DieOut'
+2025-05-14 11:43:12 - INFO - Nick detectado: 'DieOut'
+2025-05-14 11:43:16 - ERROR - Error al obtener/analizar stats: HTTPConnectionPool(host='localhost', port=3000): Max retries exceeded with url: /api/jugador/XPK/DieOut (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000025E4F785BD0>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión'))
+2025-05-14 11:43:22 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 11:43:22 - INFO - Mesa encontrada: 12-May#0.1/0.2 6max 🇲🇾
+2025-05-14 11:43:22 - INFO - Iniciando análisis de mesa
+2025-05-14 11:43:22 - INFO - Leyendo nick...
+2025-05-14 11:43:22 - ERROR - Error en PaddleOCR: could not execute a primitive
+2025-05-14 11:43:23 - INFO - Tesseract detectó: '_DKF123'
+2025-05-14 11:43:23 - INFO - Nick final: '_DKF123'
+2025-05-14 11:43:23 - INFO - Nick detectado: '_DKF123'
+2025-05-14 11:43:27 - ERROR - Error al obtener/analizar stats: HTTPConnectionPool(host='localhost', port=3000): Max retries exceeded with url: /api/jugador/XPK/_DKF123 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000025E50A34490>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión'))
+2025-05-14 11:43:33 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 11:43:33 - INFO - Mesa encontrada: 12-May#0.1/0.2 6max 🇲🇾
+2025-05-14 11:43:33 - INFO - Iniciando análisis de mesa
+2025-05-14 11:43:33 - INFO - Leyendo nick...
+2025-05-14 11:43:33 - INFO - PaddleOCR detectó: 'FireDrag' (confianza: 0.97)
+2025-05-14 11:43:33 - INFO - Nick final: 'FireDrag'
+2025-05-14 11:43:33 - INFO - Nick detectado: 'FireDrag'
+2025-05-14 11:43:37 - ERROR - Error al obtener/analizar stats: HTTPConnectionPool(host='localhost', port=3000): Max retries exceeded with url: /api/jugador/XPK/FireDrag (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000025E50A34F70>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión'))
+2025-05-14 11:44:12 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-14 11:44:12 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-14 11:44:12 - INFO - Cerrando aplicación...
+2025-05-14 11:44:12 - INFO - Deteniendo listener de clic derecho
+2025-05-14 11:44:12 - INFO - Aplicación cerrada correctamente
+2025-05-14 11:44:26 - INFO - Iniciando PokerBot Pro...
+2025-05-14 11:44:27 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-14 11:44:27 - INFO - Iniciando listener de clic derecho
+2025-05-14 11:44:27 - INFO - Hotkey alt+q registrado correctamente
+2025-05-14 11:44:27 - INFO - Historial cargado: 22 entradas
+2025-05-14 11:44:27 - INFO - Actualizando treeview con 22 entradas de historial
+2025-05-14 11:44:27 - INFO - Se mostraron 22 entradas en el historial
+2025-05-14 11:44:27 - INFO - Hotkey alt+q registrada correctamente
+2025-05-14 11:44:27 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-14 11:44:27 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-14 11:44:31 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 11:44:31 - INFO - Mesa encontrada: 12-May#0.1/0.2 6max 🇲🇾
+2025-05-14 11:44:31 - INFO - Iniciando análisis de mesa
+2025-05-14 11:44:31 - INFO - Leyendo nick...
+2025-05-14 11:44:31 - INFO - PaddleOCR detectó: 'FireDragon' (confianza: 1.00)
+2025-05-14 11:44:31 - INFO - Nick final: 'FireDragon'
+2025-05-14 11:44:31 - INFO - Nick detectado: 'FireDragon'
+2025-05-14 11:44:35 - ERROR - Error al obtener/analizar stats: HTTPConnectionPool(host='localhost', port=3000): Max retries exceeded with url: /api/jugador/XPK/FireDragon (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002849A6056F0>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión'))
+2025-05-14 11:44:38 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 11:44:38 - INFO - Mesa encontrada: 12-May#0.1/0.2 6max 🇲🇾
+2025-05-14 11:44:38 - INFO - Iniciando análisis de mesa
+2025-05-14 11:44:38 - INFO - Leyendo nick...
+2025-05-14 11:44:38 - ERROR - Error en PaddleOCR: could not execute a primitive
+2025-05-14 11:44:39 - INFO - Tesseract detectó: 'XXXXXX'
+2025-05-14 11:44:39 - INFO - Nick final: 'XXXXXX'
+2025-05-14 11:44:39 - INFO - Nick detectado: 'XXXXXX'
+2025-05-14 11:44:43 - ERROR - Error al obtener/analizar stats: HTTPConnectionPool(host='localhost', port=3000): Max retries exceeded with url: /api/jugador/XPK/XXXXXX (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002849B7B7F70>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión'))
+2025-05-14 11:44:43 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 11:44:43 - INFO - Mesa encontrada: 12-May#0.1/0.2 6max 🇲🇾
+2025-05-14 11:44:43 - INFO - Iniciando análisis de mesa
+2025-05-14 11:44:43 - INFO - Leyendo nick...
+2025-05-14 11:44:44 - INFO - PaddleOCR detectó: 'MidStakesPok' (confianza: 0.99)
+2025-05-14 11:44:44 - INFO - Nick final: 'MidStakesPok'
+2025-05-14 11:44:44 - INFO - Nick detectado: 'MidStakesPok'
+2025-05-14 11:44:48 - ERROR - Error al obtener/analizar stats: HTTPConnectionPool(host='localhost', port=3000): Max retries exceeded with url: /api/jugador/XPK/MidStakesPok (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002849B804A90>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión'))
+2025-05-14 11:44:59 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 11:44:59 - INFO - Mesa encontrada: 12-May#0.1/0.2 6max 🇲🇾
+2025-05-14 11:44:59 - INFO - Iniciando análisis de mesa
+2025-05-14 11:44:59 - INFO - Leyendo nick...
+2025-05-14 11:44:59 - ERROR - Error en PaddleOCR: could not execute a primitive
+2025-05-14 11:44:59 - INFO - Tesseract detectó: 'DKF123'
+2025-05-14 11:44:59 - INFO - Nick final: 'DKF123'
+2025-05-14 11:44:59 - INFO - Nick detectado: 'DKF123'
+2025-05-14 11:45:04 - ERROR - Error al obtener/analizar stats: HTTPConnectionPool(host='localhost', port=3000): Max retries exceeded with url: /api/jugador/XPK/DKF123 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002849A605990>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión'))
+2025-05-14 11:45:07 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 11:45:07 - INFO - Mesa encontrada: 12-May#0.1/0.2 6max 🇲🇾
+2025-05-14 11:45:07 - INFO - Iniciando análisis de mesa
+2025-05-14 11:45:07 - INFO - Leyendo nick...
+2025-05-14 11:45:07 - INFO - PaddleOCR detectó: 'XP3323574' (confianza: 1.00)
+2025-05-14 11:45:07 - INFO - Nick final: 'XP3323574'
+2025-05-14 11:45:07 - INFO - Nick detectado: 'XP3323574'
+2025-05-14 11:45:11 - ERROR - Error al obtener/analizar stats: HTTPConnectionPool(host='localhost', port=3000): Max retries exceeded with url: /api/jugador/XPK/XP3323574 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002849B8045E0>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión'))
+2025-05-14 11:45:49 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 11:45:49 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 11:45:55 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 11:45:55 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 11:47:02 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 11:47:02 - INFO - Mesa encontrada: 12-May#0.1/0.2 6max 🇲🇾
+2025-05-14 11:47:02 - INFO - Iniciando análisis de mesa
+2025-05-14 11:47:02 - INFO - Leyendo nick...
+2025-05-14 11:47:02 - ERROR - Error en PaddleOCR: could not execute a primitive
+2025-05-14 11:47:03 - INFO - Tesseract detectó: 'DieOut'
+2025-05-14 11:47:03 - INFO - Nick final: 'DieOut'
+2025-05-14 11:47:03 - INFO - Nick detectado: 'DieOut'
+2025-05-14 11:47:05 - INFO - Stats: VPIP:13 PFR:10 3B:1 F3B:83 WTSD:18 WSD:80 CF:20 CT:100
+2025-05-14 11:47:05 - INFO - Análisis: 🎯 Informe sobre DieOut:
+
+1️⃣ Estilo de juego: 
+Jugador TAG con tendencia a ser pasivo postflop.
+
+2️⃣...
+2025-05-14 11:47:06 - INFO - Texto pegado en ventana de poker
+2025-05-14 11:47:06 - INFO - Historial cargado: 22 entradas
+2025-05-14 11:47:06 - INFO - Historial cargado para agregar entrada: 22 entradas existentes
+2025-05-14 11:47:06 - INFO - Historial guardado: 23 entradas
+2025-05-14 11:47:06 - INFO - Entrada añadida al historial. Nuevo total: 23 entradas
+2025-05-14 11:47:06 - INFO - Actualización de historial UI programada
+2025-05-14 11:47:06 - INFO - Análisis completado con éxito
+2025-05-14 11:47:06 - INFO - Historial cargado: 23 entradas
+2025-05-14 11:47:06 - INFO - Actualizando treeview con 23 entradas de historial
+2025-05-14 11:47:06 - INFO - Se mostraron 23 entradas en el historial
+2025-05-14 11:47:06 - INFO - Historial UI actualizado correctamente
+2025-05-14 11:47:41 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 11:47:41 - INFO - Mesa encontrada: 12-May#0.1/0.2 6max 🇲🇾
+2025-05-14 11:47:41 - INFO - Iniciando análisis de mesa
+2025-05-14 11:47:41 - INFO - Nick recuperado de caché: 'DieOut'
+2025-05-14 11:47:41 - ERROR - Error al obtener/analizar stats: Error al obtener stats: Código 401, {"error":"Acceso denegado, token no proporcionado o mal formateado"}
+2025-05-14 11:48:31 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 11:48:31 - INFO - Mesa encontrada: 12-May#0.1/0.2 6max 🇲🇾
+2025-05-14 11:48:31 - INFO - Iniciando análisis de mesa
+2025-05-14 11:48:31 - INFO - Leyendo nick...
+2025-05-14 11:48:31 - INFO - PaddleOCR detectó: 'DieOut' (confianza: 0.99)
+2025-05-14 11:48:31 - INFO - Nick final: 'DieOut'
+2025-05-14 11:48:31 - INFO - Nick detectado: 'DieOut'
+2025-05-14 11:48:33 - INFO - Stats: VPIP:13 PFR:10 3B:1 F3B:83 WTSD:18 WSD:80 CF:20 CT:100
+2025-05-14 11:48:33 - INFO - Análisis: 🎯 Informe sobre DieOut:
+
+1️⃣ Estilo de juego: 
+Jugador TAG con tendencia a ser pasivo postflop.
+
+2️⃣...
+2025-05-14 11:48:33 - INFO - Texto pegado en ventana de poker
+2025-05-14 11:48:33 - INFO - Historial cargado: 23 entradas
+2025-05-14 11:48:33 - INFO - Historial cargado para agregar entrada: 23 entradas existentes
+2025-05-14 11:48:33 - INFO - Historial guardado: 24 entradas
+2025-05-14 11:48:33 - INFO - Entrada añadida al historial. Nuevo total: 24 entradas
+2025-05-14 11:48:33 - INFO - Actualización de historial UI programada
+2025-05-14 11:48:33 - INFO - Análisis completado con éxito
+2025-05-14 11:48:33 - INFO - Historial cargado: 24 entradas
+2025-05-14 11:48:33 - INFO - Actualizando treeview con 24 entradas de historial
+2025-05-14 11:48:33 - INFO - Se mostraron 24 entradas en el historial
+2025-05-14 11:48:33 - INFO - Historial UI actualizado correctamente
+2025-05-14 11:48:42 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 11:48:42 - INFO - Mesa encontrada: 12-May#0.1/0.2 6max 🇲🇾
+2025-05-14 11:48:42 - INFO - Iniciando análisis de mesa
+2025-05-14 11:48:42 - INFO - Nick recuperado de caché: 'DieOut'
+2025-05-14 11:48:44 - INFO - Stats: VPIP:13 PFR:10 3B:1 F3B:83 WTSD:18 WSD:80 CF:20 CT:100
+2025-05-14 11:48:44 - INFO - Análisis: 🎯 Informe sobre DieOut:
+
+1️⃣ Estilo de juego: 
+Jugador nit con tendencia a ser pasivo en las calles ...
+2025-05-14 11:48:44 - INFO - Texto pegado en ventana de poker
+2025-05-14 11:48:44 - INFO - Historial cargado: 24 entradas
+2025-05-14 11:48:44 - INFO - Historial cargado para agregar entrada: 24 entradas existentes
+2025-05-14 11:48:44 - INFO - Historial guardado: 25 entradas
+2025-05-14 11:48:44 - INFO - Entrada añadida al historial. Nuevo total: 25 entradas
+2025-05-14 11:48:44 - INFO - Actualización de historial UI programada
+2025-05-14 11:48:44 - INFO - Análisis completado con éxito
+2025-05-14 11:48:44 - INFO - Historial cargado: 25 entradas
+2025-05-14 11:48:44 - INFO - Actualizando treeview con 25 entradas de historial
+2025-05-14 11:48:44 - INFO - Se mostraron 25 entradas en el historial
+2025-05-14 11:48:44 - INFO - Historial UI actualizado correctamente
+2025-05-14 11:48:49 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 11:48:49 - INFO - Mesa encontrada: 12-May#0.1/0.2 6max 🇲🇾
+2025-05-14 11:48:49 - INFO - Iniciando análisis de mesa
+2025-05-14 11:48:49 - INFO - Nick recuperado de caché: 'DieOut'
+2025-05-14 11:48:50 - INFO - Stats: VPIP:13 PFR:10 3B:1 F3B:83 WTSD:18 WSD:80 CF:20 CT:100
+2025-05-14 11:48:50 - INFO - Análisis: 🎯 Informe sobre DieOut:
+
+1️⃣ Estilo de juego: 
+Jugador TAG con tendencia a ser pasivo postflop.
+
+2️⃣...
+2025-05-14 11:48:51 - INFO - Texto pegado en ventana de poker
+2025-05-14 11:48:51 - INFO - Historial cargado: 25 entradas
+2025-05-14 11:48:51 - INFO - Historial cargado para agregar entrada: 25 entradas existentes
+2025-05-14 11:48:51 - INFO - Historial guardado: 26 entradas
+2025-05-14 11:48:51 - INFO - Entrada añadida al historial. Nuevo total: 26 entradas
+2025-05-14 11:48:51 - INFO - Actualización de historial UI programada
+2025-05-14 11:48:51 - INFO - Análisis completado con éxito
+2025-05-14 11:48:51 - INFO - Historial cargado: 26 entradas
+2025-05-14 11:48:51 - INFO - Actualizando treeview con 26 entradas de historial
+2025-05-14 11:48:51 - INFO - Se mostraron 26 entradas en el historial
+2025-05-14 11:48:51 - INFO - Historial UI actualizado correctamente
+2025-05-14 11:49:15 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 11:49:15 - INFO - Mesa encontrada: 12-May#0.1/0.2 6max 🇲🇾
+2025-05-14 11:49:15 - INFO - Iniciando análisis de mesa
+2025-05-14 11:49:15 - INFO - Nick recuperado de caché: 'DieOut'
+2025-05-14 11:49:17 - INFO - Stats: VPIP:13 PFR:10 3B:1 F3B:83 WTSD:18 WSD:80 CF:20 CT:100
+2025-05-14 11:49:17 - INFO - Análisis: 🎯 Informe sobre DieOut:
+
+1️⃣ Estilo de juego: Pasivo preflop, agresivo postflop. 
+
+2️⃣ Errores explo...
+2025-05-14 11:49:17 - INFO - Texto pegado en ventana de poker
+2025-05-14 11:49:17 - INFO - Historial cargado: 26 entradas
+2025-05-14 11:49:17 - INFO - Historial cargado para agregar entrada: 26 entradas existentes
+2025-05-14 11:49:17 - INFO - Historial guardado: 27 entradas
+2025-05-14 11:49:17 - INFO - Entrada añadida al historial. Nuevo total: 27 entradas
+2025-05-14 11:49:17 - INFO - Actualización de historial UI programada
+2025-05-14 11:49:17 - INFO - Análisis completado con éxito
+2025-05-14 11:49:17 - INFO - Historial cargado: 27 entradas
+2025-05-14 11:49:17 - INFO - Actualizando treeview con 27 entradas de historial
+2025-05-14 11:49:17 - INFO - Se mostraron 27 entradas en el historial
+2025-05-14 11:49:17 - INFO - Historial UI actualizado correctamente
+2025-05-14 11:49:27 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 11:49:27 - INFO - Mesa encontrada: 12-May#0.1/0.2 6max 🇲🇾
+2025-05-14 11:49:27 - INFO - Iniciando análisis de mesa
+2025-05-14 11:49:27 - INFO - Nick recuperado de caché: 'DieOut'
+2025-05-14 11:49:29 - INFO - Stats: VPIP:13 PFR:10 3B:1 F3B:83 WTSD:18 WSD:80 CF:20 CT:100
+2025-05-14 11:49:29 - INFO - Análisis: 🎯 Informe sobre DieOut:
+
+1️⃣ Estilo de juego: 
+Jugador tight-passive con tendencia a pagar mucho pos...
+2025-05-14 11:49:30 - INFO - Texto pegado en ventana de poker
+2025-05-14 11:49:30 - INFO - Historial cargado: 27 entradas
+2025-05-14 11:49:30 - INFO - Historial cargado para agregar entrada: 27 entradas existentes
+2025-05-14 11:49:30 - INFO - Historial guardado: 28 entradas
+2025-05-14 11:49:30 - INFO - Entrada añadida al historial. Nuevo total: 28 entradas
+2025-05-14 11:49:30 - INFO - Actualización de historial UI programada
+2025-05-14 11:49:30 - INFO - Análisis completado con éxito
+2025-05-14 11:49:30 - INFO - Historial cargado: 28 entradas
+2025-05-14 11:49:30 - INFO - Actualizando treeview con 28 entradas de historial
+2025-05-14 11:49:30 - INFO - Se mostraron 28 entradas en el historial
+2025-05-14 11:49:30 - INFO - Historial UI actualizado correctamente
+2025-05-14 11:49:54 - INFO - Iniciando PokerBot Pro...
+2025-05-14 11:49:56 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-14 11:49:56 - INFO - Iniciando listener de clic derecho
+2025-05-14 11:49:56 - INFO - Hotkey alt+q registrado correctamente
+2025-05-14 11:49:56 - INFO - Historial cargado: 28 entradas
+2025-05-14 11:49:56 - INFO - Actualizando treeview con 28 entradas de historial
+2025-05-14 11:49:56 - INFO - Se mostraron 28 entradas en el historial
+2025-05-14 11:49:56 - INFO - Hotkey alt+q registrada correctamente
+2025-05-14 11:49:56 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-14 11:49:56 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-14 11:50:00 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 11:50:00 - INFO - Mesa encontrada: 12-May#0.1/0.2 6max 🇲🇾
+2025-05-14 11:50:00 - INFO - Iniciando análisis de mesa
+2025-05-14 11:50:00 - INFO - Leyendo nick...
+2025-05-14 11:50:01 - INFO - PaddleOCR detectó: 'FireDragon' (confianza: 1.00)
+2025-05-14 11:50:01 - INFO - Nick final: 'FireDragon'
+2025-05-14 11:50:01 - INFO - Nick detectado: 'FireDragon'
+2025-05-14 11:50:03 - INFO - Stats: VPIP:60 PFR:13 3B:5 F3B:14 WTSD:30 WSD:51 CF:61 CT:64
+2025-05-14 11:50:03 - INFO - Análisis: 🎯 Informe sobre FireDragon:
+
+1️⃣ Estilo de juego: 
+Pasivo preflop con un VPIP alto y PFR bajo, pero ...
+2025-05-14 11:50:03 - INFO - Texto pegado en ventana de poker
+2025-05-14 11:50:03 - INFO - Historial cargado: 28 entradas
+2025-05-14 11:50:03 - INFO - Historial cargado para agregar entrada: 28 entradas existentes
+2025-05-14 11:50:03 - INFO - Historial guardado: 29 entradas
+2025-05-14 11:50:03 - INFO - Entrada añadida al historial. Nuevo total: 29 entradas
+2025-05-14 11:50:03 - INFO - Actualización de historial UI programada
+2025-05-14 11:50:03 - INFO - Análisis completado con éxito
+2025-05-14 11:50:03 - INFO - Historial cargado: 29 entradas
+2025-05-14 11:50:03 - INFO - Actualizando treeview con 29 entradas de historial
+2025-05-14 11:50:03 - INFO - Se mostraron 29 entradas en el historial
+2025-05-14 11:50:03 - INFO - Historial UI actualizado correctamente
+2025-05-14 11:50:07 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 11:50:07 - INFO - Mesa encontrada: 12-May#0.1/0.2 6max 🇲🇾
+2025-05-14 11:50:07 - INFO - Iniciando análisis de mesa
+2025-05-14 11:50:07 - INFO - Nick recuperado de caché: 'FireDragon'
+2025-05-14 11:50:09 - INFO - Stats: VPIP:60 PFR:13 3B:5 F3B:14 WTSD:30 WSD:51 CF:61 CT:64
+2025-05-14 11:50:09 - INFO - Análisis: 🎯 Informe sobre FireDragon:
+
+1️⃣ Estilo de juego: Jugador extremadamente pasivo con VPIP alto y PFR ...
+2025-05-14 11:50:09 - INFO - Texto pegado en ventana de poker
+2025-05-14 11:50:09 - INFO - Historial cargado: 29 entradas
+2025-05-14 11:50:09 - INFO - Historial cargado para agregar entrada: 29 entradas existentes
+2025-05-14 11:50:09 - INFO - Historial guardado: 30 entradas
+2025-05-14 11:50:09 - INFO - Entrada añadida al historial. Nuevo total: 30 entradas
+2025-05-14 11:50:09 - INFO - Actualización de historial UI programada
+2025-05-14 11:50:09 - INFO - Análisis completado con éxito
+2025-05-14 11:50:09 - INFO - Historial cargado: 30 entradas
+2025-05-14 11:50:09 - INFO - Actualizando treeview con 30 entradas de historial
+2025-05-14 11:50:09 - INFO - Se mostraron 30 entradas en el historial
+2025-05-14 11:50:09 - INFO - Historial UI actualizado correctamente
+2025-05-14 11:56:09 - INFO - Iniciando PokerBot Pro...
+2025-05-14 11:56:10 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-14 11:56:10 - INFO - Iniciando listener de clic derecho
+2025-05-14 11:56:11 - INFO - Hotkey alt+q registrado correctamente
+2025-05-14 11:56:11 - INFO - Historial cargado: 30 entradas
+2025-05-14 11:56:11 - INFO - Actualizando treeview con 30 entradas de historial
+2025-05-14 11:56:11 - INFO - Se mostraron 30 entradas en el historial
+2025-05-14 11:56:11 - INFO - Hotkey alt+q registrada correctamente
+2025-05-14 11:56:11 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-14 11:56:11 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-14 11:56:13 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 11:56:13 - INFO - Mesa encontrada: 12-May#0.1/0.2 6max 🇲🇾
+2025-05-14 11:56:13 - INFO - Iniciando análisis de mesa
+2025-05-14 11:56:13 - INFO - Leyendo nick...
+2025-05-14 11:56:13 - INFO - PaddleOCR detectó: 'DKF123' (confianza: 1.00)
+2025-05-14 11:56:13 - INFO - Nick final: 'DKF123'
+2025-05-14 11:56:13 - ERROR - Error en análisis de mesa: local variable 'capture_window_region' referenced before assignment
+2025-05-14 11:56:13 - ERROR - Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\poker_analyzer.py", line 156, in analyze_table
+    img = capture_window_region(hwnd, coords)
+UnboundLocalError: local variable 'capture_window_region' referenced before assignment
+
+2025-05-14 11:56:26 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 11:56:26 - INFO - Mesa encontrada: 12-May#0.1/0.2 6max 🇲🇾
+2025-05-14 11:56:26 - INFO - Iniciando análisis de mesa
+2025-05-14 11:56:26 - ERROR - Error en análisis de mesa: 'str' object cannot be interpreted as an integer
+2025-05-14 11:56:26 - ERROR - Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\poker_analyzer.py", line 118, in analyze_table
+    img = capture_window_region(hwnd, coords)
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\ocr_engine.py", line 57, in capture_window_region
+    saveBitMap.CreateCompatibleBitmap(mfcDC, w, h)
+TypeError: 'str' object cannot be interpreted as an integer
+
+2025-05-14 11:56:29 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 11:56:29 - INFO - Mesa encontrada: 12-May#0.1/0.2 6max 🇲🇾
+2025-05-14 11:56:29 - INFO - Iniciando análisis de mesa
+2025-05-14 11:56:29 - ERROR - Error en análisis de mesa: 'str' object cannot be interpreted as an integer
+2025-05-14 11:56:29 - ERROR - Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\poker_analyzer.py", line 118, in analyze_table
+    img = capture_window_region(hwnd, coords)
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\ocr_engine.py", line 57, in capture_window_region
+    saveBitMap.CreateCompatibleBitmap(mfcDC, w, h)
+TypeError: 'str' object cannot be interpreted as an integer
+
+2025-05-14 11:56:29 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 11:56:29 - INFO - Mesa encontrada: 12-May#0.1/0.2 6max 🇲🇾
+2025-05-14 11:56:29 - INFO - Iniciando análisis de mesa
+2025-05-14 11:56:29 - ERROR - Error en análisis de mesa: 'str' object cannot be interpreted as an integer
+2025-05-14 11:56:29 - ERROR - Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\poker_analyzer.py", line 118, in analyze_table
+    img = capture_window_region(hwnd, coords)
+  File "C:\Users\USER\Desktop\pokerprosof\src\core\ocr_engine.py", line 57, in capture_window_region
+    saveBitMap.CreateCompatibleBitmap(mfcDC, w, h)
+TypeError: 'str' object cannot be interpreted as an integer
+
+2025-05-14 12:08:01 - INFO - Iniciando PokerBot Pro...
+2025-05-14 12:08:02 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-14 12:08:02 - INFO - Iniciando listener de clic derecho
+2025-05-14 12:08:02 - INFO - Hotkey alt+q registrado correctamente
+2025-05-14 12:08:02 - INFO - Historial cargado: 30 entradas
+2025-05-14 12:08:02 - INFO - Actualizando treeview con 30 entradas de historial
+2025-05-14 12:08:02 - INFO - Se mostraron 30 entradas en el historial
+2025-05-14 12:08:02 - INFO - Hotkey alt+q registrada correctamente
+2025-05-14 12:08:02 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-14 12:08:02 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-14 12:08:06 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:08:06 - INFO - Mesa encontrada: 12-May#0.1/0.2 6max 🇲🇾
+2025-05-14 12:08:06 - INFO - Iniciando análisis de mesa
+2025-05-14 12:08:06 - INFO - Leyendo nick...
+2025-05-14 12:08:06 - INFO - PaddleOCR detectó: 'DieOut' (confianza: 0.98)
+2025-05-14 12:08:06 - INFO - Nick final: 'DieOut'
+2025-05-14 12:08:06 - INFO - Nick detectado: 'DieOut'
+2025-05-14 12:08:09 - INFO - Stats: VPIP:13 PFR:10 3B:1 F3B:83 WTSD:18 WSD:80 CF:20 CT:100
+2025-05-14 12:08:09 - INFO - Análisis: 🎯 Informe sobre DieOut:
+
+1️⃣ Estilo de juego: 
+Jugador tight-passive, con VPIP bajo y PFR aún más ba...
+2025-05-14 12:08:09 - INFO - Texto pegado en ventana de poker
+2025-05-14 12:08:09 - INFO - Historial cargado: 30 entradas
+2025-05-14 12:08:09 - INFO - Historial cargado para agregar entrada: 30 entradas existentes
+2025-05-14 12:08:09 - INFO - Historial guardado: 31 entradas
+2025-05-14 12:08:09 - INFO - Entrada añadida al historial. Nuevo total: 31 entradas
+2025-05-14 12:08:09 - INFO - Actualización de historial UI programada
+2025-05-14 12:08:09 - INFO - Análisis completado con éxito
+2025-05-14 12:08:09 - INFO - Historial cargado: 31 entradas
+2025-05-14 12:08:09 - INFO - Actualizando treeview con 31 entradas de historial
+2025-05-14 12:08:09 - INFO - Se mostraron 31 entradas en el historial
+2025-05-14 12:08:09 - INFO - Historial UI actualizado correctamente
+2025-05-14 12:08:13 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:08:13 - INFO - Mesa encontrada: 12-May#0.1/0.2 6max 🇲🇾
+2025-05-14 12:08:13 - INFO - Iniciando análisis de mesa
+2025-05-14 12:08:13 - INFO - Detectado cambio de jugador en la misma ventana
+2025-05-14 12:08:13 - INFO - La ventana cambió, obteniendo nuevo nick...
+2025-05-14 12:08:13 - INFO - Leyendo nick...
+2025-05-14 12:08:13 - ERROR - Error en PaddleOCR: could not execute a primitive
+2025-05-14 12:08:14 - INFO - Tesseract detectó: 'DKF123'
+2025-05-14 12:08:14 - INFO - Nick final: 'DKF123'
+2025-05-14 12:08:14 - INFO - Nick detectado: 'DKF123'
+2025-05-14 12:08:16 - INFO - Stats: VPIP:64 PFR:15 3B:0 F3B:0 WTSD:42 WSD:36 CF:50 CT:100
+2025-05-14 12:08:16 - INFO - Análisis: 🎯 Informe sobre DKF123:
+
+1️⃣ Estilo de juego: 
+Pasivo, con un VPIP alto y PFR bajo.
+
+2️⃃ Errores exp...
+2025-05-14 12:08:16 - INFO - Texto pegado en ventana de poker
+2025-05-14 12:08:16 - INFO - Historial cargado: 31 entradas
+2025-05-14 12:08:16 - INFO - Historial cargado para agregar entrada: 31 entradas existentes
+2025-05-14 12:08:16 - INFO - Historial guardado: 32 entradas
+2025-05-14 12:08:16 - INFO - Entrada añadida al historial. Nuevo total: 32 entradas
+2025-05-14 12:08:16 - INFO - Actualización de historial UI programada
+2025-05-14 12:08:16 - INFO - Análisis completado con éxito
+2025-05-14 12:08:16 - INFO - Historial cargado: 32 entradas
+2025-05-14 12:08:16 - INFO - Actualizando treeview con 32 entradas de historial
+2025-05-14 12:08:16 - INFO - Se mostraron 32 entradas en el historial
+2025-05-14 12:08:16 - INFO - Historial UI actualizado correctamente
+2025-05-14 12:08:21 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:08:21 - INFO - Mesa encontrada: 12-May#0.1/0.2 6max 🇲🇾
+2025-05-14 12:08:21 - INFO - Iniciando análisis de mesa
+2025-05-14 12:08:21 - INFO - Detectado cambio de jugador en la misma ventana
+2025-05-14 12:08:21 - INFO - La ventana cambió, obteniendo nuevo nick...
+2025-05-14 12:08:21 - INFO - Leyendo nick...
+2025-05-14 12:08:22 - INFO - PaddleOCR detectó: 'MidStakesPok' (confianza: 0.99)
+2025-05-14 12:08:22 - INFO - Nick final: 'MidStakesPok'
+2025-05-14 12:08:22 - INFO - Nick detectado: 'MidStakesPok'
+2025-05-14 12:08:25 - INFO - Stats: VPIP:13 PFR:6 3B:0 F3B:None WTSD:10 WSD:100 CF:100 CT:66
+2025-05-14 12:08:25 - INFO - Análisis: 🎯 Informe sobre MidStakesPok:
+
+1️⃣ Estilo de juego: Pasivo preflop, agresivo en el flop pero tiende ...
+2025-05-14 12:08:25 - INFO - Texto pegado en ventana de poker
+2025-05-14 12:08:25 - INFO - Historial cargado: 32 entradas
+2025-05-14 12:08:25 - INFO - Historial cargado para agregar entrada: 32 entradas existentes
+2025-05-14 12:08:25 - INFO - Historial guardado: 33 entradas
+2025-05-14 12:08:25 - INFO - Entrada añadida al historial. Nuevo total: 33 entradas
+2025-05-14 12:08:25 - INFO - Actualización de historial UI programada
+2025-05-14 12:08:25 - INFO - Análisis completado con éxito
+2025-05-14 12:08:25 - INFO - Historial cargado: 33 entradas
+2025-05-14 12:08:25 - INFO - Actualizando treeview con 33 entradas de historial
+2025-05-14 12:08:25 - INFO - Se mostraron 33 entradas en el historial
+2025-05-14 12:08:25 - INFO - Historial UI actualizado correctamente
+2025-05-14 12:08:37 - INFO - Historial cargado: 33 entradas
+2025-05-14 12:17:01 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:17:01 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:17:21 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:17:21 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:24:19 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:24:19 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:24:36 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:24:36 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:24:44 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:24:44 - INFO - Mesa encontrada: 0.1/0.2 6max 🇲🇾①
+2025-05-14 12:24:44 - INFO - Iniciando análisis de mesa
+2025-05-14 12:24:44 - INFO - Leyendo nick...
+2025-05-14 12:24:44 - ERROR - Error en PaddleOCR: could not execute a primitive
+2025-05-14 12:24:45 - INFO - Tesseract detectó: 'Kg'
+2025-05-14 12:24:45 - INFO - Nick final: 'Kg'
+2025-05-14 12:24:45 - INFO - Nick detectado: 'Kg'
+2025-05-14 12:24:47 - INFO - Stats: VPIP:34 PFR:25 3B:11 F3B:34 WTSD:25 WSD:46 CF:57 CT:48
+2025-05-14 12:24:47 - INFO - Análisis: 🎯 Informe sobre Kg:
+
+1️⃣ Estilo de juego: 
+Mix entre TAG y LAG, algo pasivo postflop.
+
+2️⃣ Errores e...
+2025-05-14 12:24:47 - INFO - Texto pegado en ventana de poker
+2025-05-14 12:24:47 - INFO - Historial cargado: 33 entradas
+2025-05-14 12:24:47 - INFO - Historial cargado para agregar entrada: 33 entradas existentes
+2025-05-14 12:24:47 - INFO - Historial guardado: 34 entradas
+2025-05-14 12:24:47 - INFO - Entrada añadida al historial. Nuevo total: 34 entradas
+2025-05-14 12:24:47 - INFO - Actualización de historial UI programada
+2025-05-14 12:24:47 - INFO - Análisis completado con éxito
+2025-05-14 12:24:47 - INFO - Historial cargado: 34 entradas
+2025-05-14 12:24:47 - INFO - Actualizando treeview con 34 entradas de historial
+2025-05-14 12:24:47 - INFO - Se mostraron 34 entradas en el historial
+2025-05-14 12:24:47 - INFO - Historial UI actualizado correctamente
+2025-05-14 12:24:50 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:24:50 - INFO - Mesa encontrada: 12-May#0.1/0.2 Bomb💥💥🇲🇾①
+2025-05-14 12:24:50 - INFO - Iniciando análisis de mesa
+2025-05-14 12:24:50 - INFO - Leyendo nick...
+2025-05-14 12:24:51 - INFO - Tesseract detectó: '_ +'
+2025-05-14 12:24:51 - INFO - Nick final: '_ +'
+2025-05-14 12:24:51 - INFO - Nick detectado: '_ +'
+2025-05-14 12:24:53 - INFO - Stats: VPIP:34 PFR:23 3B:10 F3B:45 WTSD:31 WSD:42 CF:57 CT:40
+2025-05-14 12:24:53 - INFO - Análisis: 🎯 Informe sobre _ +:
+
+1️⃣ Estilo de juego: 
+Jugador agresivo preflop, pero se vuelve pasivo postflop...
+2025-05-14 12:24:54 - INFO - Texto pegado en ventana de poker
+2025-05-14 12:24:54 - INFO - Historial cargado: 34 entradas
+2025-05-14 12:24:54 - INFO - Historial cargado para agregar entrada: 34 entradas existentes
+2025-05-14 12:24:54 - INFO - Historial guardado: 35 entradas
+2025-05-14 12:24:54 - INFO - Entrada añadida al historial. Nuevo total: 35 entradas
+2025-05-14 12:24:54 - INFO - Actualización de historial UI programada
+2025-05-14 12:24:54 - INFO - Análisis completado con éxito
+2025-05-14 12:24:54 - INFO - Historial cargado: 35 entradas
+2025-05-14 12:24:54 - INFO - Actualizando treeview con 35 entradas de historial
+2025-05-14 12:24:54 - INFO - Se mostraron 35 entradas en el historial
+2025-05-14 12:24:54 - INFO - Historial UI actualizado correctamente
+2025-05-14 12:25:00 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:25:00 - INFO - Mesa encontrada: 0.1/0.2 6max 🇲🇾①
+2025-05-14 12:25:00 - INFO - Iniciando análisis de mesa
+2025-05-14 12:25:00 - INFO - Detectado cambio de jugador en la misma ventana
+2025-05-14 12:25:00 - INFO - La ventana cambió, obteniendo nuevo nick...
+2025-05-14 12:25:00 - INFO - Leyendo nick...
+2025-05-14 12:25:00 - INFO - PaddleOCR detectó: 'XP3411787' (confianza: 1.00)
+2025-05-14 12:25:00 - INFO - Nick final: 'XP3411787'
+2025-05-14 12:25:00 - INFO - Nick detectado: 'XP3411787'
+2025-05-14 12:25:00 - ERROR - Error al obtener/analizar stats: Error al obtener stats: Código 404, {"message":"Jugador 'XP3411787' no encontrado en la sala 'XPK'."}
+2025-05-14 12:25:15 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:25:15 - INFO - Mesa encontrada: 12-May#0.1/0.2 Bomb💥💥🇲🇾①
+2025-05-14 12:25:15 - INFO - Iniciando análisis de mesa
+2025-05-14 12:25:15 - INFO - Detectado cambio de jugador en la misma ventana
+2025-05-14 12:25:15 - INFO - La ventana cambió, obteniendo nuevo nick...
+2025-05-14 12:25:15 - INFO - Leyendo nick...
+2025-05-14 12:25:16 - ERROR - Error en PaddleOCR: could not execute a primitive
+2025-05-14 12:25:16 - INFO - Tesseract detectó: 'Niin Rin'
+2025-05-14 12:25:16 - INFO - Nick final: 'Niin Rin'
+2025-05-14 12:25:16 - INFO - Nick detectado: 'Niin Rin'
+2025-05-14 12:25:16 - ERROR - Error al obtener/analizar stats: Error al obtener stats: Código 404, {"message":"Jugador 'Niin' no encontrado en la sala 'XPK'."}
+2025-05-14 12:25:22 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:25:22 - INFO - Mesa encontrada: 0.1/0.2 6max 🇲🇾①
+2025-05-14 12:25:22 - INFO - Iniciando análisis de mesa
+2025-05-14 12:25:22 - INFO - Leyendo nick...
+2025-05-14 12:25:22 - INFO - PaddleOCR detectó: 'MidStakesPok' (confianza: 0.99)
+2025-05-14 12:25:22 - INFO - Nick final: 'MidStakesPok'
+2025-05-14 12:25:22 - INFO - Nick detectado: 'MidStakesPok'
+2025-05-14 12:25:24 - INFO - Stats: VPIP:13 PFR:6 3B:0 F3B:None WTSD:10 WSD:100 CF:100 CT:66
+2025-05-14 12:25:24 - INFO - Análisis: 🎯 Informe sobre MidStakesPok:
+
+1️⃣ Estilo de juego: Pasivo pre-flop, agresivo post-flop con tendenci...
+2025-05-14 12:25:24 - INFO - Texto pegado en ventana de poker
+2025-05-14 12:25:24 - INFO - Historial cargado: 35 entradas
+2025-05-14 12:25:24 - INFO - Historial cargado para agregar entrada: 35 entradas existentes
+2025-05-14 12:25:24 - INFO - Historial guardado: 36 entradas
+2025-05-14 12:25:24 - INFO - Entrada añadida al historial. Nuevo total: 36 entradas
+2025-05-14 12:25:24 - INFO - Actualización de historial UI programada
+2025-05-14 12:25:24 - INFO - Análisis completado con éxito
+2025-05-14 12:25:24 - INFO - Historial cargado: 36 entradas
+2025-05-14 12:25:24 - INFO - Actualizando treeview con 36 entradas de historial
+2025-05-14 12:25:24 - INFO - Se mostraron 36 entradas en el historial
+2025-05-14 12:25:24 - INFO - Historial UI actualizado correctamente
+2025-05-14 12:25:37 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:25:37 - INFO - Mesa encontrada: 12-May#0.5/1 🍀🇲🇾
+2025-05-14 12:25:37 - INFO - Iniciando análisis de mesa
+2025-05-14 12:25:38 - INFO - Leyendo nick...
+2025-05-14 12:25:38 - ERROR - Error en PaddleOCR: could not execute a primitive
+2025-05-14 12:25:38 - INFO - Tesseract detectó: '了'
+2025-05-14 12:25:38 - INFO - Nick final: '了'
+2025-05-14 12:25:38 - INFO - Nick detectado: '了'
+2025-05-14 12:25:42 - INFO - Stats: VPIP:29 PFR:10 3B:2 F3B:52 WTSD:25 WSD:60 CF:52 CT:52
+2025-05-14 12:25:42 - INFO - Análisis: 🎯 Informe sobre 了:
+
+1️⃣ Estilo de juego: Pasivo preflop, agresivo postflop. Se muestra débil al 3-Be...
+2025-05-14 12:25:42 - INFO - Texto pegado en ventana de poker
+2025-05-14 12:25:42 - INFO - Historial cargado: 36 entradas
+2025-05-14 12:25:42 - INFO - Historial cargado para agregar entrada: 36 entradas existentes
+2025-05-14 12:25:42 - INFO - Historial guardado: 37 entradas
+2025-05-14 12:25:42 - INFO - Entrada añadida al historial. Nuevo total: 37 entradas
+2025-05-14 12:25:42 - INFO - Actualización de historial UI programada
+2025-05-14 12:25:42 - INFO - Análisis completado con éxito
+2025-05-14 12:25:43 - INFO - Historial cargado: 37 entradas
+2025-05-14 12:25:43 - INFO - Actualizando treeview con 37 entradas de historial
+2025-05-14 12:25:43 - INFO - Se mostraron 37 entradas en el historial
+2025-05-14 12:25:43 - INFO - Historial UI actualizado correctamente
+2025-05-14 12:25:53 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:25:53 - INFO - Mesa encontrada: 12-May#0.5/1 🍀🇲🇾
+2025-05-14 12:25:53 - INFO - Iniciando análisis de mesa
+2025-05-14 12:25:53 - INFO - Detectado cambio de jugador en la misma ventana
+2025-05-14 12:25:53 - INFO - La ventana cambió, obteniendo nuevo nick...
+2025-05-14 12:25:53 - INFO - Leyendo nick...
+2025-05-14 12:25:53 - INFO - PaddleOCR detectó: 'LoveDeBussy' (confianza: 0.99)
+2025-05-14 12:25:53 - INFO - Nick final: 'LoveDeBussy'
+2025-05-14 12:25:53 - INFO - Nick detectado: 'LoveDeBussy'
+2025-05-14 12:25:55 - INFO - Stats: VPIP:23 PFR:16 3B:5 F3B:57 WTSD:20 WSD:50 CF:49 CT:58
+2025-05-14 12:25:55 - INFO - Análisis: 🎯 Informe sobre LoveDeBussy:
+
+1️⃣ Estilo de juego: 
+Jugador pasivo preflop, agresivo postflop. Se fr...
+2025-05-14 12:25:55 - INFO - Texto pegado en ventana de poker
+2025-05-14 12:25:55 - INFO - Historial cargado: 37 entradas
+2025-05-14 12:25:55 - INFO - Historial cargado para agregar entrada: 37 entradas existentes
+2025-05-14 12:25:55 - INFO - Historial guardado: 38 entradas
+2025-05-14 12:25:55 - INFO - Entrada añadida al historial. Nuevo total: 38 entradas
+2025-05-14 12:25:55 - INFO - Actualización de historial UI programada
+2025-05-14 12:25:55 - INFO - Análisis completado con éxito
+2025-05-14 12:25:56 - INFO - Historial cargado: 38 entradas
+2025-05-14 12:25:56 - INFO - Actualizando treeview con 38 entradas de historial
+2025-05-14 12:25:56 - INFO - Se mostraron 38 entradas en el historial
+2025-05-14 12:25:56 - INFO - Historial UI actualizado correctamente
+2025-05-14 12:26:01 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:26:01 - INFO - Mesa encontrada: 12-May#0.5/1 🍀🇲🇾
+2025-05-14 12:26:01 - INFO - Iniciando análisis de mesa
+2025-05-14 12:26:01 - INFO - Detectado cambio de jugador en la misma ventana
+2025-05-14 12:26:01 - INFO - La ventana cambió, obteniendo nuevo nick...
+2025-05-14 12:26:01 - INFO - Leyendo nick...
+2025-05-14 12:26:01 - ERROR - Error en PaddleOCR: could not execute a primitive
+2025-05-14 12:26:02 - INFO - Tesseract detectó: '‘bite'
+2025-05-14 12:26:02 - INFO - Nick final: '‘bite'
+2025-05-14 12:26:02 - INFO - Nick detectado: '‘bite'
+2025-05-14 12:26:02 - ERROR - Error al obtener/analizar stats: Error al obtener stats: Código 404, {"message":"Jugador '‘bite' no encontrado en la sala 'XPK'."}
+2025-05-14 12:26:26 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:26:26 - INFO - Mesa encontrada: 12-May#0.5/1 🍀🇲🇾
+2025-05-14 12:26:26 - INFO - Iniciando análisis de mesa
+2025-05-14 12:26:26 - INFO - Leyendo nick...
+2025-05-14 12:26:26 - INFO - PaddleOCR detectó: 'DaLang' (confianza: 0.99)
+2025-05-14 12:26:26 - INFO - Nick final: 'DaLang'
+2025-05-14 12:26:26 - INFO - Nick detectado: 'DaLang'
+2025-05-14 12:26:27 - ERROR - Error al obtener/analizar stats: Error al obtener stats: Código 404, {"message":"Jugador 'DaLang' no encontrado en la sala 'XPK'."}
+2025-05-14 12:26:36 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:26:36 - INFO - Mesa encontrada: 12-May#0.5/1 🍀🇲🇾
+2025-05-14 12:26:36 - INFO - Iniciando análisis de mesa
+2025-05-14 12:26:36 - INFO - Leyendo nick...
+2025-05-14 12:26:36 - ERROR - Error en PaddleOCR: could not execute a primitive
+2025-05-14 12:26:37 - INFO - Tesseract detectó: 'h22.67.'
+2025-05-14 12:26:37 - INFO - Nick final: 'h22.67.'
+2025-05-14 12:26:37 - INFO - Nick detectado: 'h22.67.'
+2025-05-14 12:26:39 - INFO - Stats: VPIP:83 PFR:0 3B:0 F3B:None WTSD:20 WSD:0 CF:None CT:None
+2025-05-14 12:26:39 - INFO - Análisis: 🎯 Informe sobre h22.67.:
+
+1️⃣ Estilo de juego: 
+Jugador extremadamente pasivo, juego muy loose prefl...
+2025-05-14 12:26:39 - INFO - Texto pegado en ventana de poker
+2025-05-14 12:26:39 - INFO - Historial cargado: 38 entradas
+2025-05-14 12:26:39 - INFO - Historial cargado para agregar entrada: 38 entradas existentes
+2025-05-14 12:26:39 - INFO - Historial guardado: 39 entradas
+2025-05-14 12:26:39 - INFO - Entrada añadida al historial. Nuevo total: 39 entradas
+2025-05-14 12:26:39 - INFO - Actualización de historial UI programada
+2025-05-14 12:26:39 - INFO - Análisis completado con éxito
+2025-05-14 12:26:40 - INFO - Historial cargado: 39 entradas
+2025-05-14 12:26:40 - INFO - Actualizando treeview con 39 entradas de historial
+2025-05-14 12:26:40 - INFO - Se mostraron 39 entradas en el historial
+2025-05-14 12:26:40 - INFO - Historial UI actualizado correctamente
+2025-05-14 12:26:44 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:26:44 - INFO - Mesa encontrada: 12-May#0.5/1 🍀🇲🇾
+2025-05-14 12:26:44 - INFO - Iniciando análisis de mesa
+2025-05-14 12:26:44 - INFO - Detectado cambio de jugador en la misma ventana
+2025-05-14 12:26:44 - INFO - La ventana cambió, obteniendo nuevo nick...
+2025-05-14 12:26:44 - INFO - Leyendo nick...
+2025-05-14 12:26:45 - INFO - PaddleOCR detectó: '我還會間的' (confianza: 0.73)
+2025-05-14 12:26:45 - INFO - Nick final: '我還會間的'
+2025-05-14 12:26:45 - INFO - Nick detectado: '我還會間的'
+2025-05-14 12:26:45 - ERROR - Error al obtener/analizar stats: Error al obtener stats: Código 404, {"message":"Jugador '我還會間的' no encontrado en la sala 'XPK'."}
+2025-05-14 12:33:19 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:33:19 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:34:58 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:34:58 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:36:32 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:36:32 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:40:48 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:40:48 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:40:49 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:40:49 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:44:40 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:44:40 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:00 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:00 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:03 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:03 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:04 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:04 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:07 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:07 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:07 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:07 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:07 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:07 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:08 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:08 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:08 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:08 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:08 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:08 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:08 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:08 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:08 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:08 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:09 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:09 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:09 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:09 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:09 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:09 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:09 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:09 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:10 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:10 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:10 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:10 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:10 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:10 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:10 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:10 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:10 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:10 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:11 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:11 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:15 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:15 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:16 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:16 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:16 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:16 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:16 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:16 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:17 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:17 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:17 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:17 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:17 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:17 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:17 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:17 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:17 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:17 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:18 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:18 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:18 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:18 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:18 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:18 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:18 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:18 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:19 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:19 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:20 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:20 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:20 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:20 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:20 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:20 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:20 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:20 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:21 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:21 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:21 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:21 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:21 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:21 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:21 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:21 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:21 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:21 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:22 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:22 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:22 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:22 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:22 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:22 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:23 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:23 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:26 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:26 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:26 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:26 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:27 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:27 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:27 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:27 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:27 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:27 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:28 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:28 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:28 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:28 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:29 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:29 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:29 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:29 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:29 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:29 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:29 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:29 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:30 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:30 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:30 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:30 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:30 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:30 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:30 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:30 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:30 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:30 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:31 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:31 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:31 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:31 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:31 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:31 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:31 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:31 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:32 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:32 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:32 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:32 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:32 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:32 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:33 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:33 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:33 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:33 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:33 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:33 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:33 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:33 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:34 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:34 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:34 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:34 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:34 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:34 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:34 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:34 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:35 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:35 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:35 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:35 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:35 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:35 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:35 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:35 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:35 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:35 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:36 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:36 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:36 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:36 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:37 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:37 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:42 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:42 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:42 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:42 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:43 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:43 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:43 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:43 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:43 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:43 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:43 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:43 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:44 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:44 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:44 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:44 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:44 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:44 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:44 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:44 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:45 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:45 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:45 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:45 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:45 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:45 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:46 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:46 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:46 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:46 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:46 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:46 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:46 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:46 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:47 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:47 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:47 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:47 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:48 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:48 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:48 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:48 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:48 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:48 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:50 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:50 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:50 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:50 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:52 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:52 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:47:59 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:47:59 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:48:05 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:48:05 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:48:07 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:48:07 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:48:08 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:48:08 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:48:09 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:48:09 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:48:09 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:48:09 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:48:10 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:48:10 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:48:12 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:48:12 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:48:13 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:48:13 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:48:13 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:48:13 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:48:14 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:48:14 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 12:49:34 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 12:49:34 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 13:25:42 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 13:25:42 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 13:26:49 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 13:26:49 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 13:27:00 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 13:27:00 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 13:27:59 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 13:27:59 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 13:29:31 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 13:29:31 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 13:30:37 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 13:30:37 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 13:30:43 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 13:30:43 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 13:30:52 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 13:30:52 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 13:31:01 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 13:31:01 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 13:31:12 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 13:31:12 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 13:31:21 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 13:31:21 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 13:31:32 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 13:31:32 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 13:31:38 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 13:31:38 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 13:31:47 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 13:31:47 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 13:32:00 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 13:32:00 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 13:32:09 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 13:32:09 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 13:32:21 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 13:32:21 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 13:32:44 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 13:32:44 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 13:32:53 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 13:32:53 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 13:33:04 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 13:33:04 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 13:33:18 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 13:33:18 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 13:33:33 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 13:33:33 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 13:33:38 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 13:33:38 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 13:33:51 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 13:33:51 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 13:33:55 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 13:33:55 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 13:34:05 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 13:34:05 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 13:34:14 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 13:34:14 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 13:34:22 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 13:34:22 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 13:34:31 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 13:34:31 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 13:34:36 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 13:34:36 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 13:34:42 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 13:34:42 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 13:34:53 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 13:34:53 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 13:34:59 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 13:34:59 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 13:35:07 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 13:35:07 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 13:37:47 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 13:37:47 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 13:39:17 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 13:39:17 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 13:39:20 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 13:39:20 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 13:40:32 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 13:40:32 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 13:41:13 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 13:41:13 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 13:41:38 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 13:41:38 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 13:47:05 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 13:47:05 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 13:47:09 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 13:47:09 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 13:47:56 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 13:47:56 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 13:48:38 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 13:48:38 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 13:48:48 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 13:48:48 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 13:49:05 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 13:49:05 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 13:50:21 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 13:50:21 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 13:51:09 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 13:51:09 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 13:51:23 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 13:51:23 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 13:51:45 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 13:51:45 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 13:51:51 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 13:51:51 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 13:51:53 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 13:51:53 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 13:52:22 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 13:52:22 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 13:54:44 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 13:54:44 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 13:57:22 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 13:57:22 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 13:57:37 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 13:57:37 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 13:57:45 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 13:57:45 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 13:58:58 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 13:58:58 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 14:01:36 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 14:01:36 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 14:02:21 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 14:02:21 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 14:02:29 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 14:02:29 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 14:02:37 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 14:02:37 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 14:02:40 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 14:02:40 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 14:02:41 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 14:02:41 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 14:02:53 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 14:02:53 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 14:03:16 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 14:03:16 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 14:03:25 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 14:03:25 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 14:03:46 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 14:03:46 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 14:04:17 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 14:04:17 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 14:04:23 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 14:04:23 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 14:05:46 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 14:05:46 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 14:40:46 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 14:40:46 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 14:40:56 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 14:40:56 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 14:41:02 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 14:41:02 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 14:41:11 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 14:41:11 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 14:41:16 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 14:41:16 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 14:41:21 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 14:41:21 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 14:41:50 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 14:41:50 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 14:41:53 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 14:41:53 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 14:41:56 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 14:41:56 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 14:42:01 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 14:42:01 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 14:42:07 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 14:42:07 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 14:42:12 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 14:42:12 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 14:43:05 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 14:43:05 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 14:43:23 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 14:43:23 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 14:43:30 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 14:43:30 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 14:43:34 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 14:43:34 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 14:43:42 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 14:43:42 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 14:44:14 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 14:44:14 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 14:45:11 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 14:45:11 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 14:45:54 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 14:45:54 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 14:45:55 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 14:45:55 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 14:47:02 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 14:47:02 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 14:49:30 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 14:49:30 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 14:49:32 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 14:49:32 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 14:52:43 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 14:52:43 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 14:52:58 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 14:52:58 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 14:53:20 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 14:53:20 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 14:54:24 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 14:54:24 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 14:58:57 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 14:58:57 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 15:00:24 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 15:00:24 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 15:02:25 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 15:02:25 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 15:03:28 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 15:03:28 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 15:03:29 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 15:03:29 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 15:03:54 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 15:03:54 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 15:07:12 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 15:07:12 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 15:08:15 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 15:08:15 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 15:08:16 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 15:08:16 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 15:11:17 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 15:11:17 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 15:13:00 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 15:13:00 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 15:16:12 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 15:16:12 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 15:17:04 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 15:17:04 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 15:21:13 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 15:21:13 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 15:21:29 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 15:21:29 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 15:21:31 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 15:21:31 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 15:22:24 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 15:22:24 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 15:22:24 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 15:22:24 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 15:22:27 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 15:22:27 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 15:22:32 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 15:22:32 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 15:22:36 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 15:22:36 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 15:25:51 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 15:25:51 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 15:31:05 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 15:31:05 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 15:31:22 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 15:31:22 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 15:31:28 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 15:31:28 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 15:36:36 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 15:36:36 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 15:36:43 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 15:36:43 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 15:36:55 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 15:36:55 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 15:52:53 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 15:52:53 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 15:53:26 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 15:53:26 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 15:57:45 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 15:57:45 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 15:57:50 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 15:57:50 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 15:57:57 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 15:57:57 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 15:58:04 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 15:58:04 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 16:06:17 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 16:06:17 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 16:12:20 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 16:12:20 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 16:12:20 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 16:12:20 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 16:12:26 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 16:12:26 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 16:12:27 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 16:12:27 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 16:14:50 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 16:14:50 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 16:14:54 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 16:14:54 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 16:15:02 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 16:15:02 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 16:15:08 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 16:15:08 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 16:15:16 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 16:15:16 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 16:15:30 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 16:15:30 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 16:15:40 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 16:15:40 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 16:17:06 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 16:17:06 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 16:18:50 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 16:18:50 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 16:20:31 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 16:20:31 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 16:22:23 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 16:22:23 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 16:24:42 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 16:24:42 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 16:50:33 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 16:50:33 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-14 16:51:13 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-14 16:51:13 - WARNING - No se encontró una mesa bajo el cursor
