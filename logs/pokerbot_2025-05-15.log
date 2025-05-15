@@ -1510,3 +1510,23 @@ _tkinter.TclError: unknown option "-foreground"
 2025-05-15 16:22:21 - INFO - Presiona alt+q o haz clic derecho para analizar nick
 2025-05-15 16:22:25 - INFO - Buscando detalles para james2546 del 2025-05-15 13:51:19
 2025-05-15 16:22:25 - INFO - Historial cargado: 5 entradas
+2025-05-15 16:26:08 - INFO - Iniciando PokerBot TRACK...
+2025-05-15 16:26:10 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-15 16:26:10 - INFO - Iniciando listener de clic derecho
+2025-05-15 16:26:11 - INFO - Hotkey alt+q registrado correctamente
+2025-05-15 16:26:11 - INFO - Ventana creada con el módulo de compatibilidad
+2025-05-15 16:26:11 - WARNING - Error al crear combobox: Duplicate element Horizontal.TScrollbar.thumb
+2025-05-15 16:26:11 - INFO - Historial cargado: 5 entradas
+2025-05-15 16:26:11 - INFO - Actualizando treeview con 5 entradas de historial
+2025-05-15 16:26:11 - INFO - Se mostraron 5 entradas en el historial
+2025-05-15 16:26:12 - INFO - Hotkey alt+q registrada correctamente
+2025-05-15 16:26:12 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-15 16:26:12 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-15 16:26:16 - INFO - Buscando detalles para Brandon Martir del 2025-05-15 14:56:42
+2025-05-15 16:26:16 - INFO - Historial cargado: 5 entradas
+2025-05-15 16:26:28 - INFO - Aplicación cerrada correctamente
+2025-05-15 16:26:28 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-15 16:26:28 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-15 16:26:28 - INFO - Cerrando aplicación...
+2025-05-15 16:26:28 - INFO - Deteniendo listener de clic derecho
+2025-05-15 16:26:28 - INFO - Aplicación cerrada correctamente
