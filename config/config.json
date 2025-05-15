@@ -1,4 +1,6 @@
 {
+    "token": "",
+    "openai_api_key": "",
     "ocr_coords": {
         "x": 96,
         "y": 173,

@@ -1,8 +1,5 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
 """
-PokerBot Pro - Sistema de análisis de estadísticas para jugadores de poker
+Integración de ttkbootstrap_compat.py en main.py para una mayor compatibilidad
 """
 
 import os
@@ -11,6 +8,48 @@ import time
 import threading
 import tkinter as tk
 from pynput.mouse import Listener, Button
+
+# Verificar versión de tkinter
+print(f"Tkinter version: {tk.TkVersion}")
+
+# Importar el módulo de compatibilidad de ttkbootstrap
+try:
+    # Primero verificar si existe el archivo ttkbootstrap_compat.py
+    sys.path.append(os.path.join(os.path.dirname(__file__), "src", "utils"))
+    from src.utils.ttkbootstrap_compat import (
+        init_ttkbootstrap, USING_TTKBOOTSTRAP, FALLBACK_MODE,
+        show_message, create_themed_button, create_root_window,
+        apply_global_dark_theme
+    )
+    
+    # Inicializar ttkbootstrap
+    init_ttkbootstrap("darkly")  # Usa el tema oscuro por defecto
+    
+    # Aplicar tema oscuro global
+    apply_global_dark_theme()
+    
+    # Mostrar información de estado
+    if USING_TTKBOOTSTRAP:
+        print("ttkbootstrap inicializado correctamente a través del módulo de compatibilidad")
+    else:
+        print("Usando modo de compatibilidad fallback (sin ttkbootstrap)")
+except ImportError:
+    # Si no existe, usar la detección normal
+    print("Módulo ttkbootstrap_compat.py no encontrado, usando detección estándar")
+    try:
+        import ttkbootstrap
+        try:
+            print(f"ttkbootstrap version: {ttkbootstrap.__version__}")
+        except AttributeError:
+            try:
+                if hasattr(ttkbootstrap, 'VERSION'):
+                    print(f"ttkbootstrap version: {ttkbootstrap.VERSION}")
+                else:
+                    print("ttkbootstrap está instalado (versión desconocida)")
+            except Exception:
+                print("ttkbootstrap está instalado (versión desconocida)")
+    except ImportError:
+        print("ttkbootstrap no está instalado correctamente")
 
 from src.utils.logger import setup_logger, log_message
 from src.config.settings import load_config, save_config
@@ -127,6 +166,33 @@ def stop_auto_mode():
     if 'root' in globals() and root and root.winfo_exists():
         update_ui_status()
 
+def fix_scroll_bindings():
+    """Corrige los bindings de scroll en toda la aplicación"""
+    def apply_scrolling(widget):
+        """Aplica scrolling a widgets recursivamente"""
+        if isinstance(widget, tk.Canvas):
+            def _on_mousewheel(event):
+                widget.yview_scroll(int(-1*(event.delta/120)), "units")
+            
+            widget.bind("<MouseWheel>", _on_mousewheel)
+        
+        # Procesar widgets hijos recursivamente
+        for child in widget.winfo_children():
+            apply_scrolling(child)
+    
+    # Aplicar a toda la ventana
+    if 'root' in globals() and root:
+        apply_scrolling(root)
+        
+        # Programar actualizaciones periódicas para nuevos widgets
+        def update_bindings():
+            if 'root' in globals() and root and root.winfo_exists():
+                apply_scrolling(root)
+                root.after(5000, update_bindings)
+        
+        # Iniciar actualización periódica
+        root.after(1000, update_bindings)
+
 def on_exit():
     """Función que se ejecuta al cerrar la aplicación"""
     global running, auto_running, mouse_listener
@@ -191,7 +257,7 @@ def main():
         
         # Configurar logger
         logger = setup_logger()
-        log_message("Iniciando PokerBot Pro...")
+        log_message("Iniciando PokerBot TRACK...")
         
         # Cargar configuración
         config = load_config()
@@ -211,6 +277,9 @@ def main():
         
         # Crear y ejecutar la interfaz de usuario
         create_main_window(config)
+        
+        # Arreglar bindings de scroll
+        fix_scroll_bindings()
         
         # Iniciar modo automático si está configurado
         if config["modo_automatico"]:

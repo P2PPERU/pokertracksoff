@@ -9,7 +9,7 @@ from src.utils.windows import focus_window, get_window_under_cursor
 from src.core.ocr_engine import capture_and_read_nick, capture_window_region
 from src.core.api_client import get_player_stats
 from src.core.gpt_client import analyze_stats
-from src.core.history_manager import add_to_history, load_history
+from src.core.history_manager import add_to_history, load_history, find_existing_analysis
 from src.utils.image_utils import generate_image_hash
 
 # Caché de nicks y hashes
@@ -136,7 +136,18 @@ def analyze_table(hwnd, config, manual_nick=None, force_new_capture=False):
             stats_data = get_player_stats(nick, config["sala_default"], config["token"], config["server_url"])
             stats_data["player_name"] = nick
             stats_summary = format_stats_summary(stats_data, config)
-            analysis = analyze_stats(stats_data, config["openai_api_key"], nick)
+            
+            # Buscar si ya tenemos un análisis para estos stats exactos
+            existing_analysis = find_existing_analysis(nick, stats_summary, config["sala_default"])
+            
+            if existing_analysis:
+                # Usar análisis existente si está disponible
+                analysis = existing_analysis
+                log_message(f"Usando análisis existente para {nick}")
+            else:
+                # Generar nuevo análisis con GPT solo si es necesario
+                analysis = analyze_stats(stats_data, config["openai_api_key"], nick)
+                log_message(f"Nuevo análisis generado para {nick}")
 
             log_message(f"Stats: {stats_summary}")
             log_message(f"Análisis: {analysis[:100]}...")

@@ -112,3 +112,1401 @@
 2025-05-15 13:01:00 - INFO - Nick final: 'james2546'
 2025-05-15 13:01:00 - INFO - Nick detectado: 'james2546'
 2025-05-15 13:01:04 - ERROR - Error al obtener/analizar stats: HTTPConnectionPool(host='localhost', port=3000): Max retries exceeded with url: /api/jugador/XPK/james2546 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000121AAD2A1D0>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión'))
+2025-05-15 13:22:46 - INFO - Iniciando PokerBot Pro...
+2025-05-15 13:22:47 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-15 13:22:47 - INFO - Iniciando listener de clic derecho
+2025-05-15 13:22:47 - INFO - Hotkey alt+q registrado correctamente
+2025-05-15 13:22:47 - INFO - Historial cargado: 39 entradas
+2025-05-15 13:22:47 - INFO - Actualizando treeview con 39 entradas de historial
+2025-05-15 13:22:47 - INFO - Se mostraron 39 entradas en el historial
+2025-05-15 13:22:47 - INFO - Hotkey alt+q registrada correctamente
+2025-05-15 13:22:47 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-15 13:22:47 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-15 13:22:53 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 13:22:53 - INFO - Mesa encontrada: 0.2/0.4 6max 🇲🇾①
+2025-05-15 13:22:53 - INFO - Iniciando análisis de mesa
+2025-05-15 13:22:53 - INFO - Leyendo nick...
+2025-05-15 13:22:54 - INFO - PaddleOCR detectó: 'james2546' (confianza: 1.00)
+2025-05-15 13:22:54 - INFO - Nick final: 'james2546'
+2025-05-15 13:22:54 - INFO - Nick detectado: 'james2546'
+2025-05-15 13:22:56 - INFO - Stats: VPIP:25 PFR:12 3B:0 F3B:None WTSD:50 WSD:0 CF:None CT:None
+2025-05-15 13:22:56 - INFO - Análisis: 🎯 Informe sobre james2546:
+
+1️⃣ Estilo de juego: Pasivo preflop, falta de agresión postflop.
+
+2️⃣ Er...
+2025-05-15 13:22:56 - INFO - Texto pegado en ventana de poker
+2025-05-15 13:22:56 - INFO - Historial cargado: 39 entradas
+2025-05-15 13:22:56 - INFO - Historial cargado para agregar entrada: 39 entradas existentes
+2025-05-15 13:22:56 - INFO - Historial guardado: 40 entradas
+2025-05-15 13:22:56 - INFO - Entrada añadida al historial. Nuevo total: 40 entradas
+2025-05-15 13:22:56 - INFO - Actualización de historial UI programada
+2025-05-15 13:22:56 - INFO - Análisis completado con éxito
+2025-05-15 13:22:57 - INFO - Historial cargado: 40 entradas
+2025-05-15 13:22:57 - INFO - Actualizando treeview con 40 entradas de historial
+2025-05-15 13:22:57 - INFO - Se mostraron 40 entradas en el historial
+2025-05-15 13:22:57 - INFO - Historial UI actualizado correctamente
+2025-05-15 13:39:33 - INFO - Iniciando PokerBot Pro...
+2025-05-15 13:39:35 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-15 13:39:35 - INFO - Iniciando listener de clic derecho
+2025-05-15 13:39:35 - INFO - Hotkey alt+q registrado correctamente
+2025-05-15 13:39:35 - INFO - Historial cargado: 40 entradas
+2025-05-15 13:39:35 - INFO - Actualizando treeview con 40 entradas de historial
+2025-05-15 13:39:35 - INFO - Se mostraron 40 entradas en el historial
+2025-05-15 13:39:35 - INFO - Hotkey alt+q registrada correctamente
+2025-05-15 13:39:35 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-15 13:39:35 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-15 13:39:45 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 13:39:45 - INFO - Mesa encontrada: 0.2/0.4 6max 🇲🇾①
+2025-05-15 13:39:45 - INFO - Iniciando análisis de mesa
+2025-05-15 13:39:45 - INFO - Leyendo nick...
+2025-05-15 13:39:46 - INFO - PaddleOCR detectó: 'james2546' (confianza: 1.00)
+2025-05-15 13:39:46 - INFO - Nick final: 'james2546'
+2025-05-15 13:39:46 - INFO - Nick detectado: 'james2546'
+2025-05-15 13:39:49 - INFO - Stats: VPIP:25 PFR:12 3B:0 F3B:None WTSD:50 WSD:0 CF:None CT:None
+2025-05-15 13:39:49 - INFO - Análisis: 🎯 Informe sobre james2546:
+
+1️⃣ Estilo de juego: Pasivo preflop, falta de agresión postflop.
+
+2️⃣ Er...
+2025-05-15 13:39:49 - INFO - Texto pegado en ventana de poker
+2025-05-15 13:39:49 - INFO - Historial cargado: 40 entradas
+2025-05-15 13:39:49 - INFO - Historial cargado para agregar entrada: 40 entradas existentes
+2025-05-15 13:39:49 - INFO - Historial guardado: 41 entradas
+2025-05-15 13:39:49 - INFO - Entrada añadida al historial. Nuevo total: 41 entradas
+2025-05-15 13:39:49 - INFO - Actualización de historial UI programada
+2025-05-15 13:39:49 - INFO - Análisis completado con éxito
+2025-05-15 13:39:49 - INFO - Historial cargado: 41 entradas
+2025-05-15 13:39:49 - INFO - Actualizando treeview con 41 entradas de historial
+2025-05-15 13:39:49 - INFO - Se mostraron 41 entradas en el historial
+2025-05-15 13:39:49 - INFO - Historial UI actualizado correctamente
+2025-05-15 13:40:11 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 13:40:11 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-15 13:44:27 - INFO - Iniciando PokerBot Pro...
+2025-05-15 13:44:28 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-15 13:44:28 - INFO - Iniciando listener de clic derecho
+2025-05-15 13:44:28 - INFO - Hotkey alt+q registrado correctamente
+2025-05-15 13:44:28 - INFO - Historial cargado: 41 entradas
+2025-05-15 13:44:28 - INFO - Actualizando treeview con 41 entradas de historial
+2025-05-15 13:44:28 - INFO - Se mostraron 41 entradas en el historial
+2025-05-15 13:44:28 - INFO - Hotkey alt+q registrada correctamente
+2025-05-15 13:44:28 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-15 13:44:28 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-15 13:44:30 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 13:44:30 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-15 13:44:31 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 13:44:31 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-15 13:44:34 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 13:44:34 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-15 13:44:39 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 13:44:39 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-15 13:44:41 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 13:44:41 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-15 13:44:48 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 13:44:48 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-15 13:44:56 - WARNING - No se encontraron mesas de poker activas
+2025-05-15 13:48:08 - INFO - Iniciando PokerBot Pro...
+2025-05-15 13:48:10 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-15 13:48:10 - INFO - Iniciando listener de clic derecho
+2025-05-15 13:48:10 - INFO - Hotkey alt+q registrado correctamente
+2025-05-15 13:48:10 - INFO - Historial cargado: 41 entradas
+2025-05-15 13:48:10 - INFO - Actualizando treeview con 41 entradas de historial
+2025-05-15 13:48:10 - INFO - Se mostraron 41 entradas en el historial
+2025-05-15 13:48:10 - INFO - Hotkey alt+q registrada correctamente
+2025-05-15 13:48:10 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-15 13:48:10 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-15 13:48:11 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 13:48:11 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-15 13:48:12 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 13:48:12 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-15 13:48:39 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 13:48:39 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-15 13:48:40 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 13:48:40 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-15 13:48:41 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 13:48:41 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-15 13:48:41 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 13:48:41 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-15 13:49:14 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 13:49:14 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-15 13:50:52 - INFO - Iniciando PokerBot Pro...
+2025-05-15 13:50:54 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-15 13:50:54 - INFO - Iniciando listener de clic derecho
+2025-05-15 13:50:54 - INFO - Hotkey alt+q registrado correctamente
+2025-05-15 13:50:54 - INFO - Historial cargado: 41 entradas
+2025-05-15 13:50:54 - INFO - Actualizando treeview con 41 entradas de historial
+2025-05-15 13:50:54 - INFO - Se mostraron 41 entradas en el historial
+2025-05-15 13:50:54 - INFO - Hotkey alt+q registrada correctamente
+2025-05-15 13:50:54 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-15 13:50:54 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-15 13:50:59 - INFO - Historial guardado: 0 entradas
+2025-05-15 13:50:59 - INFO - Historial limpiado completamente
+2025-05-15 13:50:59 - INFO - Historial cargado: 0 entradas
+2025-05-15 13:50:59 - INFO - Actualizando treeview con 0 entradas de historial
+2025-05-15 13:50:59 - INFO - No hay entradas en el historial
+2025-05-15 13:51:17 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 13:51:17 - INFO - Mesa encontrada: 0.2/0.4 6max 🇲🇾①
+2025-05-15 13:51:17 - INFO - Iniciando análisis de mesa
+2025-05-15 13:51:17 - INFO - Leyendo nick...
+2025-05-15 13:51:18 - INFO - PaddleOCR detectó: 'james2546' (confianza: 1.00)
+2025-05-15 13:51:18 - INFO - Nick final: 'james2546'
+2025-05-15 13:51:18 - INFO - Nick detectado: 'james2546'
+2025-05-15 13:51:19 - INFO - Stats: VPIP:25 PFR:12 3B:0 F3B:None WTSD:50 WSD:0 CF:None CT:None
+2025-05-15 13:51:19 - INFO - Análisis: 🎯 Informe sobre james2546:
+
+1️⃣ Estilo de juego: 
+Pasivo preflop y agresivo postflop.
+
+2️⃣ Errores e...
+2025-05-15 13:51:19 - INFO - Texto pegado en ventana de poker
+2025-05-15 13:51:19 - INFO - Historial cargado: 0 entradas
+2025-05-15 13:51:19 - INFO - Historial cargado para agregar entrada: 0 entradas existentes
+2025-05-15 13:51:19 - INFO - Historial guardado: 1 entradas
+2025-05-15 13:51:19 - INFO - Entrada añadida/actualizada en el historial. Total: 1 entradas
+2025-05-15 13:51:19 - INFO - Actualización de historial UI programada
+2025-05-15 13:51:19 - INFO - Análisis completado con éxito
+2025-05-15 13:51:20 - INFO - Historial cargado: 1 entradas
+2025-05-15 13:51:20 - INFO - Actualizando treeview con 1 entradas de historial
+2025-05-15 13:51:20 - INFO - Se mostraron 1 entradas en el historial
+2025-05-15 13:51:20 - INFO - Historial UI actualizado correctamente
+2025-05-15 13:51:21 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 13:51:21 - INFO - Mesa encontrada: 0.2/0.4 6max 🇲🇾①
+2025-05-15 13:51:21 - INFO - Iniciando análisis de mesa
+2025-05-15 13:51:21 - INFO - Nick recuperado de caché: 'james2546'
+2025-05-15 13:51:23 - INFO - Stats: VPIP:25 PFR:12 3B:0 F3B:None WTSD:50 WSD:0 CF:None CT:None
+2025-05-15 13:51:23 - INFO - Análisis: 🎯 Informe sobre james2546:
+
+1️⃣ Estilo de juego: Pasivo preflop, falta de agresión postflop.
+
+2️⃣ Er...
+2025-05-15 13:51:23 - INFO - Texto pegado en ventana de poker
+2025-05-15 13:51:23 - INFO - Historial cargado: 1 entradas
+2025-05-15 13:51:23 - INFO - Historial cargado para agregar entrada: 1 entradas existentes
+2025-05-15 13:51:23 - INFO - Jugador james2546 ya existe con los mismos stats, no se agrega al historial
+2025-05-15 13:51:23 - INFO - Actualización de historial UI programada
+2025-05-15 13:51:23 - INFO - Análisis completado con éxito
+2025-05-15 13:51:23 - INFO - Historial cargado: 1 entradas
+2025-05-15 13:51:23 - INFO - Actualizando treeview con 1 entradas de historial
+2025-05-15 13:51:23 - INFO - Se mostraron 1 entradas en el historial
+2025-05-15 13:51:23 - INFO - Historial UI actualizado correctamente
+2025-05-15 13:51:50 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 13:51:50 - INFO - Mesa encontrada: 0.2/0.4 6max 🇲🇾①
+2025-05-15 13:51:50 - INFO - Iniciando análisis de mesa
+2025-05-15 13:51:50 - INFO - Nick recuperado de caché: 'james2546'
+2025-05-15 13:51:53 - INFO - Stats: VPIP:25 PFR:12 3B:0 F3B:None WTSD:50 WSD:0 CF:None CT:None
+2025-05-15 13:51:53 - INFO - Análisis: 🎯 Informe sobre james2546:
+
+1️⃣ Estilo de juego: Pasivo preflop, falta de agresión postflop.
+
+2️⃣ Er...
+2025-05-15 13:51:53 - INFO - Texto pegado en ventana de poker
+2025-05-15 13:51:53 - INFO - Historial cargado: 1 entradas
+2025-05-15 13:51:53 - INFO - Historial cargado para agregar entrada: 1 entradas existentes
+2025-05-15 13:51:53 - INFO - Jugador james2546 ya existe con los mismos stats, no se agrega al historial
+2025-05-15 13:51:53 - INFO - Actualización de historial UI programada
+2025-05-15 13:51:53 - INFO - Análisis completado con éxito
+2025-05-15 13:51:53 - INFO - Historial cargado: 1 entradas
+2025-05-15 13:51:53 - INFO - Actualizando treeview con 1 entradas de historial
+2025-05-15 13:51:53 - INFO - Se mostraron 1 entradas en el historial
+2025-05-15 13:51:53 - INFO - Historial UI actualizado correctamente
+2025-05-15 13:52:01 - INFO - Historial cargado: 1 entradas
+2025-05-15 13:58:05 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-15 13:58:05 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-15 13:58:05 - INFO - Cerrando aplicación...
+2025-05-15 13:58:05 - INFO - Deteniendo listener de clic derecho
+2025-05-15 13:58:05 - INFO - Aplicación cerrada correctamente
+2025-05-15 13:58:17 - INFO - Iniciando PokerBot Pro...
+2025-05-15 13:58:19 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-15 13:58:19 - INFO - Iniciando listener de clic derecho
+2025-05-15 13:58:19 - INFO - Hotkey alt+q registrado correctamente
+2025-05-15 13:58:19 - INFO - Historial cargado: 1 entradas
+2025-05-15 13:58:19 - INFO - Actualizando treeview con 1 entradas de historial
+2025-05-15 13:58:19 - INFO - Se mostraron 1 entradas en el historial
+2025-05-15 13:58:19 - INFO - Hotkey alt+q registrada correctamente
+2025-05-15 13:58:19 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-15 13:58:19 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-15 13:58:24 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 13:58:24 - INFO - Mesa encontrada: 0.2/0.4 6max 🇲🇾①
+2025-05-15 13:58:24 - INFO - Iniciando análisis de mesa
+2025-05-15 13:58:24 - INFO - Leyendo nick...
+2025-05-15 13:58:24 - INFO - PaddleOCR detectó: 'james2546' (confianza: 1.00)
+2025-05-15 13:58:24 - INFO - Nick final: 'james2546'
+2025-05-15 13:58:24 - INFO - Nick detectado: 'james2546'
+2025-05-15 13:58:24 - INFO - Historial cargado: 1 entradas
+2025-05-15 13:58:24 - INFO - Análisis existente encontrado para james2546 con los mismos stats
+2025-05-15 13:58:24 - INFO - Usando análisis existente para james2546
+2025-05-15 13:58:24 - INFO - Stats: VPIP:25 PFR:12 3B:0 F3B:None WTSD:50 WSD:0 CF:None CT:None
+2025-05-15 13:58:24 - INFO - Análisis: 🎯 Informe sobre james2546:
+
+1️⃣ Estilo de juego: 
+Pasivo preflop y agresivo postflop.
+
+2️⃣ Errores e...
+2025-05-15 13:58:25 - INFO - Texto pegado en ventana de poker
+2025-05-15 13:58:25 - INFO - Historial cargado: 1 entradas
+2025-05-15 13:58:25 - INFO - Historial cargado para agregar entrada: 1 entradas existentes
+2025-05-15 13:58:25 - INFO - Jugador james2546 ya existe con los mismos stats, no se agrega al historial
+2025-05-15 13:58:25 - INFO - Actualización de historial UI programada
+2025-05-15 13:58:25 - INFO - Análisis completado con éxito
+2025-05-15 13:58:25 - INFO - Historial cargado: 1 entradas
+2025-05-15 13:58:25 - INFO - Actualizando treeview con 1 entradas de historial
+2025-05-15 13:58:25 - INFO - Se mostraron 1 entradas en el historial
+2025-05-15 13:58:25 - INFO - Historial UI actualizado correctamente
+2025-05-15 13:59:12 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 13:59:12 - INFO - Mesa encontrada: 0.2/0.4 6max 🇲🇾①
+2025-05-15 13:59:12 - INFO - Iniciando análisis de mesa
+2025-05-15 13:59:12 - INFO - Nick recuperado de caché: 'james2546'
+2025-05-15 13:59:12 - INFO - Historial cargado: 1 entradas
+2025-05-15 13:59:12 - INFO - Análisis existente encontrado para james2546 con los mismos stats
+2025-05-15 13:59:12 - INFO - Usando análisis existente para james2546
+2025-05-15 13:59:12 - INFO - Stats: VPIP:25 PFR:12 3B:0 F3B:None WTSD:50 WSD:0 CF:None CT:None
+2025-05-15 13:59:12 - INFO - Análisis: 🎯 Informe sobre james2546:
+
+1️⃣ Estilo de juego: 
+Pasivo preflop y agresivo postflop.
+
+2️⃣ Errores e...
+2025-05-15 13:59:12 - INFO - Texto pegado en ventana de poker
+2025-05-15 13:59:12 - INFO - Historial cargado: 1 entradas
+2025-05-15 13:59:12 - INFO - Historial cargado para agregar entrada: 1 entradas existentes
+2025-05-15 13:59:12 - INFO - Jugador james2546 ya existe con los mismos stats, no se agrega al historial
+2025-05-15 13:59:12 - INFO - Actualización de historial UI programada
+2025-05-15 13:59:12 - INFO - Análisis completado con éxito
+2025-05-15 13:59:12 - INFO - Historial cargado: 1 entradas
+2025-05-15 13:59:12 - INFO - Actualizando treeview con 1 entradas de historial
+2025-05-15 13:59:12 - INFO - Se mostraron 1 entradas en el historial
+2025-05-15 13:59:12 - INFO - Historial UI actualizado correctamente
+2025-05-15 13:59:47 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 13:59:47 - INFO - Mesa encontrada: 0.2/0.4 6max 🇲🇾①
+2025-05-15 13:59:47 - INFO - Iniciando análisis de mesa
+2025-05-15 13:59:48 - INFO - Leyendo nick...
+2025-05-15 13:59:48 - ERROR - Error en PaddleOCR: could not execute a primitive
+2025-05-15 13:59:49 - INFO - Tesseract detectó: 'james2546'
+2025-05-15 13:59:49 - INFO - Nick final: 'james2546'
+2025-05-15 13:59:49 - INFO - Nick detectado: 'james2546'
+2025-05-15 13:59:49 - INFO - Historial cargado: 1 entradas
+2025-05-15 13:59:49 - INFO - Análisis existente encontrado para james2546 con los mismos stats
+2025-05-15 13:59:49 - INFO - Usando análisis existente para james2546
+2025-05-15 13:59:49 - INFO - Stats: VPIP:25 PFR:12 3B:0 F3B:None WTSD:50 WSD:0 CF:None CT:None
+2025-05-15 13:59:49 - INFO - Análisis: 🎯 Informe sobre james2546:
+
+1️⃣ Estilo de juego: 
+Pasivo preflop y agresivo postflop.
+
+2️⃣ Errores e...
+2025-05-15 13:59:49 - INFO - Texto pegado en ventana de poker
+2025-05-15 13:59:49 - INFO - Historial cargado: 1 entradas
+2025-05-15 13:59:49 - INFO - Historial cargado para agregar entrada: 1 entradas existentes
+2025-05-15 13:59:49 - INFO - Jugador james2546 ya existe con los mismos stats, no se agrega al historial
+2025-05-15 13:59:49 - INFO - Actualización de historial UI programada
+2025-05-15 13:59:49 - INFO - Análisis completado con éxito
+2025-05-15 13:59:49 - INFO - Historial cargado: 1 entradas
+2025-05-15 13:59:49 - INFO - Actualizando treeview con 1 entradas de historial
+2025-05-15 13:59:49 - INFO - Se mostraron 1 entradas en el historial
+2025-05-15 13:59:49 - INFO - Historial UI actualizado correctamente
+2025-05-15 14:00:37 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 14:00:37 - INFO - Mesa encontrada: 0.2/0.4 6max 🇲🇾①
+2025-05-15 14:00:37 - INFO - Iniciando análisis de mesa
+2025-05-15 14:00:37 - INFO - Nick recuperado de caché: 'james2546'
+2025-05-15 14:00:37 - INFO - Historial cargado: 1 entradas
+2025-05-15 14:00:37 - INFO - Análisis existente encontrado para james2546 con los mismos stats
+2025-05-15 14:00:37 - INFO - Usando análisis existente para james2546
+2025-05-15 14:00:37 - INFO - Stats: VPIP:25 PFR:12 3B:0 F3B:None WTSD:50 WSD:0 CF:None CT:None
+2025-05-15 14:00:37 - INFO - Análisis: 🎯 Informe sobre james2546:
+
+1️⃣ Estilo de juego: 
+Pasivo preflop y agresivo postflop.
+
+2️⃣ Errores e...
+2025-05-15 14:00:38 - INFO - Texto pegado en ventana de poker
+2025-05-15 14:00:38 - INFO - Historial cargado: 1 entradas
+2025-05-15 14:00:38 - INFO - Historial cargado para agregar entrada: 1 entradas existentes
+2025-05-15 14:00:38 - INFO - Jugador james2546 ya existe con los mismos stats, no se agrega al historial
+2025-05-15 14:00:38 - INFO - Actualización de historial UI programada
+2025-05-15 14:00:38 - INFO - Análisis completado con éxito
+2025-05-15 14:00:38 - INFO - Historial cargado: 1 entradas
+2025-05-15 14:00:38 - INFO - Actualizando treeview con 1 entradas de historial
+2025-05-15 14:00:38 - INFO - Se mostraron 1 entradas en el historial
+2025-05-15 14:00:38 - INFO - Historial UI actualizado correctamente
+2025-05-15 14:00:49 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 14:00:49 - INFO - Mesa encontrada: 0.2/0.4 6max 🇲🇾①
+2025-05-15 14:00:49 - INFO - Iniciando análisis de mesa
+2025-05-15 14:00:49 - INFO - Leyendo nick...
+2025-05-15 14:00:49 - INFO - PaddleOCR detectó: 'garyhong' (confianza: 1.00)
+2025-05-15 14:00:49 - INFO - Nick final: 'garyhong'
+2025-05-15 14:00:49 - INFO - Nick detectado: 'garyhong'
+2025-05-15 14:00:50 - ERROR - Error al obtener/analizar stats: Error al obtener stats: Código 404, {"message":"Jugador 'garyhong' no encontrado en la sala 'XPK'."}
+2025-05-15 14:00:53 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 14:00:53 - INFO - Mesa encontrada: 0.2/0.4 6max 🇲🇾①
+2025-05-15 14:00:53 - INFO - Iniciando análisis de mesa
+2025-05-15 14:00:54 - INFO - Leyendo nick...
+2025-05-15 14:00:54 - ERROR - Error en PaddleOCR: could not execute a primitive
+2025-05-15 14:00:54 - INFO - Tesseract detectó: 'james2546'
+2025-05-15 14:00:54 - INFO - Nick final: 'james2546'
+2025-05-15 14:00:54 - INFO - Nick detectado: 'james2546'
+2025-05-15 14:00:54 - INFO - Historial cargado: 1 entradas
+2025-05-15 14:00:54 - INFO - Análisis existente encontrado para james2546 con los mismos stats
+2025-05-15 14:00:54 - INFO - Usando análisis existente para james2546
+2025-05-15 14:00:54 - INFO - Stats: VPIP:25 PFR:12 3B:0 F3B:None WTSD:50 WSD:0 CF:None CT:None
+2025-05-15 14:00:54 - INFO - Análisis: 🎯 Informe sobre james2546:
+
+1️⃣ Estilo de juego: 
+Pasivo preflop y agresivo postflop.
+
+2️⃣ Errores e...
+2025-05-15 14:00:55 - INFO - Texto pegado en ventana de poker
+2025-05-15 14:00:55 - INFO - Historial cargado: 1 entradas
+2025-05-15 14:00:55 - INFO - Historial cargado para agregar entrada: 1 entradas existentes
+2025-05-15 14:00:55 - INFO - Jugador james2546 ya existe con los mismos stats, no se agrega al historial
+2025-05-15 14:00:55 - INFO - Actualización de historial UI programada
+2025-05-15 14:00:55 - INFO - Análisis completado con éxito
+2025-05-15 14:00:55 - INFO - Historial cargado: 1 entradas
+2025-05-15 14:00:55 - INFO - Actualizando treeview con 1 entradas de historial
+2025-05-15 14:00:55 - INFO - Se mostraron 1 entradas en el historial
+2025-05-15 14:00:55 - INFO - Historial UI actualizado correctamente
+2025-05-15 14:01:44 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 14:01:44 - INFO - Mesa encontrada: 0.2/0.4 6max 🇲🇾①
+2025-05-15 14:01:44 - INFO - Iniciando análisis de mesa
+2025-05-15 14:01:44 - INFO - Nick recuperado de caché: 'james2546'
+2025-05-15 14:01:45 - INFO - Historial cargado: 1 entradas
+2025-05-15 14:01:45 - INFO - Análisis existente encontrado para james2546 con los mismos stats
+2025-05-15 14:01:45 - INFO - Usando análisis existente para james2546
+2025-05-15 14:01:45 - INFO - Stats: VPIP:25 PFR:12 3B:0 F3B:None WTSD:50 WSD:0 CF:None CT:None
+2025-05-15 14:01:45 - INFO - Análisis: 🎯 Informe sobre james2546:
+
+1️⃣ Estilo de juego: 
+Pasivo preflop y agresivo postflop.
+
+2️⃣ Errores e...
+2025-05-15 14:01:45 - INFO - Texto pegado en ventana de poker
+2025-05-15 14:01:45 - INFO - Historial cargado: 1 entradas
+2025-05-15 14:01:45 - INFO - Historial cargado para agregar entrada: 1 entradas existentes
+2025-05-15 14:01:45 - INFO - Jugador james2546 ya existe con los mismos stats, no se agrega al historial
+2025-05-15 14:01:45 - INFO - Actualización de historial UI programada
+2025-05-15 14:01:45 - INFO - Análisis completado con éxito
+2025-05-15 14:01:45 - INFO - Historial cargado: 1 entradas
+2025-05-15 14:01:45 - INFO - Actualizando treeview con 1 entradas de historial
+2025-05-15 14:01:45 - INFO - Se mostraron 1 entradas en el historial
+2025-05-15 14:01:45 - INFO - Historial UI actualizado correctamente
+2025-05-15 14:01:50 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 14:01:50 - INFO - Mesa encontrada: 0.2/0.4 6max 🇲🇾①
+2025-05-15 14:01:50 - INFO - Iniciando análisis de mesa
+2025-05-15 14:01:50 - INFO - Detectado cambio de jugador en la misma ventana
+2025-05-15 14:01:50 - INFO - La ventana cambió, obteniendo nuevo nick...
+2025-05-15 14:01:50 - INFO - Leyendo nick...
+2025-05-15 14:01:50 - INFO - PaddleOCR detectó: 'nabohh' (confianza: 1.00)
+2025-05-15 14:01:50 - INFO - Nick final: 'nabohh'
+2025-05-15 14:01:50 - INFO - Nick detectado: 'nabohh'
+2025-05-15 14:01:50 - ERROR - Error al obtener/analizar stats: Error al obtener stats: Código 404, {"message":"Jugador 'nabohh' no encontrado en la sala 'XPK'."}
+2025-05-15 14:01:56 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 14:01:56 - INFO - Mesa encontrada: 0.2/0.4 6max 🇲🇾①
+2025-05-15 14:01:56 - INFO - Iniciando análisis de mesa
+2025-05-15 14:01:56 - INFO - Leyendo nick...
+2025-05-15 14:01:56 - ERROR - Error en PaddleOCR: could not execute a primitive
+2025-05-15 14:01:57 - INFO - Tesseract detectó: 'WKWKWKWKY'
+2025-05-15 14:01:57 - INFO - Nick final: 'WKWKWKWKY'
+2025-05-15 14:01:57 - INFO - Nick detectado: 'WKWKWKWKY'
+2025-05-15 14:01:57 - ERROR - Error al obtener/analizar stats: Error al obtener stats: Código 404, {"message":"Jugador 'WKWKWKWKY' no encontrado en la sala 'XPK'."}
+2025-05-15 14:02:00 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 14:02:00 - INFO - Mesa encontrada: 0.2/0.4 6max 🇲🇾①
+2025-05-15 14:02:00 - INFO - Iniciando análisis de mesa
+2025-05-15 14:02:00 - INFO - Leyendo nick...
+2025-05-15 14:02:01 - INFO - PaddleOCR detectó: 'Q:245746' (confianza: 0.76)
+2025-05-15 14:02:01 - INFO - Nick final: 'Q:245746'
+2025-05-15 14:02:01 - INFO - Nick detectado: 'Q:245746'
+2025-05-15 14:02:01 - ERROR - Error al obtener/analizar stats: Error al obtener stats: Código 404, {"message":"Jugador 'Q:245746' no encontrado en la sala 'XPK'."}
+2025-05-15 14:02:05 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 14:02:05 - INFO - Mesa encontrada: 0.2/0.4 6max 🇲🇾①
+2025-05-15 14:02:05 - INFO - Iniciando análisis de mesa
+2025-05-15 14:02:05 - INFO - Leyendo nick...
+2025-05-15 14:02:05 - ERROR - Error en PaddleOCR: could not execute a primitive
+2025-05-15 14:02:05 - INFO - Tesseract detectó: 'edwin chan'
+2025-05-15 14:02:05 - INFO - Nick final: 'edwin chan'
+2025-05-15 14:02:05 - INFO - Nick detectado: 'edwin chan'
+2025-05-15 14:02:06 - INFO - Historial cargado: 1 entradas
+2025-05-15 14:02:09 - INFO - Nuevo análisis generado para edwin chan
+2025-05-15 14:02:09 - INFO - Stats: VPIP:70 PFR:7 3B:0 F3B:None WTSD:37 WSD:44 CF:50 CT:0
+2025-05-15 14:02:09 - INFO - Análisis: 🎯 Informe sobre edwin chan:
+
+1️⃣ Estilo de juego: Muy pasivo, VPIP alto pero PFR muy bajo.
+
+2️⃣ Erro...
+2025-05-15 14:02:09 - INFO - Texto pegado en ventana de poker
+2025-05-15 14:02:09 - INFO - Historial cargado: 1 entradas
+2025-05-15 14:02:09 - INFO - Historial cargado para agregar entrada: 1 entradas existentes
+2025-05-15 14:02:09 - INFO - Historial guardado: 2 entradas
+2025-05-15 14:02:09 - INFO - Entrada añadida/actualizada en el historial. Total: 2 entradas
+2025-05-15 14:02:09 - INFO - Actualización de historial UI programada
+2025-05-15 14:02:09 - INFO - Análisis completado con éxito
+2025-05-15 14:02:09 - INFO - Historial cargado: 2 entradas
+2025-05-15 14:02:09 - INFO - Actualizando treeview con 2 entradas de historial
+2025-05-15 14:02:09 - INFO - Se mostraron 2 entradas en el historial
+2025-05-15 14:02:09 - INFO - Historial UI actualizado correctamente
+2025-05-15 14:03:01 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 14:03:01 - INFO - Mesa encontrada: 0.2/0.4 6max 🇲🇾①
+2025-05-15 14:03:01 - INFO - Iniciando análisis de mesa
+2025-05-15 14:03:01 - INFO - Nick recuperado de caché: 'edwin chan'
+2025-05-15 14:03:01 - INFO - Historial cargado: 2 entradas
+2025-05-15 14:03:01 - INFO - Análisis existente encontrado para edwin chan con los mismos stats
+2025-05-15 14:03:01 - INFO - Usando análisis existente para edwin chan
+2025-05-15 14:03:01 - INFO - Stats: VPIP:70 PFR:7 3B:0 F3B:None WTSD:37 WSD:44 CF:50 CT:0
+2025-05-15 14:03:01 - INFO - Análisis: 🎯 Informe sobre edwin chan:
+
+1️⃣ Estilo de juego: Muy pasivo, VPIP alto pero PFR muy bajo.
+
+2️⃣ Erro...
+2025-05-15 14:03:01 - INFO - Texto pegado en ventana de poker
+2025-05-15 14:03:01 - INFO - Historial cargado: 2 entradas
+2025-05-15 14:03:01 - INFO - Historial cargado para agregar entrada: 2 entradas existentes
+2025-05-15 14:03:01 - INFO - Jugador edwin chan ya existe con los mismos stats, no se agrega al historial
+2025-05-15 14:03:01 - INFO - Actualización de historial UI programada
+2025-05-15 14:03:01 - INFO - Análisis completado con éxito
+2025-05-15 14:03:01 - INFO - Historial cargado: 2 entradas
+2025-05-15 14:03:01 - INFO - Actualizando treeview con 2 entradas de historial
+2025-05-15 14:03:01 - INFO - Se mostraron 2 entradas en el historial
+2025-05-15 14:03:01 - INFO - Historial UI actualizado correctamente
+2025-05-15 14:03:13 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 14:03:13 - INFO - Mesa encontrada: 0.2/0.4 6max 🇲🇾①
+2025-05-15 14:03:13 - INFO - Iniciando análisis de mesa
+2025-05-15 14:03:13 - INFO - Leyendo nick...
+2025-05-15 14:03:14 - INFO - PaddleOCR detectó: 'junhong1201' (confianza: 0.98)
+2025-05-15 14:03:14 - INFO - Nick final: 'junhong1201'
+2025-05-15 14:03:14 - INFO - Nick detectado: 'junhong1201'
+2025-05-15 14:03:14 - INFO - Historial cargado: 2 entradas
+2025-05-15 14:03:15 - INFO - Nuevo análisis generado para junhong1201
+2025-05-15 14:03:15 - INFO - Stats: VPIP:62 PFR:0 3B:0 F3B:None WTSD:31 WSD:60 CF:None CT:None
+2025-05-15 14:03:15 - INFO - Análisis: 🎯 Informe sobre junhong1201:
+
+1️⃣ Estilo de juego: 
+Extremadamente pasivo, juega muchas manos pero n...
+2025-05-15 14:03:16 - INFO - Texto pegado en ventana de poker
+2025-05-15 14:03:16 - INFO - Historial cargado: 2 entradas
+2025-05-15 14:03:16 - INFO - Historial cargado para agregar entrada: 2 entradas existentes
+2025-05-15 14:03:16 - INFO - Historial guardado: 3 entradas
+2025-05-15 14:03:16 - INFO - Entrada añadida/actualizada en el historial. Total: 3 entradas
+2025-05-15 14:03:16 - INFO - Actualización de historial UI programada
+2025-05-15 14:03:16 - INFO - Análisis completado con éxito
+2025-05-15 14:03:16 - INFO - Historial cargado: 3 entradas
+2025-05-15 14:03:16 - INFO - Actualizando treeview con 3 entradas de historial
+2025-05-15 14:03:16 - INFO - Se mostraron 3 entradas en el historial
+2025-05-15 14:03:16 - INFO - Historial UI actualizado correctamente
+2025-05-15 14:03:34 - INFO - Historial cargado: 3 entradas
+2025-05-15 14:04:31 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 14:04:31 - INFO - Mesa encontrada: 0.1/0.2 6max 🇲🇾
+2025-05-15 14:04:31 - INFO - Iniciando análisis de mesa
+2025-05-15 14:04:32 - INFO - Leyendo nick...
+2025-05-15 14:04:32 - ERROR - Error en PaddleOCR: could not execute a primitive
+2025-05-15 14:04:32 - INFO - Tesseract detectó: 'KERNKRAFT40'
+2025-05-15 14:04:32 - INFO - Nick final: 'KERNKRAFT40'
+2025-05-15 14:04:32 - INFO - Nick detectado: 'KERNKRAFT40'
+2025-05-15 14:04:32 - INFO - Historial cargado: 3 entradas
+2025-05-15 14:04:34 - INFO - Nuevo análisis generado para KERNKRAFT40
+2025-05-15 14:04:34 - INFO - Stats: VPIP:41 PFR:14 3B:4 F3B:18 WTSD:32 WSD:49 CF:44 CT:63
+2025-05-15 14:04:34 - INFO - Análisis: 🎯 Informe sobre KERNKRAFT40:
+
+1️⃣ Estilo de juego: Pasivo preflop, agresivo postflop con c-bets alta...
+2025-05-15 14:04:35 - INFO - Texto pegado en ventana de poker
+2025-05-15 14:04:35 - INFO - Historial cargado: 3 entradas
+2025-05-15 14:04:35 - INFO - Historial cargado para agregar entrada: 3 entradas existentes
+2025-05-15 14:04:35 - INFO - Historial guardado: 4 entradas
+2025-05-15 14:04:35 - INFO - Entrada añadida/actualizada en el historial. Total: 4 entradas
+2025-05-15 14:04:35 - INFO - Actualización de historial UI programada
+2025-05-15 14:04:35 - INFO - Análisis completado con éxito
+2025-05-15 14:04:35 - INFO - Historial cargado: 4 entradas
+2025-05-15 14:04:35 - INFO - Actualizando treeview con 4 entradas de historial
+2025-05-15 14:04:35 - INFO - Se mostraron 4 entradas en el historial
+2025-05-15 14:04:35 - INFO - Historial UI actualizado correctamente
+2025-05-15 14:04:49 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 14:04:49 - INFO - Mesa encontrada: 0.1/0.2 6max 🇲🇾
+2025-05-15 14:04:49 - INFO - Iniciando análisis de mesa
+2025-05-15 14:04:49 - INFO - Nick recuperado de caché: 'KERNKRAFT40'
+2025-05-15 14:04:49 - INFO - Historial cargado: 4 entradas
+2025-05-15 14:04:49 - INFO - Análisis existente encontrado para KERNKRAFT40 con los mismos stats
+2025-05-15 14:04:49 - INFO - Usando análisis existente para KERNKRAFT40
+2025-05-15 14:04:49 - INFO - Stats: VPIP:41 PFR:14 3B:4 F3B:18 WTSD:32 WSD:49 CF:44 CT:63
+2025-05-15 14:04:49 - INFO - Análisis: 🎯 Informe sobre KERNKRAFT40:
+
+1️⃣ Estilo de juego: Pasivo preflop, agresivo postflop con c-bets alta...
+2025-05-15 14:04:50 - INFO - Texto pegado en ventana de poker
+2025-05-15 14:04:50 - INFO - Historial cargado: 4 entradas
+2025-05-15 14:04:50 - INFO - Historial cargado para agregar entrada: 4 entradas existentes
+2025-05-15 14:04:50 - INFO - Jugador KERNKRAFT40 ya existe con los mismos stats, no se agrega al historial
+2025-05-15 14:04:50 - INFO - Actualización de historial UI programada
+2025-05-15 14:04:50 - INFO - Análisis completado con éxito
+2025-05-15 14:04:50 - INFO - Historial cargado: 4 entradas
+2025-05-15 14:04:50 - INFO - Actualizando treeview con 4 entradas de historial
+2025-05-15 14:04:50 - INFO - Se mostraron 4 entradas en el historial
+2025-05-15 14:04:50 - INFO - Historial UI actualizado correctamente
+2025-05-15 14:05:20 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 14:05:20 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-15 14:05:22 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 14:05:22 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-15 14:14:36 - INFO - Iniciando PokerBot Pro...
+2025-05-15 14:14:38 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-15 14:14:38 - INFO - Iniciando listener de clic derecho
+2025-05-15 14:14:38 - INFO - Hotkey alt+q registrado correctamente
+2025-05-15 14:14:38 - CRITICAL - Error crítico en la aplicación: Duplicate element Horizontal.TScrollbar.thumb
+2025-05-15 14:14:38 - CRITICAL - Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\main.py", line 213, in main
+    create_main_window(config)
+  File "C:\Users\USER\Desktop\pokerprosof\src\ui\main_window.py", line 43, in create_main_window
+    main_tab = create_main_tab(tab_control, config)
+  File "C:\Users\USER\Desktop\pokerprosof\src\ui\tabs\main_tab.py", line 35, in create_main_tab
+    combo_sala = ttk.Combobox(search_frame, textvariable=sala_var, values=["XPK", "PS", "GG", "WPN", "888"], width=5)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\site-packages\ttkbootstrap\style.py", line 5086, in __init__
+    func(self, *args, **kwargs)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\tkinter\ttk.py", line 702, in __init__
+    Entry.__init__(self, master, "ttk::combobox", **kw)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\site-packages\ttkbootstrap\style.py", line 5105, in __init__
+    ttkstyle = Bootstyle.update_ttk_widget_style(
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\site-packages\ttkbootstrap\style.py", line 5195, in update_ttk_widget_style
+    builder_method(builder, widget_color)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\site-packages\ttkbootstrap\style.py", line 1352, in create_combobox_style
+    self.create_scrollbar_style()
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\site-packages\ttkbootstrap\style.py", line 2358, in create_scrollbar_style
+    self.style.element_create(
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\tkinter\ttk.py", line 460, in element_create
+    self.tk.call(self._name, "element", "create", elementname, etype,
+_tkinter.TclError: Duplicate element Horizontal.TScrollbar.thumb
+
+2025-05-15 14:18:30 - INFO - Iniciando PokerBot Pro...
+2025-05-15 14:18:31 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-15 14:18:31 - INFO - Iniciando listener de clic derecho
+2025-05-15 14:18:31 - INFO - Hotkey alt+q registrado correctamente
+2025-05-15 14:18:32 - CRITICAL - Error al crear la interfaz: Duplicate element Horizontal.TScrollbar.thumb
+2025-05-15 14:18:32 - CRITICAL - Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\ui\main_window.py", line 80, in create_main_window
+    main_tab = create_main_tab(tab_control, config)
+  File "C:\Users\USER\Desktop\pokerprosof\src\ui\tabs\main_tab.py", line 35, in create_main_tab
+    combo_sala = ttk.Combobox(search_frame, textvariable=sala_var, values=["XPK", "PS", "GG", "WPN", "888"], width=5)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\site-packages\ttkbootstrap\style.py", line 5086, in __init__
+    func(self, *args, **kwargs)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\tkinter\ttk.py", line 702, in __init__
+    Entry.__init__(self, master, "ttk::combobox", **kw)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\site-packages\ttkbootstrap\style.py", line 5105, in __init__
+    ttkstyle = Bootstyle.update_ttk_widget_style(
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\site-packages\ttkbootstrap\style.py", line 5195, in update_ttk_widget_style
+    builder_method(builder, widget_color)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\site-packages\ttkbootstrap\style.py", line 1352, in create_combobox_style
+    self.create_scrollbar_style()
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\site-packages\ttkbootstrap\style.py", line 2358, in create_scrollbar_style
+    self.style.element_create(
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\tkinter\ttk.py", line 460, in element_create
+    self.tk.call(self._name, "element", "create", elementname, etype,
+_tkinter.TclError: Duplicate element Horizontal.TScrollbar.thumb
+
+2025-05-15 14:18:52 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-15 14:18:52 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-15 14:18:52 - INFO - Cerrando aplicación...
+2025-05-15 14:18:52 - INFO - Deteniendo listener de clic derecho
+2025-05-15 14:18:52 - INFO - Aplicación cerrada correctamente
+2025-05-15 14:22:17 - INFO - Iniciando PokerBot Pro...
+2025-05-15 14:22:18 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-15 14:22:18 - INFO - Iniciando listener de clic derecho
+2025-05-15 14:22:18 - INFO - Hotkey alt+q registrado correctamente
+2025-05-15 14:22:19 - CRITICAL - Error al crear la interfaz con ttkbootstrap: module 'ttkbootstrap' has no attribute 'Tableview'
+2025-05-15 14:22:19 - CRITICAL - Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\ui\main_window.py", line 68, in create_main_window
+    main_tab = create_main_tab(tab_control, config)
+  File "C:\Users\USER\Desktop\pokerprosof\src\ui\tabs\main_tab.py", line 200, in create_main_tab
+    tree = ttk.Tableview(
+AttributeError: module 'ttkbootstrap' has no attribute 'Tableview'. Did you mean: 'tableview'?
+
+2025-05-15 14:22:19 - INFO - Iniciando interfaz de respaldo sin ttkbootstrap
+2025-05-15 14:22:33 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 14:22:33 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-15 14:22:37 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-15 14:22:37 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-15 14:22:37 - INFO - Cerrando aplicación...
+2025-05-15 14:22:37 - INFO - Deteniendo listener de clic derecho
+2025-05-15 14:22:37 - INFO - Aplicación cerrada correctamente
+2025-05-15 14:23:04 - INFO - Iniciando PokerBot Pro...
+2025-05-15 14:23:05 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-15 14:23:05 - INFO - Iniciando listener de clic derecho
+2025-05-15 14:23:05 - INFO - Hotkey alt+q registrado correctamente
+2025-05-15 14:23:05 - CRITICAL - Error crítico en la aplicación: module 'ttkbootstrap' has no attribute 'Tableview'
+2025-05-15 14:23:05 - CRITICAL - Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\main.py", line 213, in main
+    create_main_window(config)
+  File "C:\Users\USER\Desktop\pokerprosof\src\ui\main_window.py", line 43, in create_main_window
+    main_tab = create_main_tab(tab_control, config)
+  File "C:\Users\USER\Desktop\pokerprosof\src\ui\tabs\main_tab.py", line 200, in create_main_tab
+    tree = ttk.Tableview(
+AttributeError: module 'ttkbootstrap' has no attribute 'Tableview'. Did you mean: 'tableview'?
+
+2025-05-15 14:23:29 - INFO - Iniciando PokerBot Pro...
+2025-05-15 14:23:30 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-15 14:23:30 - INFO - Iniciando listener de clic derecho
+2025-05-15 14:23:30 - INFO - Hotkey alt+q registrado correctamente
+2025-05-15 14:23:31 - CRITICAL - Error al crear la interfaz: module 'ttkbootstrap' has no attribute 'Tableview'
+2025-05-15 14:23:31 - CRITICAL - Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\ui\main_window.py", line 80, in create_main_window
+    main_tab = create_main_tab(tab_control, config)
+  File "C:\Users\USER\Desktop\pokerprosof\src\ui\tabs\main_tab.py", line 200, in create_main_tab
+    tree = ttk.Tableview(
+AttributeError: module 'ttkbootstrap' has no attribute 'Tableview'. Did you mean: 'tableview'?
+
+2025-05-15 14:23:35 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-15 14:23:35 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-15 14:23:35 - INFO - Cerrando aplicación...
+2025-05-15 14:23:35 - INFO - Deteniendo listener de clic derecho
+2025-05-15 14:23:35 - INFO - Aplicación cerrada correctamente
+2025-05-15 14:23:45 - INFO - Iniciando PokerBot Pro...
+2025-05-15 14:23:46 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-15 14:23:46 - INFO - Iniciando listener de clic derecho
+2025-05-15 14:23:46 - INFO - Hotkey alt+q registrado correctamente
+2025-05-15 14:23:46 - CRITICAL - Error al crear la interfaz con ttkbootstrap: module 'ttkbootstrap' has no attribute 'Tableview'
+2025-05-15 14:23:46 - CRITICAL - Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\ui\main_window.py", line 68, in create_main_window
+    main_tab = create_main_tab(tab_control, config)
+  File "C:\Users\USER\Desktop\pokerprosof\src\ui\tabs\main_tab.py", line 200, in create_main_tab
+    tree = ttk.Tableview(
+AttributeError: module 'ttkbootstrap' has no attribute 'Tableview'. Did you mean: 'tableview'?
+
+2025-05-15 14:23:46 - INFO - Iniciando interfaz de respaldo sin ttkbootstrap
+2025-05-15 14:29:24 - CRITICAL - Error crítico: no se pudo iniciar la interfaz de respaldo
+2025-05-15 14:29:24 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-15 14:29:24 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-15 14:29:24 - INFO - Cerrando aplicación...
+2025-05-15 14:29:24 - INFO - Deteniendo listener de clic derecho
+2025-05-15 14:29:24 - INFO - Aplicación cerrada correctamente
+2025-05-15 14:29:34 - INFO - Iniciando PokerBot Pro...
+2025-05-15 14:29:35 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-15 14:29:35 - INFO - Iniciando listener de clic derecho
+2025-05-15 14:29:35 - INFO - Hotkey alt+q registrado correctamente
+2025-05-15 14:29:36 - CRITICAL - Error al crear la interfaz con ttkbootstrap: 'Tableview' object has no attribute '_coldata'
+2025-05-15 14:29:36 - CRITICAL - Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\ui\main_window.py", line 63, in create_main_window
+    main_tab = create_main_tab(tab_control, config)
+  File "C:\Users\USER\Desktop\pokerprosof\src\ui\tabs\main_tab.py", line 498, in create_main_tab
+    refresh_tables()
+  File "C:\Users\USER\Desktop\pokerprosof\src\ui\tabs\main_tab.py", line 391, in refresh_tables
+    tree.build_table_data(coldata=tree._coldata, rowdata=rowdata)
+AttributeError: 'Tableview' object has no attribute '_coldata'
+
+2025-05-15 14:29:36 - INFO - Iniciando interfaz de respaldo sin ttkbootstrap
+2025-05-15 14:30:06 - CRITICAL - Error crítico: no se pudo iniciar la interfaz de respaldo
+2025-05-15 14:30:06 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-15 14:30:06 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-15 14:30:06 - INFO - Cerrando aplicación...
+2025-05-15 14:30:06 - INFO - Deteniendo listener de clic derecho
+2025-05-15 14:30:06 - INFO - Aplicación cerrada correctamente
+2025-05-15 14:30:41 - INFO - Iniciando PokerBot Pro...
+2025-05-15 14:30:43 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-15 14:30:43 - INFO - Iniciando listener de clic derecho
+2025-05-15 14:30:43 - INFO - Hotkey alt+q registrado correctamente
+2025-05-15 14:30:43 - CRITICAL - Error al crear la interfaz con ttkbootstrap: Duplicate element Horizontal.TScrollbar.thumb
+2025-05-15 14:30:43 - CRITICAL - Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\ui\main_window.py", line 63, in create_main_window
+    main_tab = create_main_tab(tab_control, config)
+  File "C:\Users\USER\Desktop\pokerprosof\src\ui\tabs\main_tab.py", line 61, in create_main_tab
+    combo_sala = ttk.Combobox(search_frame, textvariable=sala_var, values=["XPK", "PS", "GG", "WPN", "888"], width=5)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\site-packages\ttkbootstrap\style.py", line 5086, in __init__
+    func(self, *args, **kwargs)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\tkinter\ttk.py", line 702, in __init__
+    Entry.__init__(self, master, "ttk::combobox", **kw)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\site-packages\ttkbootstrap\style.py", line 5105, in __init__
+    ttkstyle = Bootstyle.update_ttk_widget_style(
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\site-packages\ttkbootstrap\style.py", line 5195, in update_ttk_widget_style
+    builder_method(builder, widget_color)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\site-packages\ttkbootstrap\style.py", line 1352, in create_combobox_style
+    self.create_scrollbar_style()
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\site-packages\ttkbootstrap\style.py", line 2358, in create_scrollbar_style
+    self.style.element_create(
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\tkinter\ttk.py", line 460, in element_create
+    self.tk.call(self._name, "element", "create", elementname, etype,
+_tkinter.TclError: Duplicate element Horizontal.TScrollbar.thumb
+
+2025-05-15 14:30:43 - INFO - Iniciando interfaz de respaldo sin ttkbootstrap
+2025-05-15 14:31:01 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-15 14:31:01 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-15 14:31:01 - INFO - Cerrando aplicación...
+2025-05-15 14:31:01 - INFO - Deteniendo listener de clic derecho
+2025-05-15 14:31:01 - INFO - Aplicación cerrada correctamente
+2025-05-15 14:40:44 - INFO - Iniciando PokerBot Pro...
+2025-05-15 14:40:46 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-15 14:40:46 - INFO - Iniciando listener de clic derecho
+2025-05-15 14:40:46 - INFO - Hotkey alt+q registrado correctamente
+2025-05-15 14:40:46 - WARNING - Error al crear ventana principal: local variable 'USING_TTKBOOTSTRAP' referenced before assignment
+2025-05-15 14:40:46 - CRITICAL - Error al crear la interfaz con ttkbootstrap: Duplicate element Horizontal.TScrollbar.thumb
+2025-05-15 14:40:46 - CRITICAL - Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\ui\main_window.py", line 88, in create_main_window
+    main_tab = create_main_tab(tab_control, config)
+  File "C:\Users\USER\Desktop\pokerprosof\src\ui\tabs\main_tab.py", line 71, in create_main_tab
+    combo_sala = ttk.Combobox(search_frame, textvariable=sala_var, values=["XPK", "PS", "GG", "WPN", "888"], width=5)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\site-packages\ttkbootstrap\style.py", line 5086, in __init__
+    func(self, *args, **kwargs)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\tkinter\ttk.py", line 702, in __init__
+    Entry.__init__(self, master, "ttk::combobox", **kw)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\site-packages\ttkbootstrap\style.py", line 5105, in __init__
+    ttkstyle = Bootstyle.update_ttk_widget_style(
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\site-packages\ttkbootstrap\style.py", line 5195, in update_ttk_widget_style
+    builder_method(builder, widget_color)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\site-packages\ttkbootstrap\style.py", line 1352, in create_combobox_style
+    self.create_scrollbar_style()
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\site-packages\ttkbootstrap\style.py", line 2358, in create_scrollbar_style
+    self.style.element_create(
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\tkinter\ttk.py", line 460, in element_create
+    self.tk.call(self._name, "element", "create", elementname, etype,
+_tkinter.TclError: Duplicate element Horizontal.TScrollbar.thumb
+
+2025-05-15 14:40:46 - INFO - Iniciando interfaz de respaldo sin ttkbootstrap
+2025-05-15 14:40:52 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-15 14:40:52 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-15 14:40:52 - INFO - Cerrando aplicación...
+2025-05-15 14:40:52 - INFO - Deteniendo listener de clic derecho
+2025-05-15 14:40:52 - INFO - Aplicación cerrada correctamente
+2025-05-15 14:42:00 - INFO - Iniciando PokerBot Pro...
+2025-05-15 14:42:01 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-15 14:42:01 - INFO - Iniciando listener de clic derecho
+2025-05-15 14:42:01 - INFO - Hotkey alt+q registrado correctamente
+2025-05-15 14:42:01 - WARNING - Error al crear ventana principal: local variable 'USING_TTKBOOTSTRAP' referenced before assignment
+2025-05-15 14:42:01 - WARNING - Error al crear combobox: Duplicate element Horizontal.TScrollbar.thumb
+2025-05-15 14:42:02 - ERROR - Error al actualizar lista de mesas: 'Tableview' object has no attribute 'insert'
+2025-05-15 14:42:02 - CRITICAL - Error al crear la interfaz con ttkbootstrap: can't add .!notebook.!frame.!scrolledframe as slave of .!notebook
+2025-05-15 14:42:02 - CRITICAL - Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\ui\main_window.py", line 89, in create_main_window
+    tab_control.add(main_tab, text='Principal')
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\tkinter\ttk.py", line 839, in add
+    self.tk.call(self._w, "add", child, *(_format_optdict(kw)))
+_tkinter.TclError: can't add .!notebook.!frame.!scrolledframe as slave of .!notebook
+
+2025-05-15 14:42:02 - INFO - Iniciando interfaz de respaldo sin ttkbootstrap
+2025-05-15 14:42:07 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-15 14:42:07 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-15 14:42:07 - INFO - Cerrando aplicación...
+2025-05-15 14:42:07 - INFO - Deteniendo listener de clic derecho
+2025-05-15 14:42:07 - INFO - Aplicación cerrada correctamente
+2025-05-15 14:43:41 - INFO - Iniciando PokerBot Pro...
+2025-05-15 14:43:42 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-15 14:43:42 - INFO - Iniciando listener de clic derecho
+2025-05-15 14:43:42 - INFO - Hotkey alt+q registrado correctamente
+2025-05-15 14:43:42 - WARNING - Error al crear ventana principal: local variable 'USING_TTKBOOTSTRAP' referenced before assignment
+2025-05-15 14:43:42 - ERROR - Error al actualizar lista de mesas: 'Tableview' object has no attribute 'insert'
+2025-05-15 14:43:42 - CRITICAL - Error al crear la interfaz con ttkbootstrap: can't add .!notebook.!frame.!scrolledframe as slave of .!notebook
+2025-05-15 14:43:42 - CRITICAL - Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\ui\main_window.py", line 89, in create_main_window
+    tab_control.add(main_tab, text='Principal')
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\tkinter\ttk.py", line 839, in add
+    self.tk.call(self._w, "add", child, *(_format_optdict(kw)))
+_tkinter.TclError: can't add .!notebook.!frame.!scrolledframe as slave of .!notebook
+
+2025-05-15 14:43:42 - INFO - Iniciando interfaz de respaldo sin ttkbootstrap
+2025-05-15 14:46:13 - CRITICAL - Error crítico: no se pudo iniciar la interfaz de respaldo
+2025-05-15 14:46:13 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-15 14:46:13 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-15 14:46:13 - INFO - Cerrando aplicación...
+2025-05-15 14:46:13 - INFO - Deteniendo listener de clic derecho
+2025-05-15 14:46:13 - INFO - Aplicación cerrada correctamente
+2025-05-15 14:51:15 - INFO - Iniciando PokerBot Pro...
+2025-05-15 14:51:16 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-15 14:51:16 - INFO - Iniciando listener de clic derecho
+2025-05-15 14:51:16 - INFO - Hotkey alt+q registrado correctamente
+2025-05-15 14:51:17 - ERROR - Error al actualizar lista de mesas: 'Tableview' object has no attribute 'insert'
+2025-05-15 14:51:17 - INFO - Historial cargado: 4 entradas
+2025-05-15 14:51:17 - INFO - Actualizando treeview con 4 entradas de historial
+2025-05-15 14:51:17 - ERROR - Error al insertar en treeview: 'Tableview' object has no attribute 'insert'
+2025-05-15 14:51:17 - ERROR - Error al insertar en treeview: 'Tableview' object has no attribute 'insert'
+2025-05-15 14:51:17 - ERROR - Error al insertar en treeview: 'Tableview' object has no attribute 'insert'
+2025-05-15 14:51:17 - ERROR - Error al insertar en treeview: 'Tableview' object has no attribute 'insert'
+2025-05-15 14:51:17 - INFO - Se mostraron 4 entradas en el historial
+2025-05-15 14:51:17 - INFO - Hotkey alt+q registrada correctamente
+2025-05-15 14:51:17 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-15 14:51:17 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-15 14:51:48 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 14:51:48 - INFO - Mesa encontrada: 0.2/0.4 6max 🇲🇾①
+2025-05-15 14:51:48 - INFO - Iniciando análisis de mesa
+2025-05-15 14:51:48 - INFO - Leyendo nick...
+2025-05-15 14:51:48 - INFO - PaddleOCR detectó: 'edwin chan' (confianza: 0.98)
+2025-05-15 14:51:48 - INFO - Nick final: 'edwin chan'
+2025-05-15 14:51:48 - INFO - Nick detectado: 'edwin chan'
+2025-05-15 14:51:48 - INFO - Historial cargado: 4 entradas
+2025-05-15 14:51:48 - INFO - Análisis existente encontrado para edwin chan con los mismos stats
+2025-05-15 14:51:48 - INFO - Usando análisis existente para edwin chan
+2025-05-15 14:51:48 - INFO - Stats: VPIP:70 PFR:7 3B:0 F3B:None WTSD:37 WSD:44 CF:50 CT:0
+2025-05-15 14:51:48 - INFO - Análisis: 🎯 Informe sobre edwin chan:
+
+1️⃣ Estilo de juego: Muy pasivo, VPIP alto pero PFR muy bajo.
+
+2️⃣ Erro...
+2025-05-15 14:51:48 - INFO - Texto pegado en ventana de poker
+2025-05-15 14:51:48 - INFO - Historial cargado: 4 entradas
+2025-05-15 14:51:48 - INFO - Historial cargado para agregar entrada: 4 entradas existentes
+2025-05-15 14:51:48 - INFO - Jugador edwin chan ya existe con los mismos stats, no se agrega al historial
+2025-05-15 14:51:48 - INFO - Actualización de historial UI programada
+2025-05-15 14:51:48 - INFO - Análisis completado con éxito
+2025-05-15 14:51:49 - INFO - Historial cargado: 4 entradas
+2025-05-15 14:51:49 - INFO - Actualizando treeview con 4 entradas de historial
+2025-05-15 14:51:49 - ERROR - Error al insertar en treeview: 'Tableview' object has no attribute 'insert'
+2025-05-15 14:51:49 - ERROR - Error al insertar en treeview: 'Tableview' object has no attribute 'insert'
+2025-05-15 14:51:49 - ERROR - Error al insertar en treeview: 'Tableview' object has no attribute 'insert'
+2025-05-15 14:51:49 - ERROR - Error al insertar en treeview: 'Tableview' object has no attribute 'insert'
+2025-05-15 14:51:49 - INFO - Se mostraron 4 entradas en el historial
+2025-05-15 14:51:49 - INFO - Historial UI actualizado correctamente
+2025-05-15 14:53:02 - INFO - Historial cargado: 4 entradas
+2025-05-15 14:53:02 - INFO - Últimas estadísticas copiadas al portapapeles
+2025-05-15 14:53:03 - INFO - Historial cargado: 4 entradas
+2025-05-15 14:53:03 - INFO - Último análisis copiado al portapapeles
+2025-05-15 14:54:58 - INFO - Historial cargado: 4 entradas
+2025-05-15 14:54:58 - INFO - Actualizando treeview con 4 entradas de historial
+2025-05-15 14:54:58 - ERROR - Error al insertar en treeview: 'Tableview' object has no attribute 'insert'
+2025-05-15 14:54:58 - ERROR - Error al insertar en treeview: 'Tableview' object has no attribute 'insert'
+2025-05-15 14:54:58 - ERROR - Error al insertar en treeview: 'Tableview' object has no attribute 'insert'
+2025-05-15 14:54:58 - ERROR - Error al insertar en treeview: 'Tableview' object has no attribute 'insert'
+2025-05-15 14:54:58 - INFO - Se mostraron 4 entradas en el historial
+2025-05-15 14:55:11 - INFO - Iniciando PokerBot Pro...
+2025-05-15 14:55:12 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-15 14:55:12 - INFO - Iniciando listener de clic derecho
+2025-05-15 14:55:12 - INFO - Hotkey alt+q registrado correctamente
+2025-05-15 14:55:13 - ERROR - Error al actualizar lista de mesas: 'Tableview' object has no attribute 'insert'
+2025-05-15 14:55:13 - INFO - Historial cargado: 4 entradas
+2025-05-15 14:55:13 - INFO - Actualizando treeview con 4 entradas de historial
+2025-05-15 14:55:13 - ERROR - Error al actualizar datos de historial: 'Tableview' object has no attribute '_coldata'
+2025-05-15 14:55:13 - INFO - Hotkey alt+q registrada correctamente
+2025-05-15 14:55:13 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-15 14:55:13 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-15 14:55:19 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 14:55:19 - INFO - Mesa encontrada: 0.2/0.4 6max 🇲🇾①
+2025-05-15 14:55:19 - INFO - Iniciando análisis de mesa
+2025-05-15 14:55:19 - INFO - Leyendo nick...
+2025-05-15 14:55:19 - INFO - PaddleOCR detectó: 'edwin chan' (confianza: 0.98)
+2025-05-15 14:55:19 - INFO - Nick final: 'edwin chan'
+2025-05-15 14:55:19 - INFO - Nick detectado: 'edwin chan'
+2025-05-15 14:55:19 - INFO - Historial cargado: 4 entradas
+2025-05-15 14:55:19 - INFO - Análisis existente encontrado para edwin chan con los mismos stats
+2025-05-15 14:55:19 - INFO - Usando análisis existente para edwin chan
+2025-05-15 14:55:19 - INFO - Stats: VPIP:70 PFR:7 3B:0 F3B:None WTSD:37 WSD:44 CF:50 CT:0
+2025-05-15 14:55:19 - INFO - Análisis: 🎯 Informe sobre edwin chan:
+
+1️⃣ Estilo de juego: Muy pasivo, VPIP alto pero PFR muy bajo.
+
+2️⃣ Erro...
+2025-05-15 14:55:19 - INFO - Texto pegado en ventana de poker
+2025-05-15 14:55:19 - INFO - Historial cargado: 4 entradas
+2025-05-15 14:55:19 - INFO - Historial cargado para agregar entrada: 4 entradas existentes
+2025-05-15 14:55:19 - INFO - Jugador edwin chan ya existe con los mismos stats, no se agrega al historial
+2025-05-15 14:55:19 - INFO - Actualización de historial UI programada
+2025-05-15 14:55:19 - INFO - Análisis completado con éxito
+2025-05-15 14:55:20 - INFO - Historial cargado: 4 entradas
+2025-05-15 14:55:20 - INFO - Actualizando treeview con 4 entradas de historial
+2025-05-15 14:55:20 - ERROR - Error al actualizar datos de historial: 'Tableview' object has no attribute '_coldata'
+2025-05-15 14:55:20 - INFO - Historial UI actualizado correctamente
+2025-05-15 14:55:41 - ERROR - Error al mostrar detalles: name 'messagebox' is not defined
+2025-05-15 14:55:58 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 14:55:58 - INFO - Mesa encontrada: 0.2/0.4 6max 🇲🇾①
+2025-05-15 14:55:58 - INFO - Iniciando análisis de mesa
+2025-05-15 14:55:58 - INFO - Detectado cambio de jugador en la misma ventana
+2025-05-15 14:55:58 - INFO - La ventana cambió, obteniendo nuevo nick...
+2025-05-15 14:55:58 - INFO - Leyendo nick...
+2025-05-15 14:55:59 - ERROR - Error en PaddleOCR: could not execute a primitive
+2025-05-15 14:55:59 - INFO - Tesseract detectó: 'nabohh'
+2025-05-15 14:55:59 - INFO - Nick final: 'nabohh'
+2025-05-15 14:55:59 - INFO - Nick detectado: 'nabohh'
+2025-05-15 14:56:00 - ERROR - Error al obtener/analizar stats: Error al obtener stats: Código 404, {"message":"Jugador 'nabohh' no encontrado en la sala 'XPK'."}
+2025-05-15 14:56:08 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 14:56:08 - INFO - Mesa encontrada: 0.2/0.4 6max 🇲🇾①
+2025-05-15 14:56:08 - INFO - Iniciando análisis de mesa
+2025-05-15 14:56:08 - INFO - Leyendo nick...
+2025-05-15 14:56:08 - INFO - PaddleOCR detectó: 'junhong1201' (confianza: 0.98)
+2025-05-15 14:56:08 - INFO - Nick final: 'junhong1201'
+2025-05-15 14:56:08 - INFO - Nick detectado: 'junhong1201'
+2025-05-15 14:56:08 - INFO - Historial cargado: 4 entradas
+2025-05-15 14:56:08 - INFO - Análisis existente encontrado para junhong1201 con los mismos stats
+2025-05-15 14:56:08 - INFO - Usando análisis existente para junhong1201
+2025-05-15 14:56:08 - INFO - Stats: VPIP:62 PFR:0 3B:0 F3B:None WTSD:31 WSD:60 CF:None CT:None
+2025-05-15 14:56:08 - INFO - Análisis: 🎯 Informe sobre junhong1201:
+
+1️⃣ Estilo de juego: 
+Extremadamente pasivo, juega muchas manos pero n...
+2025-05-15 14:56:09 - INFO - Texto pegado en ventana de poker
+2025-05-15 14:56:09 - INFO - Historial cargado: 4 entradas
+2025-05-15 14:56:09 - INFO - Historial cargado para agregar entrada: 4 entradas existentes
+2025-05-15 14:56:09 - INFO - Jugador junhong1201 ya existe con los mismos stats, no se agrega al historial
+2025-05-15 14:56:09 - INFO - Actualización de historial UI programada
+2025-05-15 14:56:09 - INFO - Análisis completado con éxito
+2025-05-15 14:56:09 - INFO - Historial cargado: 4 entradas
+2025-05-15 14:56:09 - INFO - Actualizando treeview con 4 entradas de historial
+2025-05-15 14:56:09 - ERROR - Error al actualizar datos de historial: 'Tableview' object has no attribute '_coldata'
+2025-05-15 14:56:09 - INFO - Historial UI actualizado correctamente
+2025-05-15 14:56:20 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 14:56:20 - INFO - Mesa encontrada: 0.2/0.4 6max 🇲🇾①
+2025-05-15 14:56:20 - INFO - Iniciando análisis de mesa
+2025-05-15 14:56:20 - INFO - Detectado cambio de jugador en la misma ventana
+2025-05-15 14:56:20 - INFO - La ventana cambió, obteniendo nuevo nick...
+2025-05-15 14:56:20 - INFO - Leyendo nick...
+2025-05-15 14:56:20 - ERROR - Error en PaddleOCR: could not execute a primitive
+2025-05-15 14:56:21 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 14:56:21 - INFO - Mesa encontrada: 0.2/0.4 6max 🇲🇾①
+2025-05-15 14:56:21 - INFO - Iniciando análisis de mesa
+2025-05-15 14:56:21 - INFO - Detectado cambio de jugador en la misma ventana
+2025-05-15 14:56:21 - INFO - La ventana cambió, obteniendo nuevo nick...
+2025-05-15 14:56:21 - INFO - Tesseract detectó: 'garyhong'
+2025-05-15 14:56:21 - INFO - Nick final: 'garyhong'
+2025-05-15 14:56:21 - INFO - Nick detectado: 'garyhong'
+2025-05-15 14:56:21 - INFO - Leyendo nick...
+2025-05-15 14:56:21 - ERROR - Error al obtener/analizar stats: Error al obtener stats: Código 404, {"message":"Jugador 'garyhong' no encontrado en la sala 'XPK'."}
+2025-05-15 14:56:21 - INFO - PaddleOCR detectó: 'garyhong' (confianza: 1.00)
+2025-05-15 14:56:21 - INFO - Nick final: 'garyhong'
+2025-05-15 14:56:21 - INFO - Nick detectado: 'garyhong'
+2025-05-15 14:56:21 - ERROR - Error al obtener/analizar stats: Error al obtener stats: Código 404, {"message":"Jugador 'garyhong' no encontrado en la sala 'XPK'."}
+2025-05-15 14:56:26 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 14:56:26 - INFO - Mesa encontrada: 0.2/0.4 6max 🇲🇾①
+2025-05-15 14:56:26 - INFO - Iniciando análisis de mesa
+2025-05-15 14:56:26 - INFO - Leyendo nick...
+2025-05-15 14:56:26 - ERROR - Error en PaddleOCR: could not execute a primitive
+2025-05-15 14:56:27 - INFO - Tesseract detectó: 'XP238233'
+2025-05-15 14:56:27 - INFO - Nick final: 'XP238233'
+2025-05-15 14:56:27 - INFO - Nick detectado: 'XP238233'
+2025-05-15 14:56:27 - ERROR - Error al obtener/analizar stats: Error al obtener stats: Código 404, {"message":"Jugador 'XP238233' no encontrado en la sala 'XPK'."}
+2025-05-15 14:56:34 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 14:56:34 - INFO - Mesa encontrada: 0.1/0.2 6max 🇲🇾
+2025-05-15 14:56:34 - INFO - Iniciando análisis de mesa
+2025-05-15 14:56:34 - INFO - Leyendo nick...
+2025-05-15 14:56:34 - INFO - PaddleOCR detectó: 'JPforme' (confianza: 0.99)
+2025-05-15 14:56:34 - INFO - Nick final: 'JPforme'
+2025-05-15 14:56:34 - INFO - Nick detectado: 'JPforme'
+2025-05-15 14:56:34 - ERROR - Error al obtener/analizar stats: Error al obtener stats: Código 404, {"message":"Jugador 'JPforme' no encontrado en la sala 'XPK'."}
+2025-05-15 14:56:37 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 14:56:37 - INFO - Mesa encontrada: 0.1/0.2 6max 🇲🇾
+2025-05-15 14:56:37 - INFO - Iniciando análisis de mesa
+2025-05-15 14:56:37 - INFO - Leyendo nick...
+2025-05-15 14:56:37 - ERROR - Error en PaddleOCR: could not execute a primitive
+2025-05-15 14:56:38 - INFO - Tesseract detectó: 'Brandon Martir'
+2025-05-15 14:56:38 - INFO - Nick final: 'Brandon Martir'
+2025-05-15 14:56:38 - INFO - Nick detectado: 'Brandon Martir'
+2025-05-15 14:56:38 - INFO - Historial cargado: 4 entradas
+2025-05-15 14:56:41 - INFO - Nuevo análisis generado para Brandon Martir
+2025-05-15 14:56:41 - INFO - Stats: VPIP:55 PFR:14 3B:7 F3B:7 WTSD:31 WSD:42 CF:60 CT:37
+2025-05-15 14:56:41 - INFO - Análisis: 🎯 Informe sobre Brandon Martir:
+
+1️⃣ Estilo de juego: Pasivo preflop con agresión inconsistente post...
+2025-05-15 14:56:42 - INFO - Texto pegado en ventana de poker
+2025-05-15 14:56:42 - INFO - Historial cargado: 4 entradas
+2025-05-15 14:56:42 - INFO - Historial cargado para agregar entrada: 4 entradas existentes
+2025-05-15 14:56:42 - INFO - Historial guardado: 5 entradas
+2025-05-15 14:56:42 - INFO - Entrada añadida/actualizada en el historial. Total: 5 entradas
+2025-05-15 14:56:42 - INFO - Actualización de historial UI programada
+2025-05-15 14:56:42 - INFO - Análisis completado con éxito
+2025-05-15 14:56:42 - INFO - Historial cargado: 5 entradas
+2025-05-15 14:56:42 - INFO - Actualizando treeview con 5 entradas de historial
+2025-05-15 14:56:42 - ERROR - Error al actualizar datos de historial: 'Tableview' object has no attribute '_coldata'
+2025-05-15 14:56:42 - INFO - Historial UI actualizado correctamente
+2025-05-15 14:59:03 - INFO - Iniciando PokerBot Pro...
+2025-05-15 14:59:05 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-15 14:59:05 - INFO - Iniciando listener de clic derecho
+2025-05-15 14:59:05 - INFO - Hotkey alt+q registrado correctamente
+2025-05-15 14:59:05 - ERROR - Error al actualizar lista de mesas: 'Tableview' object has no attribute 'insert'
+2025-05-15 14:59:05 - INFO - Historial cargado: 5 entradas
+2025-05-15 14:59:05 - INFO - Actualizando treeview con 5 entradas de historial
+2025-05-15 14:59:05 - INFO - Se mostraron 5 entradas en el historial
+2025-05-15 14:59:05 - INFO - Hotkey alt+q registrada correctamente
+2025-05-15 14:59:05 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-15 14:59:05 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-15 14:59:12 - ERROR - Error al mostrar detalles: 'TableRow' object is not subscriptable
+2025-05-15 14:59:15 - ERROR - Error al mostrar detalles: 'TableRow' object is not subscriptable
+2025-05-15 14:59:31 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 14:59:31 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-15 15:00:12 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 15:00:12 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-15 15:00:34 - ERROR - Error al mostrar detalles: 'TableRow' object is not subscriptable
+2025-05-15 15:10:24 - INFO - Iniciando PokerBot Pro...
+2025-05-15 15:10:26 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-15 15:10:26 - INFO - Iniciando listener de clic derecho
+2025-05-15 15:10:26 - INFO - Hotkey alt+q registrado correctamente
+2025-05-15 15:10:26 - ERROR - Error al actualizar lista de mesas: 'Tableview' object has no attribute 'insert'
+2025-05-15 15:10:26 - INFO - Historial cargado: 5 entradas
+2025-05-15 15:10:26 - INFO - Actualizando treeview con 5 entradas de historial
+2025-05-15 15:10:26 - INFO - Se mostraron 5 entradas en el historial
+2025-05-15 15:10:26 - INFO - Hotkey alt+q registrada correctamente
+2025-05-15 15:10:26 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-15 15:10:26 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-15 15:10:30 - INFO - Buscando detalles para james2546 del 2025-05-15 13:51:19
+2025-05-15 15:10:30 - INFO - Historial cargado: 5 entradas
+2025-05-15 15:10:30 - ERROR - Error al mostrar detalles: unknown option "-state"
+2025-05-15 15:10:30 - ERROR - Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\ui\tabs\history_tab.py", line 238, in view_details
+    show_details_dialog(parent, entry, config)
+  File "C:\Users\USER\Desktop\pokerprosof\src\ui\dialogs\details_dialog.py", line 63, in show_details_dialog
+    stats_text.configure(state="disabled")
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\site-packages\ttkbootstrap\style.py", line 5003, in configure
+    func(self, cnf, **kwargs)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\tkinter\__init__.py", line 1675, in configure
+    return self._configure('configure', cnf, kw)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\tkinter\__init__.py", line 1665, in _configure
+    self.tk.call(_flatten((self._w, cmd)) + self._options(cnf))
+_tkinter.TclError: unknown option "-state"
+
+2025-05-15 15:10:35 - INFO - Buscando detalles para Brandon Martir del 2025-05-15 14:56:42
+2025-05-15 15:10:35 - INFO - Historial cargado: 5 entradas
+2025-05-15 15:10:35 - ERROR - Error al mostrar detalles: unknown option "-state"
+2025-05-15 15:10:35 - ERROR - Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\ui\tabs\history_tab.py", line 238, in view_details
+    show_details_dialog(parent, entry, config)
+  File "C:\Users\USER\Desktop\pokerprosof\src\ui\dialogs\details_dialog.py", line 63, in show_details_dialog
+    stats_text.configure(state="disabled")
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\site-packages\ttkbootstrap\style.py", line 5003, in configure
+    func(self, cnf, **kwargs)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\tkinter\__init__.py", line 1675, in configure
+    return self._configure('configure', cnf, kw)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\tkinter\__init__.py", line 1665, in _configure
+    self.tk.call(_flatten((self._w, cmd)) + self._options(cnf))
+_tkinter.TclError: unknown option "-state"
+
+2025-05-15 15:14:03 - INFO - Iniciando PokerBot Pro...
+2025-05-15 15:14:05 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-15 15:14:05 - INFO - Iniciando listener de clic derecho
+2025-05-15 15:14:05 - INFO - Hotkey alt+q registrado correctamente
+2025-05-15 15:14:05 - ERROR - Error al actualizar lista de mesas: 'Tableview' object has no attribute 'insert'
+2025-05-15 15:14:05 - INFO - Historial cargado: 5 entradas
+2025-05-15 15:14:05 - INFO - Actualizando treeview con 5 entradas de historial
+2025-05-15 15:14:05 - INFO - Se mostraron 5 entradas en el historial
+2025-05-15 15:14:05 - INFO - Hotkey alt+q registrada correctamente
+2025-05-15 15:14:05 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-15 15:14:05 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-15 15:14:08 - INFO - Buscando detalles para Brandon Martir del 2025-05-15 14:56:42
+2025-05-15 15:14:08 - INFO - Historial cargado: 5 entradas
+2025-05-15 15:14:08 - ERROR - Error al mostrar detalles: unknown option "-state"
+2025-05-15 15:14:08 - ERROR - Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\ui\tabs\history_tab.py", line 238, in view_details
+    show_details_dialog(parent, entry, config)
+  File "C:\Users\USER\Desktop\pokerprosof\src\ui\dialogs\details_dialog.py", line 63, in show_details_dialog
+    stats_text.configure(state="disabled")
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\site-packages\ttkbootstrap\style.py", line 5003, in configure
+    func(self, cnf, **kwargs)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\tkinter\__init__.py", line 1675, in configure
+    return self._configure('configure', cnf, kw)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\tkinter\__init__.py", line 1665, in _configure
+    self.tk.call(_flatten((self._w, cmd)) + self._options(cnf))
+_tkinter.TclError: unknown option "-state"
+
+2025-05-15 15:22:23 - INFO - Iniciando PokerBot Pro...
+2025-05-15 15:22:25 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-15 15:22:25 - INFO - Iniciando listener de clic derecho
+2025-05-15 15:22:25 - INFO - Hotkey alt+q registrado correctamente
+2025-05-15 15:22:25 - INFO - Ventana creada con el módulo de compatibilidad
+2025-05-15 15:22:25 - WARNING - Error al crear combobox: Duplicate element Horizontal.TScrollbar.thumb
+2025-05-15 15:22:25 - ERROR - Error al actualizar lista de mesas: 'Tableview' object has no attribute 'insert'
+2025-05-15 15:22:25 - INFO - Historial cargado: 5 entradas
+2025-05-15 15:22:25 - INFO - Actualizando treeview con 5 entradas de historial
+2025-05-15 15:22:25 - INFO - Se mostraron 5 entradas en el historial
+2025-05-15 15:22:25 - INFO - Hotkey alt+q registrada correctamente
+2025-05-15 15:22:25 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-15 15:22:25 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-15 15:22:30 - INFO - Historial cargado: 5 entradas
+2025-05-15 15:22:30 - INFO - Últimas estadísticas copiadas al portapapeles
+2025-05-15 15:22:31 - INFO - Historial cargado: 5 entradas
+2025-05-15 15:22:31 - INFO - Últimas estadísticas copiadas al portapapeles
+2025-05-15 15:22:38 - INFO - Buscando detalles para Brandon Martir del 2025-05-15 14:56:42
+2025-05-15 15:22:38 - INFO - Historial cargado: 5 entradas
+2025-05-15 15:25:13 - INFO - Iniciando PokerBot Pro...
+2025-05-15 15:25:15 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-15 15:25:15 - INFO - Iniciando listener de clic derecho
+2025-05-15 15:25:15 - INFO - Hotkey alt+q registrado correctamente
+2025-05-15 15:25:15 - INFO - Ventana creada con el módulo de compatibilidad
+2025-05-15 15:25:15 - WARNING - Error al crear combobox: Duplicate element Horizontal.TScrollbar.thumb
+2025-05-15 15:25:15 - ERROR - Error al actualizar lista de mesas: 'Tableview' object has no attribute 'insert'
+2025-05-15 15:25:15 - INFO - Historial cargado: 5 entradas
+2025-05-15 15:25:15 - INFO - Actualizando treeview con 5 entradas de historial
+2025-05-15 15:25:15 - INFO - Se mostraron 5 entradas en el historial
+2025-05-15 15:25:15 - INFO - Hotkey alt+q registrada correctamente
+2025-05-15 15:25:15 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-15 15:25:15 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-15 15:25:21 - INFO - Buscando detalles para Brandon Martir del 2025-05-15 14:56:42
+2025-05-15 15:25:21 - INFO - Historial cargado: 5 entradas
+2025-05-15 15:25:58 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 15:25:58 - INFO - Mesa encontrada: 0.2/0.4 6max 🇲🇾①
+2025-05-15 15:25:58 - INFO - Iniciando análisis de mesa
+2025-05-15 15:25:58 - INFO - Leyendo nick...
+2025-05-15 15:25:58 - INFO - PaddleOCR detectó: 'DDG6789' (confianza: 1.00)
+2025-05-15 15:25:58 - INFO - Nick final: 'DDG6789'
+2025-05-15 15:25:58 - INFO - Nick detectado: 'DDG6789'
+2025-05-15 15:25:58 - ERROR - Error al obtener/analizar stats: Error al obtener stats: Código 404, {"message":"Jugador 'DDG6789' no encontrado en la sala 'XPK'."}
+2025-05-15 15:26:02 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 15:26:02 - INFO - Mesa encontrada: 0.2/0.4 6max 🇲🇾①
+2025-05-15 15:26:02 - INFO - Iniciando análisis de mesa
+2025-05-15 15:26:02 - INFO - Leyendo nick...
+2025-05-15 15:26:02 - ERROR - Error en PaddleOCR: could not execute a primitive
+2025-05-15 15:26:03 - INFO - Tesseract detectó: 'garyhong'
+2025-05-15 15:26:03 - INFO - Nick final: 'garyhong'
+2025-05-15 15:26:03 - INFO - Nick detectado: 'garyhong'
+2025-05-15 15:26:03 - ERROR - Error al obtener/analizar stats: Error al obtener stats: Código 404, {"message":"Jugador 'garyhong' no encontrado en la sala 'XPK'."}
+2025-05-15 15:26:06 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 15:26:06 - INFO - Mesa encontrada: 0.2/0.4 6max 🇲🇾①
+2025-05-15 15:26:06 - INFO - Iniciando análisis de mesa
+2025-05-15 15:26:07 - INFO - Leyendo nick...
+2025-05-15 15:26:07 - INFO - PaddleOCR detectó: 'XP238233' (confianza: 1.00)
+2025-05-15 15:26:07 - INFO - Nick final: 'XP238233'
+2025-05-15 15:26:07 - INFO - Nick detectado: 'XP238233'
+2025-05-15 15:26:07 - ERROR - Error al obtener/analizar stats: Error al obtener stats: Código 404, {"message":"Jugador 'XP238233' no encontrado en la sala 'XPK'."}
+2025-05-15 15:26:10 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 15:26:10 - INFO - Mesa encontrada: 0.2/0.4 6max 🇲🇾①
+2025-05-15 15:26:10 - INFO - Iniciando análisis de mesa
+2025-05-15 15:26:10 - INFO - Leyendo nick...
+2025-05-15 15:26:10 - ERROR - Error en PaddleOCR: could not execute a primitive
+2025-05-15 15:26:10 - INFO - Tesseract detectó: 'edwin chan'
+2025-05-15 15:26:10 - INFO - Nick final: 'edwin chan'
+2025-05-15 15:26:10 - INFO - Nick detectado: 'edwin chan'
+2025-05-15 15:26:11 - INFO - Historial cargado: 5 entradas
+2025-05-15 15:26:11 - INFO - Análisis existente encontrado para edwin chan con los mismos stats
+2025-05-15 15:26:11 - INFO - Usando análisis existente para edwin chan
+2025-05-15 15:26:11 - INFO - Stats: VPIP:70 PFR:7 3B:0 F3B:None WTSD:37 WSD:44 CF:50 CT:0
+2025-05-15 15:26:11 - INFO - Análisis: 🎯 Informe sobre edwin chan:
+
+1️⃣ Estilo de juego: Muy pasivo, VPIP alto pero PFR muy bajo.
+
+2️⃣ Erro...
+2025-05-15 15:26:11 - INFO - Texto pegado en ventana de poker
+2025-05-15 15:26:11 - INFO - Historial cargado: 5 entradas
+2025-05-15 15:26:11 - INFO - Historial cargado para agregar entrada: 5 entradas existentes
+2025-05-15 15:26:11 - INFO - Jugador edwin chan ya existe con los mismos stats, no se agrega al historial
+2025-05-15 15:26:11 - INFO - Actualización de historial UI programada
+2025-05-15 15:26:11 - INFO - Análisis completado con éxito
+2025-05-15 15:26:11 - INFO - Historial cargado: 5 entradas
+2025-05-15 15:26:11 - INFO - Actualizando treeview con 5 entradas de historial
+2025-05-15 15:26:11 - INFO - Se mostraron 5 entradas en el historial
+2025-05-15 15:26:11 - INFO - Historial UI actualizado correctamente
+2025-05-15 15:26:16 - INFO - Buscando detalles para edwin chan del 2025-05-15 14:02:09
+2025-05-15 15:26:16 - INFO - Historial cargado: 5 entradas
+2025-05-15 15:27:51 - INFO - Iniciando PokerBot Pro...
+2025-05-15 15:27:53 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-15 15:27:53 - INFO - Iniciando listener de clic derecho
+2025-05-15 15:27:53 - INFO - Hotkey alt+q registrado correctamente
+2025-05-15 15:27:53 - INFO - Ventana creada con el módulo de compatibilidad
+2025-05-15 15:27:53 - WARNING - Error al crear combobox: Duplicate element Horizontal.TScrollbar.thumb
+2025-05-15 15:27:54 - INFO - Historial cargado: 5 entradas
+2025-05-15 15:27:54 - INFO - Actualizando treeview con 5 entradas de historial
+2025-05-15 15:27:54 - INFO - Se mostraron 5 entradas en el historial
+2025-05-15 15:27:54 - INFO - Hotkey alt+q registrada correctamente
+2025-05-15 15:27:54 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-15 15:27:54 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-15 15:28:08 - INFO - Buscando detalles para Brandon Martir del 2025-05-15 14:56:42
+2025-05-15 15:28:08 - INFO - Historial cargado: 5 entradas
+2025-05-15 15:29:39 - INFO - Iniciando PokerBot Pro...
+2025-05-15 15:29:40 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-15 15:29:40 - INFO - Iniciando listener de clic derecho
+2025-05-15 15:29:40 - INFO - Hotkey alt+q registrado correctamente
+2025-05-15 15:29:40 - INFO - Ventana creada con el módulo de compatibilidad
+2025-05-15 15:29:40 - WARNING - Error al crear combobox: Duplicate element Horizontal.TScrollbar.thumb
+2025-05-15 15:29:41 - INFO - Historial cargado: 5 entradas
+2025-05-15 15:29:41 - INFO - Actualizando treeview con 5 entradas de historial
+2025-05-15 15:29:41 - INFO - Se mostraron 5 entradas en el historial
+2025-05-15 15:29:41 - INFO - Hotkey alt+q registrada correctamente
+2025-05-15 15:29:41 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-15 15:29:41 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-15 15:29:54 - INFO - Buscando detalles para Brandon Martir del 2025-05-15 14:56:42
+2025-05-15 15:29:54 - INFO - Historial cargado: 5 entradas
+2025-05-15 15:30:22 - INFO - Historial cargado: 5 entradas
+2025-05-15 15:30:22 - INFO - Historial guardado: 5 entradas
+2025-05-15 15:30:29 - INFO - Buscando detalles para Brandon Martir del 2025-05-15 14:56:42
+2025-05-15 15:30:29 - INFO - Historial cargado: 5 entradas
+2025-05-15 15:30:36 - INFO - Buscando detalles para Brandon Martir del 2025-05-15 14:56:42
+2025-05-15 15:30:36 - INFO - Historial cargado: 5 entradas
+2025-05-15 15:31:04 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 15:31:04 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-15 15:31:54 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-15 15:31:54 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-15 15:31:54 - INFO - Cerrando aplicación...
+2025-05-15 15:31:54 - INFO - Deteniendo listener de clic derecho
+2025-05-15 15:31:54 - INFO - Aplicación cerrada correctamente
+2025-05-15 15:32:03 - INFO - Iniciando PokerBot Pro...
+2025-05-15 15:32:05 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-15 15:32:05 - INFO - Iniciando listener de clic derecho
+2025-05-15 15:32:05 - INFO - Hotkey alt+q registrado correctamente
+2025-05-15 15:32:05 - INFO - Ventana creada con el módulo de compatibilidad
+2025-05-15 15:32:05 - WARNING - Error al crear combobox: Duplicate element Horizontal.TScrollbar.thumb
+2025-05-15 15:32:05 - INFO - Historial cargado: 5 entradas
+2025-05-15 15:32:05 - INFO - Actualizando treeview con 5 entradas de historial
+2025-05-15 15:32:05 - INFO - Se mostraron 5 entradas en el historial
+2025-05-15 15:32:05 - INFO - Hotkey alt+q registrada correctamente
+2025-05-15 15:32:05 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-15 15:32:05 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-15 15:32:34 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 15:32:34 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-15 15:32:50 - INFO - Buscando detalles para Brandon Martir del 2025-05-15 14:56:42
+2025-05-15 15:32:50 - INFO - Historial cargado: 5 entradas
+2025-05-15 15:37:36 - INFO - Iniciando PokerBot TRACK...
+2025-05-15 15:37:37 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-15 15:37:37 - INFO - Iniciando listener de clic derecho
+2025-05-15 15:37:38 - INFO - Hotkey alt+q registrado correctamente
+2025-05-15 15:37:38 - INFO - Ventana creada con el módulo de compatibilidad
+2025-05-15 15:37:38 - WARNING - Error al crear combobox: Duplicate element Horizontal.TScrollbar.thumb
+2025-05-15 15:37:38 - INFO - Historial cargado: 5 entradas
+2025-05-15 15:37:38 - INFO - Actualizando treeview con 5 entradas de historial
+2025-05-15 15:37:38 - INFO - Se mostraron 5 entradas en el historial
+2025-05-15 15:37:38 - INFO - Hotkey alt+q registrada correctamente
+2025-05-15 15:37:38 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-15 15:37:38 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-15 15:37:41 - INFO - Buscando detalles para Brandon Martir del 2025-05-15 14:56:42
+2025-05-15 15:37:41 - INFO - Historial cargado: 5 entradas
+2025-05-15 15:37:41 - ERROR - Error al mostrar detalles: cannot import name 'apply_dark_theme' from 'src.utils.ttkbootstrap_compat' (C:\Users\USER\Desktop\pokerprosof\src\utils\ttkbootstrap_compat.py)
+2025-05-15 15:37:41 - ERROR - Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\ui\tabs\history_tab.py", line 246, in view_details
+    show_details_dialog(parent, entry, config)
+  File "C:\Users\USER\Desktop\pokerprosof\src\ui\dialogs\details_dialog.py", line 57, in show_details_dialog
+    from src.utils.ttkbootstrap_compat import apply_dark_theme
+ImportError: cannot import name 'apply_dark_theme' from 'src.utils.ttkbootstrap_compat' (C:\Users\USER\Desktop\pokerprosof\src\utils\ttkbootstrap_compat.py)
+
+2025-05-15 15:38:42 - INFO - Iniciando PokerBot TRACK...
+2025-05-15 15:38:43 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-15 15:38:43 - INFO - Iniciando listener de clic derecho
+2025-05-15 15:38:44 - INFO - Hotkey alt+q registrado correctamente
+2025-05-15 15:38:44 - INFO - Ventana creada con el módulo de compatibilidad
+2025-05-15 15:38:44 - WARNING - Error al crear combobox: Duplicate element Horizontal.TScrollbar.thumb
+2025-05-15 15:38:44 - INFO - Historial cargado: 5 entradas
+2025-05-15 15:38:44 - INFO - Actualizando treeview con 5 entradas de historial
+2025-05-15 15:38:44 - INFO - Se mostraron 5 entradas en el historial
+2025-05-15 15:38:44 - INFO - Hotkey alt+q registrada correctamente
+2025-05-15 15:38:44 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-15 15:38:44 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-15 15:38:47 - INFO - Buscando detalles para Brandon Martir del 2025-05-15 14:56:42
+2025-05-15 15:38:47 - INFO - Historial cargado: 5 entradas
+2025-05-15 15:38:51 - INFO - Aplicación cerrada correctamente
+2025-05-15 15:38:51 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-15 15:38:51 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-15 15:38:51 - INFO - Cerrando aplicación...
+2025-05-15 15:38:51 - INFO - Deteniendo listener de clic derecho
+2025-05-15 15:38:51 - INFO - Aplicación cerrada correctamente
+2025-05-15 15:46:20 - INFO - Iniciando PokerBot TRACK...
+2025-05-15 15:46:21 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-15 15:46:21 - INFO - Iniciando listener de clic derecho
+2025-05-15 15:46:21 - INFO - Hotkey alt+q registrado correctamente
+2025-05-15 15:46:21 - INFO - Ventana creada con el módulo de compatibilidad
+2025-05-15 15:46:22 - WARNING - Error al crear combobox: Duplicate element Horizontal.TScrollbar.thumb
+2025-05-15 15:46:22 - INFO - Historial cargado: 5 entradas
+2025-05-15 15:46:22 - INFO - Actualizando treeview con 5 entradas de historial
+2025-05-15 15:46:22 - INFO - Se mostraron 5 entradas en el historial
+2025-05-15 15:46:22 - INFO - Hotkey alt+q registrada correctamente
+2025-05-15 15:46:22 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-15 15:46:22 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-15 15:46:28 - INFO - Buscando detalles para Brandon Martir del 2025-05-15 14:56:42
+2025-05-15 15:46:28 - INFO - Historial cargado: 5 entradas
+2025-05-15 15:47:10 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-15 15:47:10 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-15 15:47:10 - INFO - Cerrando aplicación...
+2025-05-15 15:47:10 - INFO - Deteniendo listener de clic derecho
+2025-05-15 15:47:10 - INFO - Aplicación cerrada correctamente
+2025-05-15 15:47:19 - INFO - Iniciando PokerBot TRACK...
+2025-05-15 15:47:20 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-15 15:47:20 - INFO - Iniciando listener de clic derecho
+2025-05-15 15:47:21 - INFO - Hotkey alt+q registrado correctamente
+2025-05-15 15:47:21 - INFO - Ventana creada con el módulo de compatibilidad
+2025-05-15 15:47:21 - WARNING - Error al crear combobox: Duplicate element Horizontal.TScrollbar.thumb
+2025-05-15 15:47:21 - INFO - Historial cargado: 5 entradas
+2025-05-15 15:47:21 - INFO - Actualizando treeview con 5 entradas de historial
+2025-05-15 15:47:21 - INFO - Se mostraron 5 entradas en el historial
+2025-05-15 15:47:21 - INFO - Hotkey alt+q registrada correctamente
+2025-05-15 15:47:21 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-15 15:47:21 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-15 15:47:28 - INFO - Buscando detalles para Brandon Martir del 2025-05-15 14:56:42
+2025-05-15 15:47:28 - INFO - Historial cargado: 5 entradas
+2025-05-15 15:47:41 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 15:47:41 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-15 15:50:41 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-15 15:50:41 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-15 15:50:41 - INFO - Cerrando aplicación...
+2025-05-15 15:50:41 - INFO - Deteniendo listener de clic derecho
+2025-05-15 15:50:41 - INFO - Aplicación cerrada correctamente
+2025-05-15 15:51:14 - INFO - Iniciando PokerBot TRACK...
+2025-05-15 15:51:15 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-15 15:51:15 - INFO - Iniciando listener de clic derecho
+2025-05-15 15:51:15 - INFO - Hotkey alt+q registrado correctamente
+2025-05-15 15:51:15 - INFO - Ventana creada con el módulo de compatibilidad
+2025-05-15 15:51:15 - WARNING - Error al crear combobox: Duplicate element Horizontal.TScrollbar.thumb
+2025-05-15 15:51:16 - INFO - Historial cargado: 5 entradas
+2025-05-15 15:51:16 - INFO - Actualizando treeview con 5 entradas de historial
+2025-05-15 15:51:16 - INFO - Se mostraron 5 entradas en el historial
+2025-05-15 15:51:16 - INFO - Hotkey alt+q registrada correctamente
+2025-05-15 15:51:16 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-15 15:51:16 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-15 15:51:21 - INFO - Buscando detalles para Brandon Martir del 2025-05-15 14:56:42
+2025-05-15 15:51:21 - INFO - Historial cargado: 5 entradas
+2025-05-15 15:52:29 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 15:52:29 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-15 15:52:34 - INFO - Buscando detalles para Brandon Martir del 2025-05-15 14:56:42
+2025-05-15 15:52:34 - INFO - Historial cargado: 5 entradas
+2025-05-15 15:52:55 - INFO - Historial cargado: 5 entradas
+2025-05-15 15:52:55 - INFO - Historial guardado: 5 entradas
+2025-05-15 15:53:01 - INFO - Buscando detalles para Brandon Martir del 2025-05-15 14:56:42
+2025-05-15 15:53:01 - INFO - Historial cargado: 5 entradas
+2025-05-15 15:53:07 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 15:53:07 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-15 15:53:32 - INFO - Clic derecho detectado, buscando mesa bajo el cursor
+2025-05-15 15:53:32 - WARNING - No se encontró una mesa bajo el cursor
+2025-05-15 15:54:13 - INFO - Buscando detalles para Brandon Martir del 2025-05-15 14:56:42
+2025-05-15 15:54:13 - INFO - Historial cargado: 5 entradas
+2025-05-15 16:08:13 - INFO - Iniciando PokerBot TRACK...
+2025-05-15 16:08:14 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-15 16:08:14 - INFO - Iniciando listener de clic derecho
+2025-05-15 16:08:14 - INFO - Hotkey alt+q registrado correctamente
+2025-05-15 16:08:15 - INFO - Ventana creada con el módulo de compatibilidad
+2025-05-15 16:08:15 - WARNING - Error al crear combobox: Duplicate element Horizontal.TScrollbar.thumb
+2025-05-15 16:08:15 - INFO - Historial cargado: 5 entradas
+2025-05-15 16:08:15 - INFO - Actualizando treeview con 5 entradas de historial
+2025-05-15 16:08:15 - INFO - Se mostraron 5 entradas en el historial
+2025-05-15 16:08:15 - INFO - Hotkey alt+q registrada correctamente
+2025-05-15 16:08:15 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-15 16:08:15 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-15 16:08:22 - INFO - Buscando detalles para Brandon Martir del 2025-05-15 14:56:42
+2025-05-15 16:08:22 - INFO - Historial cargado: 5 entradas
+2025-05-15 16:08:38 - INFO - Buscando detalles para KERNKRAFT40 del 2025-05-15 14:04:35
+2025-05-15 16:08:38 - INFO - Historial cargado: 5 entradas
+2025-05-15 16:09:55 - INFO - Buscando detalles para KERNKRAFT40 del 2025-05-15 14:04:35
+2025-05-15 16:09:55 - INFO - Historial cargado: 5 entradas
+2025-05-15 16:11:38 - INFO - Iniciando PokerBot TRACK...
+2025-05-15 16:11:39 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-15 16:11:39 - INFO - Iniciando listener de clic derecho
+2025-05-15 16:11:39 - INFO - Hotkey alt+q registrado correctamente
+2025-05-15 16:11:39 - INFO - Ventana creada con el módulo de compatibilidad
+2025-05-15 16:11:39 - WARNING - Error al crear combobox: Duplicate element Horizontal.TScrollbar.thumb
+2025-05-15 16:11:40 - INFO - Historial cargado: 5 entradas
+2025-05-15 16:11:40 - INFO - Actualizando treeview con 5 entradas de historial
+2025-05-15 16:11:40 - INFO - Se mostraron 5 entradas en el historial
+2025-05-15 16:11:40 - INFO - Hotkey alt+q registrada correctamente
+2025-05-15 16:11:40 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-15 16:11:40 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-15 16:11:47 - INFO - Buscando detalles para Brandon Martir del 2025-05-15 14:56:42
+2025-05-15 16:11:47 - INFO - Historial cargado: 5 entradas
+2025-05-15 16:11:47 - ERROR - Error al mostrar detalles: unknown option "-foreground"
+2025-05-15 16:11:47 - ERROR - Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\ui\tabs\history_tab.py", line 246, in view_details
+    show_details_dialog(parent, entry, config)
+  File "C:\Users\USER\Desktop\pokerprosof\src\ui\dialogs\details_dialog.py", line 338, in show_details_dialog
+    notes_frame.configure(foreground="white", background="#2d2d30")
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\site-packages\ttkbootstrap\style.py", line 5148, in configure
+    func(self, cnf, **kwargs)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\tkinter\__init__.py", line 1675, in configure
+    return self._configure('configure', cnf, kw)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\tkinter\__init__.py", line 1665, in _configure
+    self.tk.call(_flatten((self._w, cmd)) + self._options(cnf))
+_tkinter.TclError: unknown option "-foreground"
+
+2025-05-15 16:11:52 - INFO - Buscando detalles para junhong1201 del 2025-05-15 14:03:16
+2025-05-15 16:11:52 - INFO - Historial cargado: 5 entradas
+2025-05-15 16:11:52 - ERROR - Error al mostrar detalles: unknown option "-foreground"
+2025-05-15 16:11:52 - ERROR - Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\pokerprosof\src\ui\tabs\history_tab.py", line 246, in view_details
+    show_details_dialog(parent, entry, config)
+  File "C:\Users\USER\Desktop\pokerprosof\src\ui\dialogs\details_dialog.py", line 338, in show_details_dialog
+    notes_frame.configure(foreground="white", background="#2d2d30")
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\site-packages\ttkbootstrap\style.py", line 5148, in configure
+    func(self, cnf, **kwargs)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\tkinter\__init__.py", line 1675, in configure
+    return self._configure('configure', cnf, kw)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\tkinter\__init__.py", line 1665, in _configure
+    self.tk.call(_flatten((self._w, cmd)) + self._options(cnf))
+_tkinter.TclError: unknown option "-foreground"
+
+2025-05-15 16:22:19 - INFO - Iniciando PokerBot TRACK...
+2025-05-15 16:22:21 - INFO - OCR pre-inicializado correctamente con prueba de caracteres asiáticos
+2025-05-15 16:22:21 - INFO - Iniciando listener de clic derecho
+2025-05-15 16:22:21 - INFO - Hotkey alt+q registrado correctamente
+2025-05-15 16:22:21 - INFO - Ventana creada con el módulo de compatibilidad
+2025-05-15 16:22:21 - WARNING - Error al crear combobox: Duplicate element Horizontal.TScrollbar.thumb
+2025-05-15 16:22:21 - INFO - Historial cargado: 5 entradas
+2025-05-15 16:22:21 - INFO - Actualizando treeview con 5 entradas de historial
+2025-05-15 16:22:21 - INFO - Se mostraron 5 entradas en el historial
+2025-05-15 16:22:21 - INFO - Hotkey alt+q registrada correctamente
+2025-05-15 16:22:21 - INFO - === PokerBot Pro iniciado correctamente ===
+2025-05-15 16:22:21 - INFO - Presiona alt+q o haz clic derecho para analizar nick
+2025-05-15 16:22:25 - INFO - Buscando detalles para james2546 del 2025-05-15 13:51:19
+2025-05-15 16:22:25 - INFO - Historial cargado: 5 entradas
